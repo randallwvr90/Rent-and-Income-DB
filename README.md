@@ -41,8 +41,9 @@ This is the second group project for the GT Data Science Bootcamp!
 ## Data Sources
 * zillow dataset from kaggle for rent information
 https://www.kaggle.com/zillow/rent-index
-* acs per capita income data
-https://www.nhgis.org/
+* eviction lab data:
+https://evictionlab.org/#home-menu
+
 
 Other potential sources:
 Eviction information: https://data-downloads.evictionlab.org/
@@ -51,3 +52,5 @@ Wages: https://www.bls.gov/eag/
 Interactive map: https://evictionlab.org/#home-menu
 https://fred.stlouisfed.org/release/tables?eid=259515&rid=249
 census.gov
+acs per capita income data
+https://www.nhgis.org/
