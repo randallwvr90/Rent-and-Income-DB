@@ -21,6 +21,7 @@ This is the second group project for the GT Data Science Bootcamp!
   * Clean the data. 
   * Database Design
   * Database population - load the information
+  * flesh out the proposal - say how we will extract the data, what is the nature of each source, how will we transform and load (as far as we know)
 
 * challenges:
 
