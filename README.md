@@ -45,6 +45,7 @@ https://www.kaggle.com/zillow/rent-index
 https://www.nhgis.org/
 
 Other potential sources:
+Eviction information: https://data-downloads.evictionlab.org/
 Rent prices: https://www.apartmentlist.com/research/category/data-rent-estimates
 Wages: https://www.bls.gov/eag/
 Interactive map: https://evictionlab.org/#home-menu
