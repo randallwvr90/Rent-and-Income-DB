@@ -10,11 +10,19 @@
 This is the second group project for the GT Data Science Bootcamp!
 
 ## ETL Project Proposal
-* "top line"
-Create a database which contains historical rent and income information. 
-* nuts and bolts
-* challenges
-- from Prashanth, data set is already cleaned and they just present a summary
+* We propose to create a database which contains historical rent and income information. 
+
+* We will use data from zillow via kaggle for historical rent prices and data from the american community survey for historical per capita income. The data will be at the county level. See "Data Sources" for the data sources. 
+
+ * We will create a postgresql database which will contain the data. 
+
+* Next steps:
+* Determine what cleanup steps are necessary. 
+* Clean the data. 
+* Database Design
+* Database population - load the information
+
+* challenges:
 
 ## Team Members
 * Abishua Prashanth
