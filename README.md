@@ -23,6 +23,7 @@ This project is an "ETL" project - extract transform and load
   * Clean the data. 
   * Database Design
   * Database population - load the information
+  * Create a presentation (powerpoint) to present to the class
   
 * challenges:
 
