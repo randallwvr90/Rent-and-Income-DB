@@ -15,6 +15,17 @@ This is the second group project for the GT Data Science Bootcamp!
 * challenges
 
 ## Team Members
+* Abishua Prashanth
+* Wesley Watkins
+* Anthony Ndungu
+* Theodora James
+* Beverly Phillips - Scout
+* Sidney Henry
+* Di Gibson
+* Elsa Hernandez
+* Harsh Patel
+* Jason Degrace
+* Mark Alford
 * Randy Weaver - create repo, own README file, ...
 
 ## Data Sources
