@@ -16,7 +16,7 @@ This is the second group project for the GT Data Science Bootcamp!
 
 ## Data Sources
 * ideas: 
-** Gasoline production, oil production, climate—historical temperature, carbon dioxide
-** energy information agency for gasoline and oil data - shows drop during pandemic
-** intergovernmental climate change panel latest report
-** scripts institute of oceanography has co2 data
+* Gasoline production, oil production, climate—historical temperature, carbon dioxide
+* energy information agency for gasoline and oil data - shows drop during pandemic
+* intergovernmental climate change panel latest report
+* scripts institute of oceanography has co2 data
