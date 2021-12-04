@@ -8,6 +8,7 @@
 
 ## Background
 This is the second group project for the GT Data Science Bootcamp!
+This project is an "ETL" project - extract transform and load
 
 ## ETL Project Proposal
 * We propose to create a database which contains historical rent and income information. 
@@ -17,12 +18,12 @@ This is the second group project for the GT Data Science Bootcamp!
  * We will create a postgresql database which will contain the data. 
 
 * Next steps:
+  * flesh out the proposal - say how we will extract the data, what is the nature of each source, how will we transform and load (as far as we know)
   * Determine what cleanup steps are necessary. 
   * Clean the data. 
   * Database Design
   * Database population - load the information
-  * flesh out the proposal - say how we will extract the data, what is the nature of each source, how will we transform and load (as far as we know)
-
+  
 * challenges:
 
 ## Team Members
