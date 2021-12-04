@@ -2,9 +2,9 @@
 
 ## Table of Contents
 * [background](#background)
-* [etlprojectproposal](#etlprojectproposal)
-* [teammembers](#teammembers)
-* [datasources](#datasources)
+* [etl project proposal](#etlprojectproposal)
+* [team members](#teammembers)
+* [data sources](#datasources)
 
 ## Background
 This is the second group project for the GT Data Science Bootcamp!
@@ -46,9 +46,4 @@ https://www.nhgis.org/
 
 Others that we considered...
 https://fred.stlouisfed.org/release/tables?eid=259515&rid=249
-census.gov - explore this
-
-## To Do
-* clean
-* relational database?
-* - each state has it's own collection?
+census.gov
