@@ -20,7 +20,7 @@ Create a database which contains historical rent and income information.
 * Abishua Prashanth
 * Wesley Watkins
 * Anthony Ndungu
-* Theodora James
+* Theadora James
 * Beverly Phillips - Scout
 * Sidney Henry
 * Di Gibson
@@ -31,14 +31,13 @@ Create a database which contains historical rent and income information.
 * Randy Weaver - create repo, own README file, ...
 
 ## Data Sources
-* We will use the zillow dataset from kaggle for rent information
-* currently finding other data sets...
-
-* rent and income
-https://fred.stlouisfed.org/release/tables?eid=259515&rid=249
+* zillow dataset from kaggle for rent information
 https://www.kaggle.com/zillow/rent-index
-Census:
+* acs per capita income data
 https://www.nhgis.org/
+
+Others that we considered...
+https://fred.stlouisfed.org/release/tables?eid=259515&rid=249
 census.gov - explore this
 
 ## To Do
