@@ -31,6 +31,9 @@ Create a database which contains historical rent and income information.
 * Randy Weaver - create repo, own README file, ...
 
 ## Data Sources
+* We will use the zillow dataset from kaggle for rent information
+* currently finding other data sets...
+
 * rent and income
 https://fred.stlouisfed.org/release/tables?eid=259515&rid=249
 https://www.kaggle.com/zillow/rent-index
