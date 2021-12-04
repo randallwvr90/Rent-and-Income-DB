@@ -17,10 +17,10 @@ This is the second group project for the GT Data Science Bootcamp!
  * We will create a postgresql database which will contain the data. 
 
 * Next steps:
-* Determine what cleanup steps are necessary. 
-* Clean the data. 
-* Database Design
-* Database population - load the information
+  * Determine what cleanup steps are necessary. 
+  * Clean the data. 
+  * Database Design
+  * Database population - load the information
 
 * challenges:
 
