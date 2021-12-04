@@ -36,7 +36,7 @@ This is the second group project for the GT Data Science Bootcamp!
 * Harsh Patel
 * Jason Degrace
 * Mark Alford
-* Randy Weaver - create repo, own README file, ...
+* Randy Weaver
 
 ## Data Sources
 * zillow dataset from kaggle for rent information
