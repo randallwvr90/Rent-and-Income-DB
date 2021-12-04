@@ -1,10 +1,10 @@
 # bootcamp_project_2
 
 ## Table of Contents
-* [background](#background)
-* [etl project proposal](#etlprojectproposal)
-* [team members](#teammembers)
-* [data sources](#datasources)
+* [Background](#background)
+* [ETL Project Proposal](#etlprojectproposal)
+* [Team Members](#teammembers)
+* [Data Sources](#datasources)
 
 ## Background
 This is the second group project for the GT Data Science Bootcamp!
