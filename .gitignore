@@ -2,3 +2,6 @@
 
 .DS_Store
 */.DS_Store
+
+# jupyter notebook stuff
+.ipynb_checkpoints/
