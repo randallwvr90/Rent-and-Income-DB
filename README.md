@@ -45,6 +45,7 @@ https://www.kaggle.com/zillow/rent-index
 https://www.nhgis.org/
 
 Other potential sources:
-https://www.apartmentlist.com/research/category/data-rent-estimates
+Rent prices: https://www.apartmentlist.com/research/category/data-rent-estimates
+Wages: https://www.bls.gov/eag/
 https://fred.stlouisfed.org/release/tables?eid=259515&rid=249
 census.gov
