@@ -44,6 +44,7 @@ https://www.kaggle.com/zillow/rent-index
 * acs per capita income data
 https://www.nhgis.org/
 
-Others that we considered...
+Other potential sources:
+https://www.apartmentlist.com/research/category/data-rent-estimates
 https://fred.stlouisfed.org/release/tables?eid=259515&rid=249
 census.gov
