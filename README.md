@@ -47,5 +47,6 @@ https://www.nhgis.org/
 Other potential sources:
 Rent prices: https://www.apartmentlist.com/research/category/data-rent-estimates
 Wages: https://www.bls.gov/eag/
+Interactive map: https://evictionlab.org/#home-menu
 https://fred.stlouisfed.org/release/tables?eid=259515&rid=249
 census.gov
