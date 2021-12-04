@@ -1,10 +1,10 @@
 # bootcamp_project_2
 
 ## Table of Contents
-* [background](#background)
-* [etlprojectproposal](#etlprojectproposal)
-* [teammembers](#teammembers)
-* [datasources](#datasources)
+1. [Background](#background)
+2. [ETL Project Proposal](#etlprojectproposal)
+3. [Team Members](#teammembers)
+4. [Data Sources](#datasources)
 
 ## Background
 This is the second group project for the GT Data Science Bootcamp!
@@ -17,10 +17,10 @@ This is the second group project for the GT Data Science Bootcamp!
  * We will create a postgresql database which will contain the data. 
 
 * Next steps:
-* Determine what cleanup steps are necessary. 
-* Clean the data. 
-* Database Design
-* Database population - load the information
+  * Determine what cleanup steps are necessary. 
+  * Clean the data. 
+  * Database Design
+  * Database population - load the information
 
 * challenges:
 
@@ -36,7 +36,7 @@ This is the second group project for the GT Data Science Bootcamp!
 * Harsh Patel
 * Jason Degrace
 * Mark Alford
-* Randy Weaver - create repo, own README file, ...
+* Randy Weaver
 
 ## Data Sources
 * zillow dataset from kaggle for rent information
@@ -44,11 +44,10 @@ https://www.kaggle.com/zillow/rent-index
 * acs per capita income data
 https://www.nhgis.org/
 
-Others that we considered...
+Other potential sources:
+Eviction information: https://data-downloads.evictionlab.org/
+Rent prices: https://www.apartmentlist.com/research/category/data-rent-estimates
+Wages: https://www.bls.gov/eag/
+Interactive map: https://evictionlab.org/#home-menu
 https://fred.stlouisfed.org/release/tables?eid=259515&rid=249
-census.gov - explore this
-
-## To Do
-* clean
-* relational database?
-* - each state has it's own collection?
+census.gov
