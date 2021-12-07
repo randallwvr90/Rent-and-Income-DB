@@ -1,0 +1,3137 @@
+county_state,county,state_id,state_name
+Los Angeles_California,Los Angeles,CA,California
+Cook_Illinois,Cook,IL,Illinois
+Harris_Texas,Harris,TX,Texas
+Maricopa_Arizona,Maricopa,AZ,Arizona
+San Diego_California,San Diego,CA,California
+Orange_California,Orange,CA,California
+Miami-Dade_Florida,Miami-Dade,FL,Florida
+Dallas_Texas,Dallas,TX,Texas
+Kings_New York,Kings,NY,New York
+Riverside_California,Riverside,CA,California
+Queens_New York,Queens,NY,New York
+King_Washington,King,WA,Washington
+Clark_Nevada,Clark,NV,Nevada
+San Bernardino_California,San Bernardino,CA,California
+Tarrant_Texas,Tarrant,TX,Texas
+Bexar_Texas,Bexar,TX,Texas
+Santa Clara_California,Santa Clara,CA,California
+Broward_Florida,Broward,FL,Florida
+Wayne_Michigan,Wayne,MI,Michigan
+Alameda_California,Alameda,CA,California
+New York_New York,New York,NY,New York
+Middlesex_Massachusetts,Middlesex,MA,Massachusetts
+Philadelphia_Pennsylvania,Philadelphia,PA,Pennsylvania
+Sacramento_California,Sacramento,CA,California
+Suffolk_New York,Suffolk,NY,New York
+Palm Beach_Florida,Palm Beach,FL,Florida
+Bronx_New York,Bronx,NY,New York
+Hillsborough_Florida,Hillsborough,FL,Florida
+Nassau_New York,Nassau,NY,New York
+Orange_Florida,Orange,FL,Florida
+Franklin_Ohio,Franklin,OH,Ohio
+Oakland_Michigan,Oakland,MI,Michigan
+Cuyahoga_Ohio,Cuyahoga,OH,Ohio
+Hennepin_Minnesota,Hennepin,MN,Minnesota
+Travis_Texas,Travis,TX,Texas
+Allegheny_Pennsylvania,Allegheny,PA,Pennsylvania
+Fairfax_Virginia,Fairfax,VA,Virginia
+Contra Costa_California,Contra Costa,CA,California
+Salt Lake_Utah,Salt Lake,UT,Utah
+Mecklenburg_North Carolina,Mecklenburg,NC,North Carolina
+Wake_North Carolina,Wake,NC,North Carolina
+Montgomery_Maryland,Montgomery,MD,Maryland
+Fulton_Georgia,Fulton,GA,Georgia
+Pima_Arizona,Pima,AZ,Arizona
+St. Louis_Missouri,St. Louis,MO,Missouri
+Honolulu_Hawaii,Honolulu,HI,Hawaii
+Fresno_California,Fresno,CA,California
+Collin_Texas,Collin,TX,Texas
+Westchester_New York,Westchester,NY,New York
+Pinellas_Florida,Pinellas,FL,Florida
+Marion_Indiana,Marion,IN,Indiana
+Milwaukee_Wisconsin,Milwaukee,WI,Wisconsin
+Fairfield_Connecticut,Fairfield,CT,Connecticut
+Shelby_Tennessee,Shelby,TN,Tennessee
+Duval_Florida,Duval,FL,Florida
+Bergen_New Jersey,Bergen,NJ,New Jersey
+DuPage_Illinois,DuPage,IL,Illinois
+Erie_New York,Erie,NY,New York
+Gwinnett_Georgia,Gwinnett,GA,Georgia
+Prince George's_Maryland,Prince George's,MD,Maryland
+Hartford_Connecticut,Hartford,CT,Connecticut
+Kern_California,Kern,CA,California
+Pierce_Washington,Pierce,WA,Washington
+San Francisco_California,San Francisco,CA,California
+Macomb_Michigan,Macomb,MI,Michigan
+New Haven_Connecticut,New Haven,CT,Connecticut
+Hidalgo_Texas,Hidalgo,TX,Texas
+Ventura_California,Ventura,CA,California
+El Paso_Texas,El Paso,TX,Texas
+Denton_Texas,Denton,TX,Texas
+Baltimore_Maryland,Baltimore,MD,Maryland
+Middlesex_New Jersey,Middlesex,NJ,New Jersey
+Worcester_Massachusetts,Worcester,MA,Massachusetts
+Montgomery_Pennsylvania,Montgomery,PA,Pennsylvania
+Hamilton_Ohio,Hamilton,OH,Ohio
+Multnomah_Oregon,Multnomah,OR,Oregon
+Snohomish_Washington,Snohomish,WA,Washington
+Suffolk_Massachusetts,Suffolk,MA,Massachusetts
+Essex_New Jersey,Essex,NJ,New Jersey
+Oklahoma_Oklahoma,Oklahoma,OK,Oklahoma
+Essex_Massachusetts,Essex,MA,Massachusetts
+San Mateo_California,San Mateo,CA,California
+Jefferson_Kentucky,Jefferson,KY,Kentucky
+Fort Bend_Texas,Fort Bend,TX,Texas
+Cobb_Georgia,Cobb,GA,Georgia
+DeKalb_Georgia,DeKalb,GA,Georgia
+Monroe_New York,Monroe,NY,New York
+San Joaquin_California,San Joaquin,CA,California
+Lee_Florida,Lee,FL,Florida
+Denver_Colorado,Denver,CO,Colorado
+Lake_Illinois,Lake,IL,Illinois
+Norfolk_Massachusetts,Norfolk,MA,Massachusetts
+El Paso_Colorado,El Paso,CO,Colorado
+Jackson_Missouri,Jackson,MO,Missouri
+District of Columbia_District of Columbia,District of Columbia,DC,District of Columbia
+Will_Illinois,Will,IL,Illinois
+Davidson_Tennessee,Davidson,TN,Tennessee
+Polk_Florida,Polk,FL,Florida
+Bernalillo_New Mexico,Bernalillo,NM,New Mexico
+Hudson_New Jersey,Hudson,NJ,New Jersey
+Jefferson_Alabama,Jefferson,AL,Alabama
+Kent_Michigan,Kent,MI,Michigan
+Tulsa_Oklahoma,Tulsa,OK,Oklahoma
+Arapahoe_Colorado,Arapahoe,CO,Colorado
+Providence_Rhode Island,Providence,RI,Rhode Island
+Bucks_Pennsylvania,Bucks,PA,Pennsylvania
+Monmouth_New Jersey,Monmouth,NJ,New Jersey
+Utah_Utah,Utah,UT,Utah
+Ocean_New Jersey,Ocean,NJ,New Jersey
+Johnson_Kansas,Johnson,KS,Kansas
+Washington_Oregon,Washington,OR,Oregon
+Brevard_Florida,Brevard,FL,Florida
+Jefferson_Colorado,Jefferson,CO,Colorado
+Montgomery_Texas,Montgomery,TX,Texas
+Anne Arundel_Maryland,Anne Arundel,MD,Maryland
+Delaware_Pennsylvania,Delaware,PA,Pennsylvania
+Bristol_Massachusetts,Bristol,MA,Massachusetts
+Douglas_Nebraska,Douglas,NE,Nebraska
+New Castle_Delaware,New Castle,DE,Delaware
+Union_New Jersey,Union,NJ,New Jersey
+Williamson_Texas,Williamson,TX,Texas
+Ramsey_Minnesota,Ramsey,MN,Minnesota
+Stanislaus_California,Stanislaus,CA,California
+Summit_Ohio,Summit,OH,Ohio
+Lancaster_Pennsylvania,Lancaster,PA,Pennsylvania
+Volusia_Florida,Volusia,FL,Florida
+Dane_Wisconsin,Dane,WI,Wisconsin
+Montgomery_Ohio,Montgomery,OH,Ohio
+Kane_Illinois,Kane,IL,Illinois
+Guilford_North Carolina,Guilford,NC,North Carolina
+Pasco_Florida,Pasco,FL,Florida
+Chester_Pennsylvania,Chester,PA,Pennsylvania
+Plymouth_Massachusetts,Plymouth,MA,Massachusetts
+Sedgwick_Kansas,Sedgwick,KS,Kansas
+Greenville_South Carolina,Greenville,SC,South Carolina
+Camden_New Jersey,Camden,NJ,New Jersey
+Spokane_Washington,Spokane,WA,Washington
+Adams_Colorado,Adams,CO,Colorado
+Passaic_New Jersey,Passaic,NJ,New Jersey
+Sonoma_California,Sonoma,CA,California
+Morris_New Jersey,Morris,NJ,New Jersey
+Lake_Indiana,Lake,IN,Indiana
+Polk_Iowa,Polk,IA,Iowa
+Richmond_New York,Richmond,NY,New York
+Clark_Washington,Clark,WA,Washington
+Hampden_Massachusetts,Hampden,MA,Massachusetts
+Onondaga_New York,Onondaga,NY,New York
+Tulare_California,Tulare,CA,California
+Prince William_Virginia,Prince William,VA,Virginia
+Seminole_Florida,Seminole,FL,Florida
+Knox_Tennessee,Knox,TN,Tennessee
+Washoe_Nevada,Washoe,NV,Nevada
+Ada_Idaho,Ada,ID,Idaho
+Virginia Beach_Virginia,Virginia Beach,VA,Virginia
+Burlington_New Jersey,Burlington,NJ,New Jersey
+York_Pennsylvania,York,PA,Pennsylvania
+Santa Barbara_California,Santa Barbara,CA,California
+East Baton Rouge_Louisiana,East Baton Rouge,LA,Louisiana
+Solano_California,Solano,CA,California
+Jefferson_Louisiana,Jefferson,LA,Louisiana
+Monterey_California,Monterey,CA,California
+Pinal_Arizona,Pinal,AZ,Arizona
+Lucas_Ohio,Lucas,OH,Ohio
+Cameron_Texas,Cameron,TX,Texas
+Dakota_Minnesota,Dakota,MN,Minnesota
+Sarasota_Florida,Sarasota,FL,Florida
+Berks_Pennsylvania,Berks,PA,Pennsylvania
+Mobile_Alabama,Mobile,AL,Alabama
+Hillsborough_New Hampshire,Hillsborough,NH,New Hampshire
+Richland_South Carolina,Richland,SC,South Carolina
+Clackamas_Oregon,Clackamas,OR,Oregon
+Genesee_Michigan,Genesee,MI,Michigan
+Charleston_South Carolina,Charleston,SC,South Carolina
+Waukesha_Wisconsin,Waukesha,WI,Wisconsin
+Loudoun_Virginia,Loudoun,VA,Virginia
+St. Charles_Missouri,St. Charles,MO,Missouri
+Pulaski_Arkansas,Pulaski,AR,Arkansas
+Orleans_Louisiana,Orleans,LA,Louisiana
+Placer_California,Placer,CA,California
+Manatee_Florida,Manatee,FL,Florida
+Orange_New York,Orange,NY,New York
+Butler_Ohio,Butler,OH,Ohio
+Forsyth_North Carolina,Forsyth,NC,North Carolina
+Lane_Oregon,Lane,OR,Oregon
+Allen_Indiana,Allen,IN,Indiana
+Stark_Ohio,Stark,OH,Ohio
+Collier_Florida,Collier,FL,Florida
+Mercer_New Jersey,Mercer,NJ,New Jersey
+Washtenaw_Michigan,Washtenaw,MI,Michigan
+Lehigh_Pennsylvania,Lehigh,PA,Pennsylvania
+Madison_Alabama,Madison,AL,Alabama
+Nueces_Texas,Nueces,TX,Texas
+Hamilton_Tennessee,Hamilton,TN,Tennessee
+Brazoria_Texas,Brazoria,TX,Texas
+Marion_Florida,Marion,FL,Florida
+Westmoreland_Pennsylvania,Westmoreland,PA,Pennsylvania
+Osceola_Florida,Osceola,FL,Florida
+Anoka_Minnesota,Anoka,MN,Minnesota
+Bell_Texas,Bell,TX,Texas
+Lake_Florida,Lake,FL,Florida
+Davis_Utah,Davis,UT,Utah
+Larimer_Colorado,Larimer,CO,Colorado
+Chesterfield_Virginia,Chesterfield,VA,Virginia
+Marion_Oregon,Marion,OR,Oregon
+Douglas_Colorado,Douglas,CO,Colorado
+Galveston_Texas,Galveston,TX,Texas
+Cumberland_North Carolina,Cumberland,NC,North Carolina
+Horry_South Carolina,Horry,SC,South Carolina
+Somerset_New Jersey,Somerset,NJ,New Jersey
+Henrico_Virginia,Henrico,VA,Virginia
+Rockland_New York,Rockland,NY,New York
+Hamilton_Indiana,Hamilton,IN,Indiana
+Boulder_Colorado,Boulder,CO,Colorado
+Fayette_Kentucky,Fayette,KY,Kentucky
+Howard_Maryland,Howard,MD,Maryland
+Luzerne_Pennsylvania,Luzerne,PA,Pennsylvania
+Rutherford_Tennessee,Rutherford,TN,Tennessee
+Escambia_Florida,Escambia,FL,Florida
+Lancaster_Nebraska,Lancaster,NE,Nebraska
+St. Lucie_Florida,St. Lucie,FL,Florida
+Durham_North Carolina,Durham,NC,North Carolina
+McHenry_Illinois,McHenry,IL,Illinois
+Lorain_Ohio,Lorain,OH,Ohio
+Spartanburg_South Carolina,Spartanburg,SC,South Carolina
+Albany_New York,Albany,NY,New York
+Rockingham_New Hampshire,Rockingham,NH,New Hampshire
+Weld_Colorado,Weld,CO,Colorado
+Lubbock_Texas,Lubbock,TX,Texas
+Northampton_Pennsylvania,Northampton,PA,Pennsylvania
+Dutchess_New York,Dutchess,NY,New York
+Anchorage_Alaska,Anchorage,AK,Alaska
+Cumberland_Maine,Cumberland,ME,Maine
+Gloucester_New Jersey,Gloucester,NJ,New Jersey
+Ingham_Michigan,Ingham,MI,Michigan
+Lexington_South Carolina,Lexington,SC,South Carolina
+Leon_Florida,Leon,FL,Florida
+Greene_Missouri,Greene,MO,Missouri
+Chatham_Georgia,Chatham,GA,Georgia
+Ottawa_Michigan,Ottawa,MI,Michigan
+Winnebago_Illinois,Winnebago,IL,Illinois
+Clayton_Georgia,Clayton,GA,Georgia
+San Luis Obispo_California,San Luis Obispo,CA,California
+Thurston_Washington,Thurston,WA,Washington
+Cleveland_Oklahoma,Cleveland,OK,Oklahoma
+Dauphin_Pennsylvania,Dauphin,PA,Pennsylvania
+Santa Cruz_California,Santa Cruz,CA,California
+Erie_Pennsylvania,Erie,PA,Pennsylvania
+Webb_Texas,Webb,TX,Texas
+Merced_California,Merced,CA,California
+St. Joseph_Indiana,St. Joseph,IN,Indiana
+New London_Connecticut,New London,CT,Connecticut
+Atlantic_New Jersey,Atlantic,NJ,New Jersey
+Kitsap_Washington,Kitsap,WA,Washington
+York_South Carolina,York,SC,South Carolina
+Benton_Arkansas,Benton,AR,Arkansas
+Alachua_Florida,Alachua,FL,Florida
+Madison_Illinois,Madison,IL,Illinois
+Kalamazoo_Michigan,Kalamazoo,MI,Michigan
+St. Clair_Illinois,St. Clair,IL,Illinois
+Brown_Wisconsin,Brown,WI,Wisconsin
+Marin_California,Marin,CA,California
+Buncombe_North Carolina,Buncombe,NC,North Carolina
+Washington_Minnesota,Washington,MN,Minnesota
+St. Tammany_Louisiana,St. Tammany,LA,Louisiana
+Jefferson_Texas,Jefferson,TX,Texas
+Harford_Maryland,Harford,MD,Maryland
+Weber_Utah,Weber,UT,Utah
+Frederick_Maryland,Frederick,MD,Maryland
+McLennan_Texas,McLennan,TX,Texas
+Yakima_Washington,Yakima,WA,Washington
+Cumberland_Pennsylvania,Cumberland,PA,Pennsylvania
+Cherokee_Georgia,Cherokee,GA,Georgia
+Caddo_Louisiana,Caddo,LA,Louisiana
+St. Johns_Florida,St. Johns,FL,Florida
+Norfolk_Virginia,Norfolk,VA,Virginia
+Clay_Missouri,Clay,MO,Missouri
+Lafayette_Louisiana,Lafayette,LA,Louisiana
+Chesapeake_Virginia,Chesapeake,VA,Virginia
+Hinds_Mississippi,Hinds,MS,Mississippi
+Arlington_Virginia,Arlington,VA,Virginia
+Washington_Arkansas,Washington,AR,Arkansas
+Union_North Carolina,Union,NC,North Carolina
+Mahoning_Ohio,Mahoning,OH,Ohio
+Oneida_New York,Oneida,NY,New York
+Lake_Ohio,Lake,OH,Ohio
+Warren_Ohio,Warren,OH,Ohio
+Saratoga_New York,Saratoga,NY,New York
+Forsyth_Georgia,Forsyth,GA,Georgia
+Yavapai_Arizona,Yavapai,AZ,Arizona
+New Hanover_North Carolina,New Hanover,NC,North Carolina
+Smith_Texas,Smith,TX,Texas
+Montgomery_Alabama,Montgomery,AL,Alabama
+Richmond_Virginia,Richmond,VA,Virginia
+Butte_California,Butte,CA,California
+Williamson_Tennessee,Williamson,TN,Tennessee
+Henry_Georgia,Henry,GA,Georgia
+Sussex_Delaware,Sussex,DE,Delaware
+Jefferson_Missouri,Jefferson,MO,Missouri
+Linn_Iowa,Linn,IA,Iowa
+Brazos_Texas,Brazos,TX,Texas
+Whatcom_Washington,Whatcom,WA,Washington
+Gaston_North Carolina,Gaston,NC,North Carolina
+Canyon_Idaho,Canyon,ID,Idaho
+Yolo_California,Yolo,CA,California
+Jackson_Oregon,Jackson,OR,Oregon
+Doña Ana_New Mexico,Doña Ana,NM,New Mexico
+Berkeley_South Carolina,Berkeley,SC,South Carolina
+Barnstable_Massachusetts,Barnstable,MA,Massachusetts
+Shelby_Alabama,Shelby,AL,Alabama
+Hays_Texas,Hays,TX,Texas
+Baldwin_Alabama,Baldwin,AL,Alabama
+Clay_Florida,Clay,FL,Florida
+Niagara_New York,Niagara,NY,New York
+Lackawanna_Pennsylvania,Lackawanna,PA,Pennsylvania
+Champaign_Illinois,Champaign,IL,Illinois
+Yuma_Arizona,Yuma,AZ,Arizona
+Mohave_Arizona,Mohave,AZ,Arizona
+Tuscaloosa_Alabama,Tuscaloosa,AL,Alabama
+Washington_Pennsylvania,Washington,PA,Pennsylvania
+Cabarrus_North Carolina,Cabarrus,NC,North Carolina
+Elkhart_Indiana,Elkhart,IN,Indiana
+Harrison_Mississippi,Harrison,MS,Mississippi
+York_Maine,York,ME,Maine
+Clermont_Ohio,Clermont,OH,Ohio
+Okaloosa_Florida,Okaloosa,FL,Florida
+Richmond_Georgia,Richmond,GA,Georgia
+Calcasieu_Louisiana,Calcasieu,LA,Louisiana
+Delaware_Ohio,Delaware,OH,Ohio
+Trumbull_Ohio,Trumbull,OH,Ohio
+Montgomery_Tennessee,Montgomery,TN,Tennessee
+St. Louis_Minnesota,St. Louis,MN,Minnesota
+Hawaii_Hawaii,Hawaii,HI,Hawaii
+Hall_Georgia,Hall,GA,Georgia
+Anderson_South Carolina,Anderson,SC,South Carolina
+Benton_Washington,Benton,WA,Washington
+Johnston_North Carolina,Johnston,NC,North Carolina
+Sangamon_Illinois,Sangamon,IL,Illinois
+Muscogee_Georgia,Muscogee,GA,Georgia
+Racine_Wisconsin,Racine,WI,Wisconsin
+Onslow_North Carolina,Onslow,NC,North Carolina
+Broome_New York,Broome,NY,New York
+Saginaw_Michigan,Saginaw,MI,Michigan
+Tippecanoe_Indiana,Tippecanoe,IN,Indiana
+Livingston_Michigan,Livingston,MI,Michigan
+Minnehaha_South Dakota,Minnehaha,SD,South Dakota
+El Dorado_California,El Dorado,CA,California
+Butler_Pennsylvania,Butler,PA,Pennsylvania
+Hernando_Florida,Hernando,FL,Florida
+Deschutes_Oregon,Deschutes,OR,Oregon
+Beaufort_South Carolina,Beaufort,SC,South Carolina
+Outagamie_Wisconsin,Outagamie,WI,Wisconsin
+Sumner_Tennessee,Sumner,TN,Tennessee
+Kanawha_West Virginia,Kanawha,WV,West Virginia
+Peoria_Illinois,Peoria,IL,Illinois
+Bay_Florida,Bay,FL,Florida
+Litchfield_Connecticut,Litchfield,CT,Connecticut
+Vanderburgh_Indiana,Vanderburgh,IN,Indiana
+Sarpy_Nebraska,Sarpy,NE,Nebraska
+Charlotte_Florida,Charlotte,FL,Florida
+Imperial_California,Imperial,CA,California
+Newport News_Virginia,Newport News,VA,Virginia
+Shasta_California,Shasta,CA,California
+DeSoto_Mississippi,DeSoto,MS,Mississippi
+Ulster_New York,Ulster,NY,New York
+Pitt_North Carolina,Pitt,NC,North Carolina
+Medina_Ohio,Medina,OH,Ohio
+Shawnee_Kansas,Shawnee,KS,Kansas
+Boone_Missouri,Boone,MO,Missouri
+Cass_North Dakota,Cass,ND,North Dakota
+Kent_Delaware,Kent,DE,Delaware
+Iredell_North Carolina,Iredell,NC,North Carolina
+Santa Rosa_Florida,Santa Rosa,FL,Florida
+Ellis_Texas,Ellis,TX,Texas
+Licking_Ohio,Licking,OH,Ohio
+Muskegon_Michigan,Muskegon,MI,Michigan
+McLean_Illinois,McLean,IL,Illinois
+Scott_Iowa,Scott,IA,Iowa
+Winnebago_Wisconsin,Winnebago,WI,Wisconsin
+Porter_Indiana,Porter,IN,Indiana
+Kenosha_Wisconsin,Kenosha,WI,Wisconsin
+Aiken_South Carolina,Aiken,SC,South Carolina
+Midland_Texas,Midland,TX,Texas
+Monroe_Pennsylvania,Monroe,PA,Pennsylvania
+Carroll_Maryland,Carroll,MD,Maryland
+Johnson_Texas,Johnson,TX,Texas
+Greene_Ohio,Greene,OH,Ohio
+Pueblo_Colorado,Pueblo,CO,Colorado
+Maui_Hawaii,Maui,HI,Hawaii
+Beaver_Pennsylvania,Beaver,PA,Pennsylvania
+Washington_Utah,Washington,UT,Utah
+Kenton_Kentucky,Kenton,KY,Kentucky
+Davidson_North Carolina,Davidson,NC,North Carolina
+Wyandotte_Kansas,Wyandotte,KS,Kansas
+Kent_Rhode Island,Kent,RI,Rhode Island
+Hendricks_Indiana,Hendricks,IN,Indiana
+Alamance_North Carolina,Alamance,NC,North Carolina
+Middlesex_Connecticut,Middlesex,CT,Connecticut
+Chittenden_Vermont,Chittenden,VT,Vermont
+Portage_Ohio,Portage,OH,Ohio
+Rock_Wisconsin,Rock,WI,Wisconsin
+Centre_Pennsylvania,Centre,PA,Pennsylvania
+Lee_Alabama,Lee,AL,Alabama
+Hampshire_Massachusetts,Hampshire,MA,Massachusetts
+Ector_Texas,Ector,TX,Texas
+Paulding_Georgia,Paulding,GA,Georgia
+Charles_Maryland,Charles,MD,Maryland
+St. Clair_Michigan,St. Clair,MI,Michigan
+Rensselaer_New York,Rensselaer,NY,New York
+Martin_Florida,Martin,FL,Florida
+Yellowstone_Montana,Yellowstone,MT,Montana
+Guadalupe_Texas,Guadalupe,TX,Texas
+Jackson_Michigan,Jackson,MI,Michigan
+Stearns_Minnesota,Stearns,MN,Minnesota
+Dorchester_South Carolina,Dorchester,SC,South Carolina
+Alexandria_Virginia,Alexandria,VA,Virginia
+Catawba_North Carolina,Catawba,NC,North Carolina
+Kootenai_Idaho,Kootenai,ID,Idaho
+Sullivan_Tennessee,Sullivan,TN,Tennessee
+Ouachita_Louisiana,Ouachita,LA,Louisiana
+Madera_California,Madera,CA,California
+Schenectady_New York,Schenectady,NY,New York
+Olmsted_Minnesota,Olmsted,MN,Minnesota
+Fairfield_Ohio,Fairfield,OH,Ohio
+Franklin_Pennsylvania,Franklin,PA,Pennsylvania
+Berrien_Michigan,Berrien,MI,Michigan
+Indian River_Florida,Indian River,FL,Florida
+Johnson_Indiana,Johnson,IN,Indiana
+Houston_Georgia,Houston,GA,Georgia
+Bibb_Georgia,Bibb,GA,Georgia
+Rankin_Mississippi,Rankin,MS,Mississippi
+Cumberland_New Jersey,Cumberland,NJ,New Jersey
+Penobscot_Maine,Penobscot,ME,Maine
+Mesa_Colorado,Mesa,CO,Colorado
+Tolland_Connecticut,Tolland,CT,Connecticut
+Columbia_Georgia,Columbia,GA,Georgia
+Kings_California,Kings,CA,California
+Washington_Maryland,Washington,MD,Maryland
+Merrimack_New Hampshire,Merrimack,NH,New Hampshire
+Monroe_Michigan,Monroe,MI,Michigan
+Santa Fe_New Mexico,Santa Fe,NM,New Mexico
+Johnson_Iowa,Johnson,IA,Iowa
+Stafford_Virginia,Stafford,VA,Virginia
+Monroe_Indiana,Monroe,IN,Indiana
+Scott_Minnesota,Scott,MN,Minnesota
+Citrus_Florida,Citrus,FL,Florida
+Orange_North Carolina,Orange,NC,North Carolina
+Rock Island_Illinois,Rock Island,IL,Illinois
+Douglas_Georgia,Douglas,GA,Georgia
+Coweta_Georgia,Coweta,GA,Georgia
+Randolph_North Carolina,Randolph,NC,North Carolina
+Sandoval_New Mexico,Sandoval,NM,New Mexico
+Schuylkill_Pennsylvania,Schuylkill,PA,Pennsylvania
+Jackson_Mississippi,Jackson,MS,Mississippi
+Comal_Texas,Comal,TX,Texas
+Sussex_New Jersey,Sussex,NJ,New Jersey
+Coconino_Arizona,Coconino,AZ,Arizona
+Canadian_Oklahoma,Canadian,OK,Oklahoma
+Rowan_North Carolina,Rowan,NC,North Carolina
+Lebanon_Pennsylvania,Lebanon,PA,Pennsylvania
+Napa_California,Napa,CA,California
+Livingston_Louisiana,Livingston,LA,Louisiana
+Florence_South Carolina,Florence,SC,South Carolina
+Taylor_Texas,Taylor,TX,Texas
+Wilson_Tennessee,Wilson,TN,Tennessee
+Humboldt_California,Humboldt,CA,California
+Marathon_Wisconsin,Marathon,WI,Wisconsin
+Hampton_Virginia,Hampton,VA,Virginia
+Washington_Wisconsin,Washington,WI,Wisconsin
+Clark_Ohio,Clark,OH,Ohio
+Wright_Minnesota,Wright,MN,Minnesota
+Calhoun_Michigan,Calhoun,MI,Michigan
+Randall_Texas,Randall,TX,Texas
+Parker_Texas,Parker,TX,Texas
+Tazewell_Illinois,Tazewell,IL,Illinois
+Cambria_Pennsylvania,Cambria,PA,Pennsylvania
+Spotsylvania_Virginia,Spotsylvania,VA,Virginia
+Robeson_North Carolina,Robeson,NC,North Carolina
+Black Hawk_Iowa,Black Hawk,IA,Iowa
+Harnett_North Carolina,Harnett,NC,North Carolina
+Tangipahoa_Louisiana,Tangipahoa,LA,Louisiana
+Brunswick_North Carolina,Brunswick,NC,North Carolina
+Wichita_Texas,Wichita,TX,Texas
+Fayette_Pennsylvania,Fayette,PA,Pennsylvania
+Grayson_Texas,Grayson,TX,Texas
+Rapides_Louisiana,Rapides,LA,Louisiana
+Boone_Kentucky,Boone,KY,Kentucky
+Wood_Ohio,Wood,OH,Ohio
+Blount_Tennessee,Blount,TN,Tennessee
+Madison_Indiana,Madison,IN,Indiana
+Strafford_New Hampshire,Strafford,NH,New Hampshire
+Warren_Kentucky,Warren,KY,Kentucky
+Chautauqua_New York,Chautauqua,NY,New York
+Washington_Tennessee,Washington,TN,Tennessee
+Sebastian_Arkansas,Sebastian,AR,Arkansas
+San Juan_New Mexico,San Juan,NM,New Mexico
+Bossier_Louisiana,Bossier,LA,Louisiana
+Berkshire_Massachusetts,Berkshire,MA,Massachusetts
+Clarke_Georgia,Clarke,GA,Georgia
+Washington_Rhode Island,Washington,RI,Rhode Island
+Kendall_Illinois,Kendall,IL,Illinois
+Cochise_Arizona,Cochise,AZ,Arizona
+Skagit_Washington,Skagit,WA,Washington
+Linn_Oregon,Linn,OR,Oregon
+Sumter_Florida,Sumter,FL,Florida
+Hunterdon_New Jersey,Hunterdon,NJ,New Jersey
+Cache_Utah,Cache,UT,Utah
+Pickens_South Carolina,Pickens,SC,South Carolina
+Kaufman_Texas,Kaufman,TX,Texas
+Faulkner_Arkansas,Faulkner,AR,Arkansas
+Wayne_North Carolina,Wayne,NC,North Carolina
+Gregg_Texas,Gregg,TX,Texas
+Blair_Pennsylvania,Blair,PA,Pennsylvania
+Ascension_Louisiana,Ascension,LA,Louisiana
+Comanche_Oklahoma,Comanche,OK,Oklahoma
+Kennebec_Maine,Kennebec,ME,Maine
+Richland_Ohio,Richland,OH,Ohio
+Douglas_Kansas,Douglas,KS,Kansas
+Jasper_Missouri,Jasper,MO,Missouri
+Potter_Texas,Potter,TX,Texas
+Saline_Arkansas,Saline,AR,Arkansas
+Morgan_Alabama,Morgan,AL,Alabama
+Oswego_New York,Oswego,NY,New York
+Tom Green_Texas,Tom Green,TX,Texas
+La Crosse_Wisconsin,La Crosse,WI,Wisconsin
+Missoula_Montana,Missoula,MT,Montana
+Carroll_Georgia,Carroll,GA,Georgia
+Windham_Connecticut,Windham,CT,Connecticut
+Clark_Indiana,Clark,IN,Indiana
+Allegan_Michigan,Allegan,MI,Michigan
+Wayne_Ohio,Wayne,OH,Ohio
+Lowndes_Georgia,Lowndes,GA,Georgia
+Berkeley_West Virginia,Berkeley,WV,West Virginia
+Sheboygan_Wisconsin,Sheboygan,WI,Wisconsin
+Delaware_Indiana,Delaware,IN,Indiana
+Henderson_North Carolina,Henderson,NC,North Carolina
+Calhoun_Alabama,Calhoun,AL,Alabama
+Bonneville_Idaho,Bonneville,ID,Idaho
+Lycoming_Pennsylvania,Lycoming,PA,Pennsylvania
+Jefferson_New York,Jefferson,NY,New York
+Fayette_Georgia,Fayette,GA,Georgia
+St. Mary's_Maryland,St. Mary's,MD,Maryland
+Terrebonne_Louisiana,Terrebonne,LA,Louisiana
+Mercer_Pennsylvania,Mercer,PA,Pennsylvania
+Pennington_South Dakota,Pennington,SD,South Dakota
+Kankakee_Illinois,Kankakee,IL,Illinois
+LaPorte_Indiana,LaPorte,IN,Indiana
+Flagler_Florida,Flagler,FL,Florida
+LaSalle_Illinois,LaSalle,IL,Illinois
+Ontario_New York,Ontario,NY,New York
+Eaton_Michigan,Eaton,MI,Michigan
+Navajo_Arizona,Navajo,AZ,Arizona
+Douglas_Oregon,Douglas,OR,Oregon
+St. Lawrence_New York,St. Lawrence,NY,New York
+Hardin_Kentucky,Hardin,KY,Kentucky
+Newton_Georgia,Newton,GA,Georgia
+Gallatin_Montana,Gallatin,MT,Montana
+Androscoggin_Maine,Androscoggin,ME,Maine
+Vigo_Indiana,Vigo,IN,Indiana
+Albemarle_Virginia,Albemarle,VA,Virginia
+Craighead_Arkansas,Craighead,AR,Arkansas
+Cowlitz_Washington,Cowlitz,WA,Washington
+Sumter_South Carolina,Sumter,SC,South Carolina
+Warren_New Jersey,Warren,NJ,New Jersey
+Bradley_Tennessee,Bradley,TN,Tennessee
+Hanover_Virginia,Hanover,VA,Virginia
+Macon_Illinois,Macon,IL,Illinois
+Monongalia_West Virginia,Monongalia,WV,West Virginia
+Miami_Ohio,Miami,OH,Ohio
+Matanuska-Susitna_Alaska,Matanuska-Susitna,AK,Alaska
+Bartow_Georgia,Bartow,GA,Georgia
+Yamhill_Oregon,Yamhill,OR,Oregon
+Houston_Alabama,Houston,AL,Alabama
+Madison_Mississippi,Madison,MS,Mississippi
+DeKalb_Illinois,DeKalb,IL,Illinois
+Whitfield_Georgia,Whitfield,GA,Georgia
+Bay_Michigan,Bay,MI,Michigan
+Cass_Missouri,Cass,MO,Missouri
+Eau Claire_Wisconsin,Eau Claire,WI,Wisconsin
+Highlands_Florida,Highlands,FL,Florida
+Franklin_Missouri,Franklin,MO,Missouri
+Columbiana_Ohio,Columbiana,OH,Ohio
+Allen_Ohio,Allen,OH,Ohio
+Walworth_Wisconsin,Walworth,WI,Wisconsin
+Etowah_Alabama,Etowah,AL,Alabama
+Tompkins_New York,Tompkins,NY,New York
+Fond du Lac_Wisconsin,Fond du Lac,WI,Wisconsin
+Woodbury_Iowa,Woodbury,IA,Iowa
+Cecil_Maryland,Cecil,MD,Maryland
+Wicomico_Maryland,Wicomico,MD,Maryland
+Craven_North Carolina,Craven,NC,North Carolina
+Adams_Pennsylvania,Adams,PA,Pennsylvania
+Carver_Minnesota,Carver,MN,Minnesota
+Platte_Missouri,Platte,MO,Missouri
+Daviess_Kentucky,Daviess,KY,Kentucky
+Flathead_Montana,Flathead,MT,Montana
+Nevada_California,Nevada,CA,California
+Roanoke_Virginia,Roanoke,VA,Virginia
+Fairbanks North Star_Alaska,Fairbanks North Star,AK,Alaska
+Putnam_New York,Putnam,NY,New York
+Garland_Arkansas,Garland,AR,Arkansas
+Lenawee_Michigan,Lenawee,MI,Michigan
+Laramie_Wyoming,Laramie,WY,Wyoming
+Montgomery_Virginia,Montgomery,VA,Virginia
+Lafourche_Louisiana,Lafourche,LA,Louisiana
+Ashtabula_Ohio,Ashtabula,OH,Ohio
+Madison_Tennessee,Madison,TN,Tennessee
+Floyd_Georgia,Floyd,GA,Georgia
+Moore_North Carolina,Moore,NC,North Carolina
+Cleveland_North Carolina,Cleveland,NC,North Carolina
+Rockwall_Texas,Rockwall,TX,Texas
+Sevier_Tennessee,Sevier,TN,Tennessee
+Dubuque_Iowa,Dubuque,IA,Iowa
+Story_Iowa,Story,IA,Iowa
+Steuben_New York,Steuben,NY,New York
+Sutter_California,Sutter,CA,California
+Marshall_Alabama,Marshall,AL,Alabama
+Grant_Washington,Grant,WA,Washington
+Portsmouth_Virginia,Portsmouth,VA,Virginia
+Burleigh_North Dakota,Burleigh,ND,North Dakota
+Limestone_Alabama,Limestone,AL,Alabama
+Sherburne_Minnesota,Sherburne,MN,Minnesota
+Cabell_West Virginia,Cabell,WV,West Virginia
+Hunt_Texas,Hunt,TX,Texas
+Nash_North Carolina,Nash,NC,North Carolina
+Geauga_Ohio,Geauga,OH,Ohio
+Pottawattamie_Iowa,Pottawattamie,IA,Iowa
+Bowie_Texas,Bowie,TX,Texas
+Cape May_New Jersey,Cape May,NJ,New Jersey
+Campbell_Kentucky,Campbell,KY,Kentucky
+Lauderdale_Alabama,Lauderdale,AL,Alabama
+Tuscarawas_Ohio,Tuscarawas,OH,Ohio
+Lancaster_South Carolina,Lancaster,SC,South Carolina
+Grand Traverse_Michigan,Grand Traverse,MI,Michigan
+Victoria_Texas,Victoria,TX,Texas
+Franklin_Washington,Franklin,WA,Washington
+Maury_Tennessee,Maury,TN,Tennessee
+Northumberland_Pennsylvania,Northumberland,PA,Pennsylvania
+Calvert_Maryland,Calvert,MD,Maryland
+Walton_Georgia,Walton,GA,Georgia
+Rogers_Oklahoma,Rogers,OK,Oklahoma
+Benton_Oregon,Benton,OR,Oregon
+Rockingham_North Carolina,Rockingham,NC,North Carolina
+Madison_Kentucky,Madison,KY,Kentucky
+Wayne_New York,Wayne,NY,New York
+Suffolk_Virginia,Suffolk,VA,Virginia
+Burke_North Carolina,Burke,NC,North Carolina
+Grafton_New Hampshire,Grafton,NH,New Hampshire
+Rockdale_Georgia,Rockdale,GA,Georgia
+Dougherty_Georgia,Dougherty,GA,Georgia
+St. Croix_Wisconsin,St. Croix,WI,Wisconsin
+Ozaukee_Wisconsin,Ozaukee,WI,Wisconsin
+Buchanan_Missouri,Buchanan,MO,Missouri
+Lapeer_Michigan,Lapeer,MI,Michigan
+St. Clair_Alabama,St. Clair,AL,Alabama
+Dodge_Wisconsin,Dodge,WI,Wisconsin
+Orangeburg_South Carolina,Orangeburg,SC,South Carolina
+Angelina_Texas,Angelina,TX,Texas
+Mendocino_California,Mendocino,CA,California
+Dallas_Iowa,Dallas,IA,Iowa
+Lawrence_Pennsylvania,Lawrence,PA,Pennsylvania
+Frederick_Virginia,Frederick,VA,Virginia
+Josephine_Oregon,Josephine,OR,Oregon
+Muskingum_Ohio,Muskingum,OH,Ohio
+Bannock_Idaho,Bannock,ID,Idaho
+Crawford_Pennsylvania,Crawford,PA,Pennsylvania
+Christian_Missouri,Christian,MO,Missouri
+Lee_Mississippi,Lee,MS,Mississippi
+Indiana_Pennsylvania,Indiana,PA,Pennsylvania
+Wood_West Virginia,Wood,WV,West Virginia
+Chemung_New York,Chemung,NY,New York
+Twin Falls_Idaho,Twin Falls,ID,Idaho
+Jefferson_Wisconsin,Jefferson,WI,Wisconsin
+Bastrop_Texas,Bastrop,TX,Texas
+Glynn_Georgia,Glynn,GA,Georgia
+Orange_Texas,Orange,TX,Texas
+Liberty_Texas,Liberty,TX,Texas
+Midland_Michigan,Midland,MI,Michigan
+St. Landry_Louisiana,St. Landry,LA,Louisiana
+Nassau_Florida,Nassau,FL,Florida
+Polk_Oregon,Polk,OR,Oregon
+Lincoln_North Carolina,Lincoln,NC,North Carolina
+Island_Washington,Island,WA,Washington
+Cullman_Alabama,Cullman,AL,Alabama
+Newport_Rhode Island,Newport,RI,Rhode Island
+Bartholomew_Indiana,Bartholomew,IN,Indiana
+Howard_Indiana,Howard,IN,Indiana
+Caldwell_North Carolina,Caldwell,NC,North Carolina
+Payne_Oklahoma,Payne,OK,Oklahoma
+Cascade_Montana,Cascade,MT,Montana
+Wilson_North Carolina,Wilson,NC,North Carolina
+Elmore_Alabama,Elmore,AL,Alabama
+Henderson_Texas,Henderson,TX,Texas
+Leavenworth_Kansas,Leavenworth,KS,Kansas
+Clinton_New York,Clinton,NY,New York
+Lynchburg_Virginia,Lynchburg,VA,Virginia
+Talladega_Alabama,Talladega,AL,Alabama
+Natrona_Wyoming,Natrona,WY,Wyoming
+Rockingham_Virginia,Rockingham,VA,Virginia
+Bullitt_Kentucky,Bullitt,KY,Kentucky
+Clearfield_Pennsylvania,Clearfield,PA,Pennsylvania
+Manitowoc_Wisconsin,Manitowoc,WI,Wisconsin
+Kosciusko_Indiana,Kosciusko,IN,Indiana
+Barrow_Georgia,Barrow,GA,Georgia
+Wagoner_Oklahoma,Wagoner,OK,Oklahoma
+White_Arkansas,White,AR,Arkansas
+Cape Girardeau_Missouri,Cape Girardeau,MO,Missouri
+Clinton_Michigan,Clinton,MI,Michigan
+Bedford_Virginia,Bedford,VA,Virginia
+Lewis_Washington,Lewis,WA,Washington
+Vermilion_Illinois,Vermilion,IL,Illinois
+Oconee_South Carolina,Oconee,SC,South Carolina
+Putnam_Tennessee,Putnam,TN,Tennessee
+Cayuga_New York,Cayuga,NY,New York
+Floyd_Indiana,Floyd,IN,Indiana
+Umatilla_Oregon,Umatilla,OR,Oregon
+Cattaraugus_New York,Cattaraugus,NY,New York
+Ross_Ohio,Ross,OH,Ohio
+Cole_Missouri,Cole,MO,Missouri
+Yuba_California,Yuba,CA,California
+Lauderdale_Mississippi,Lauderdale,MS,Mississippi
+Chelan_Washington,Chelan,WA,Washington
+Bulloch_Georgia,Bulloch,GA,Georgia
+Anderson_Tennessee,Anderson,TN,Tennessee
+Cheshire_New Hampshire,Cheshire,NH,New Hampshire
+Scioto_Ohio,Scioto,OH,Ohio
+Valencia_New Mexico,Valencia,NM,New Mexico
+Hancock_Ohio,Hancock,OH,Ohio
+Monroe_Florida,Monroe,FL,Florida
+Clallam_Washington,Clallam,WA,Washington
+Van Buren_Michigan,Van Buren,MI,Michigan
+Coryell_Texas,Coryell,TX,Texas
+Raleigh_West Virginia,Raleigh,WV,West Virginia
+Forrest_Mississippi,Forrest,MS,Mississippi
+Hancock_Indiana,Hancock,IN,Indiana
+Sullivan_New York,Sullivan,NY,New York
+Augusta_Virginia,Augusta,VA,Virginia
+Riley_Kansas,Riley,KS,Kansas
+James City_Virginia,James City,VA,Virginia
+Erie_Ohio,Erie,OH,Ohio
+Somerset_Pennsylvania,Somerset,PA,Pennsylvania
+Putnam_Florida,Putnam,FL,Florida
+Wood_Wisconsin,Wood,WI,Wisconsin
+Grays Harbor_Washington,Grays Harbor,WA,Washington
+Lonoke_Arkansas,Lonoke,AR,Arkansas
+McKinley_New Mexico,McKinley,NM,New Mexico
+Walker_Texas,Walker,TX,Texas
+Pottawatomie_Oklahoma,Pottawatomie,OK,Oklahoma
+Surry_North Carolina,Surry,NC,North Carolina
+Iberia_Louisiana,Iberia,LA,Louisiana
+Kauai_Hawaii,Kauai,HI,Hawaii
+Apache_Arizona,Apache,AZ,Arizona
+Allegany_Maryland,Allegany,MD,Maryland
+Creek_Oklahoma,Creek,OK,Oklahoma
+Christian_Kentucky,Christian,KY,Kentucky
+Chatham_North Carolina,Chatham,NC,North Carolina
+DeKalb_Alabama,DeKalb,AL,Alabama
+Madison_New York,Madison,NY,New York
+Isabella_Michigan,Isabella,MI,Michigan
+Portage_Wisconsin,Portage,WI,Wisconsin
+Franklin_Massachusetts,Franklin,MA,Massachusetts
+Greenwood_South Carolina,Greenwood,SC,South Carolina
+Robertson_Tennessee,Robertson,TN,Tennessee
+Lea_New Mexico,Lea,NM,New Mexico
+Grand Forks_North Dakota,Grand Forks,ND,North Dakota
+Columbia_Florida,Columbia,FL,Florida
+Morgan_Indiana,Morgan,IN,Indiana
+Troup_Georgia,Troup,GA,Georgia
+Fauquier_Virginia,Fauquier,VA,Virginia
+Jefferson_Arkansas,Jefferson,AR,Arkansas
+Carteret_North Carolina,Carteret,NC,North Carolina
+Walker_Georgia,Walker,GA,Georgia
+Greene_Tennessee,Greene,TN,Tennessee
+Ward_North Dakota,Ward,ND,North Dakota
+Muskogee_Oklahoma,Muskogee,OK,Oklahoma
+Wilkes_North Carolina,Wilkes,NC,North Carolina
+Jones_Mississippi,Jones,MS,Mississippi
+Shiawassee_Michigan,Shiawassee,MI,Michigan
+Walton_Florida,Walton,FL,Florida
+Belmont_Ohio,Belmont,OH,Ohio
+York_Virginia,York,VA,Virginia
+Harrison_West Virginia,Harrison,WV,West Virginia
+Broomfield_Colorado,Broomfield,CO,Colorado
+Jackson_Georgia,Jackson,GA,Georgia
+Aroostook_Maine,Aroostook,ME,Maine
+Lewis and Clark_Montana,Lewis and Clark,MT,Montana
+Tooele_Utah,Tooele,UT,Utah
+Williamson_Illinois,Williamson,IL,Illinois
+Darlington_South Carolina,Darlington,SC,South Carolina
+San Patricio_Texas,San Patricio,TX,Texas
+Klamath_Oregon,Klamath,OR,Oregon
+Laurens_South Carolina,Laurens,SC,South Carolina
+Blue Earth_Minnesota,Blue Earth,MN,Minnesota
+Catoosa_Georgia,Catoosa,GA,Georgia
+Butler_Kansas,Butler,KS,Kansas
+Marquette_Michigan,Marquette,MI,Michigan
+St. Francois_Missouri,St. Francois,MO,Missouri
+Rutherford_North Carolina,Rutherford,NC,North Carolina
+Harrison_Texas,Harrison,TX,Texas
+Grant_Indiana,Grant,IN,Indiana
+Jefferson_Ohio,Jefferson,OH,Ohio
+Franklin_North Carolina,Franklin,NC,North Carolina
+Wayne_Indiana,Wayne,IN,Indiana
+Wise_Texas,Wise,TX,Texas
+Rice_Minnesota,Rice,MN,Minnesota
+Otero_New Mexico,Otero,NM,New Mexico
+Adams_Illinois,Adams,IL,Illinois
+Oldham_Kentucky,Oldham,KY,Kentucky
+Athens_Ohio,Athens,OH,Ohio
+Armstrong_Pennsylvania,Armstrong,PA,Pennsylvania
+Columbia_Pennsylvania,Columbia,PA,Pennsylvania
+Boone_Indiana,Boone,IN,Indiana
+Nacogdoches_Texas,Nacogdoches,TX,Texas
+Spalding_Georgia,Spalding,GA,Georgia
+Marion_Ohio,Marion,OH,Ohio
+McCracken_Kentucky,McCracken,KY,Kentucky
+Chaves_New Mexico,Chaves,NM,New Mexico
+Kershaw_South Carolina,Kershaw,SC,South Carolina
+Pulaski_Kentucky,Pulaski,KY,Kentucky
+Ionia_Michigan,Ionia,MI,Michigan
+Warren_New York,Warren,NY,New York
+Crow Wing_Minnesota,Crow Wing,MN,Minnesota
+Lake_California,Lake,CA,California
+Hamblen_Tennessee,Hamblen,TN,Tennessee
+Walker_Alabama,Walker,AL,Alabama
+Starr_Texas,Starr,TX,Texas
+Sauk_Wisconsin,Sauk,WI,Wisconsin
+Tehama_California,Tehama,CA,California
+Chippewa_Wisconsin,Chippewa,WI,Wisconsin
+Carbon_Pennsylvania,Carbon,PA,Pennsylvania
+Mason_Washington,Mason,WA,Washington
+Pope_Arkansas,Pope,AR,Arkansas
+Coos_Oregon,Coos,OR,Oregon
+Livingston_New York,Livingston,NY,New York
+Clay_Minnesota,Clay,MN,Minnesota
+Montcalm_Michigan,Montcalm,MI,Michigan
+Sampson_North Carolina,Sampson,NC,North Carolina
+Salem_New Jersey,Salem,NJ,New Jersey
+Reno_Kansas,Reno,KS,Kansas
+Crawford_Arkansas,Crawford,AR,Arkansas
+Acadia_Louisiana,Acadia,LA,Louisiana
+Warrick_Indiana,Warrick,IN,Indiana
+Herkimer_New York,Herkimer,NY,New York
+Lamar_Mississippi,Lamar,MS,Mississippi
+Georgetown_South Carolina,Georgetown,SC,South Carolina
+Garfield_Oklahoma,Garfield,OK,Oklahoma
+Washington_New York,Washington,NY,New York
+Stanly_North Carolina,Stanly,NC,North Carolina
+Knox_Ohio,Knox,OH,Ohio
+Tipton_Tennessee,Tipton,TN,Tennessee
+Liberty_Georgia,Liberty,GA,Georgia
+Hall_Nebraska,Hall,NE,Nebraska
+Pittsylvania_Virginia,Pittsylvania,VA,Virginia
+Haywood_North Carolina,Haywood,NC,North Carolina
+Bradford_Pennsylvania,Bradford,PA,Pennsylvania
+Belknap_New Hampshire,Belknap,NH,New Hampshire
+St. Joseph_Michigan,St. Joseph,MI,Michigan
+Barry_Michigan,Barry,MI,Michigan
+Lee_North Carolina,Lee,NC,North Carolina
+Effingham_Georgia,Effingham,GA,Georgia
+Washington_Ohio,Washington,OH,Ohio
+Pender_North Carolina,Pender,NC,North Carolina
+San Benito_California,San Benito,CA,California
+Columbia_New York,Columbia,NY,New York
+Walla Walla_Washington,Walla Walla,WA,Washington
+Laurel_Kentucky,Laurel,KY,Kentucky
+Lawrence_Ohio,Lawrence,OH,Ohio
+Otsego_New York,Otsego,NY,New York
+Mercer_West Virginia,Mercer,WV,West Virginia
+Vermilion_Louisiana,Vermilion,LA,Louisiana
+Pike_Kentucky,Pike,KY,Kentucky
+Granville_North Carolina,Granville,NC,North Carolina
+Cumberland_Tennessee,Cumberland,TN,Tennessee
+Lowndes_Mississippi,Lowndes,MS,Mississippi
+Garfield_Colorado,Garfield,CO,Colorado
+Sandusky_Ohio,Sandusky,OH,Ohio
+Duplin_North Carolina,Duplin,NC,North Carolina
+Rutland_Vermont,Rutland,VT,Vermont
+Kenai Peninsula_Alaska,Kenai Peninsula,AK,Alaska
+Washington_Vermont,Washington,VT,Vermont
+Huron_Ohio,Huron,OH,Ohio
+Hood_Texas,Hood,TX,Texas
+Otter Tail_Minnesota,Otter Tail,MN,Minnesota
+Newton_Missouri,Newton,MO,Missouri
+Maverick_Texas,Maverick,TX,Texas
+Jackson_Illinois,Jackson,IL,Illinois
+Russell_Alabama,Russell,AL,Alabama
+Anderson_Texas,Anderson,TX,Texas
+Genesee_New York,Genesee,NY,New York
+Pickaway_Ohio,Pickaway,OH,Ohio
+Eddy_New Mexico,Eddy,NM,New Mexico
+Blount_Alabama,Blount,AL,Alabama
+Oxford_Maine,Oxford,ME,Maine
+Gordon_Georgia,Gordon,GA,Georgia
+Columbia_Wisconsin,Columbia,WI,Wisconsin
+Cherokee_South Carolina,Cherokee,SC,South Carolina
+Lincoln_South Dakota,Lincoln,SD,South Dakota
+Hardin_Texas,Hardin,TX,Texas
+Lenoir_North Carolina,Lenoir,NC,North Carolina
+Union_Ohio,Union,OH,Ohio
+Hawkins_Tennessee,Hawkins,TN,Tennessee
+Putnam_West Virginia,Putnam,WV,West Virginia
+Jefferson_West Virginia,Jefferson,WV,West Virginia
+Lincoln_Missouri,Lincoln,MO,Missouri
+Carter_Tennessee,Carter,TN,Tennessee
+Marion_West Virginia,Marion,WV,West Virginia
+Franklin_Virginia,Franklin,VA,Virginia
+Columbus_North Carolina,Columbus,NC,North Carolina
+Whiteside_Illinois,Whiteside,IL,Illinois
+La Plata_Colorado,La Plata,CO,Colorado
+Pike_Pennsylvania,Pike,PA,Pennsylvania
+Autauga_Alabama,Autauga,AL,Alabama
+Seneca_Ohio,Seneca,OH,Ohio
+Chisago_Minnesota,Chisago,MN,Minnesota
+Windsor_Vermont,Windsor,VT,Vermont
+Campbell_Virginia,Campbell,VA,Virginia
+Pearl River_Mississippi,Pearl River,MS,Mississippi
+Coffee_Tennessee,Coffee,TN,Tennessee
+Taney_Missouri,Taney,MO,Missouri
+Van Zandt_Texas,Van Zandt,TX,Texas
+Grady_Oklahoma,Grady,OK,Oklahoma
+Watauga_North Carolina,Watauga,NC,North Carolina
+Carson City_Nevada,Carson City,NV,Nevada
+Colbert_Alabama,Colbert,AL,Alabama
+Saline_Kansas,Saline,KS,Kansas
+Eagle_Colorado,Eagle,CO,Colorado
+Scott_Kentucky,Scott,KY,Kentucky
+Hancock_Maine,Hancock,ME,Maine
+Lyon_Nevada,Lyon,NV,Nevada
+Washington_Virginia,Washington,VA,Virginia
+Tuolumne_California,Tuolumne,CA,California
+Hoke_North Carolina,Hoke,NC,North Carolina
+Box Elder_Utah,Box Elder,UT,Utah
+Rusk_Texas,Rusk,TX,Texas
+St. Martin_Louisiana,St. Martin,LA,Louisiana
+Johnson_Missouri,Johnson,MO,Missouri
+Jefferson_Tennessee,Jefferson,TN,Tennessee
+Fulton_New York,Fulton,NY,New York
+Lafayette_Mississippi,Lafayette,MS,Mississippi
+Gila_Arizona,Gila,AZ,Arizona
+Boone_Illinois,Boone,IL,Illinois
+Ashland_Ohio,Ashland,OH,Ohio
+Harrisonburg_Virginia,Harrisonburg,VA,Virginia
+Camden_Georgia,Camden,GA,Georgia
+Roane_Tennessee,Roane,TN,Tennessee
+McMinn_Tennessee,McMinn,TN,Tennessee
+Jessamine_Kentucky,Jessamine,KY,Kentucky
+Tuscola_Michigan,Tuscola,MI,Michigan
+St. Charles_Louisiana,St. Charles,LA,Louisiana
+Dickson_Tennessee,Dickson,TN,Tennessee
+Edgecombe_North Carolina,Edgecombe,NC,North Carolina
+Pulaski_Missouri,Pulaski,MO,Missouri
+Loudon_Tennessee,Loudon,TN,Tennessee
+Elko_Nevada,Elko,NV,Nevada
+Cherokee_Texas,Cherokee,TX,Texas
+Washington_Oklahoma,Washington,OK,Oklahoma
+Jackson_Alabama,Jackson,AL,Alabama
+Kerr_Texas,Kerr,TX,Texas
+Waller_Texas,Waller,TX,Texas
+Venango_Pennsylvania,Venango,PA,Pennsylvania
+Worcester_Maryland,Worcester,MD,Maryland
+Grant_Wisconsin,Grant,WI,Wisconsin
+Coffee_Alabama,Coffee,AL,Alabama
+Cass_Michigan,Cass,MI,Michigan
+Darke_Ohio,Darke,OH,Ohio
+Wayne_Pennsylvania,Wayne,PA,Pennsylvania
+Columbia_Oregon,Columbia,OR,Oregon
+Coles_Illinois,Coles,IL,Illinois
+Henry_Virginia,Henry,VA,Virginia
+Waupaca_Wisconsin,Waupaca,WI,Wisconsin
+Iron_Utah,Iron,UT,Utah
+Halifax_North Carolina,Halifax,NC,North Carolina
+Culpeper_Virginia,Culpeper,VA,Virginia
+Ogle_Illinois,Ogle,IL,Illinois
+St. Mary_Louisiana,St. Mary,LA,Louisiana
+Winona_Minnesota,Winona,MN,Minnesota
+Grundy_Illinois,Grundy,IL,Illinois
+Franklin_Kentucky,Franklin,KY,Kentucky
+Somerset_Maine,Somerset,ME,Maine
+Knox_Illinois,Knox,IL,Illinois
+Franklin_New York,Franklin,NY,New York
+Warren_Iowa,Warren,IA,Iowa
+Medina_Texas,Medina,TX,Texas
+Le Flore_Oklahoma,Le Flore,OK,Oklahoma
+Calumet_Wisconsin,Calumet,WI,Wisconsin
+Curry_New Mexico,Curry,NM,New Mexico
+Vernon_Louisiana,Vernon,LA,Louisiana
+Queen Anne's_Maryland,Queen Anne's,MD,Maryland
+Lamar_Texas,Lamar,TX,Texas
+Atascosa_Texas,Atascosa,TX,Texas
+Oktibbeha_Mississippi,Oktibbeha,MS,Mississippi
+Dearborn_Indiana,Dearborn,IN,Indiana
+Montgomery_New York,Montgomery,NY,New York
+Dale_Alabama,Dale,AL,Alabama
+Henry_Illinois,Henry,IL,Illinois
+Whitman_Washington,Whitman,WA,Washington
+Gibson_Tennessee,Gibson,TN,Tennessee
+Buffalo_Nebraska,Buffalo,NE,Nebraska
+Wilson_Texas,Wilson,TX,Texas
+Franklin_Vermont,Franklin,VT,Vermont
+Navarro_Texas,Navarro,TX,Texas
+Val Verde_Texas,Val Verde,TX,Texas
+Polk_Texas,Polk,TX,Texas
+Bristol_Rhode Island,Bristol,RI,Rhode Island
+Shelby_Ohio,Shelby,OH,Ohio
+Tioga_New York,Tioga,NY,New York
+Crittenden_Arkansas,Crittenden,AR,Arkansas
+Cherokee_Oklahoma,Cherokee,OK,Oklahoma
+Lincoln_Oregon,Lincoln,OR,Oregon
+Newaygo_Michigan,Newaygo,MI,Michigan
+Bedford_Pennsylvania,Bedford,PA,Pennsylvania
+Carter_Oklahoma,Carter,OK,Oklahoma
+Bedford_Tennessee,Bedford,TN,Tennessee
+Henry_Indiana,Henry,IN,Indiana
+Carroll_New Hampshire,Carroll,NH,New Hampshire
+Douglas_Nevada,Douglas,NV,Nevada
+Jackson_Florida,Jackson,FL,Florida
+Chenango_New York,Chenango,NY,New York
+Cortland_New York,Cortland,NY,New York
+Boyd_Kentucky,Boyd,KY,Kentucky
+Noble_Indiana,Noble,IN,Indiana
+Greene_New York,Greene,NY,New York
+Campbell_Wyoming,Campbell,WY,Wyoming
+Laurens_Georgia,Laurens,GA,Georgia
+Shelby_Kentucky,Shelby,KY,Kentucky
+Fremont_Colorado,Fremont,CO,Colorado
+Lincoln_Louisiana,Lincoln,LA,Louisiana
+Osage_Oklahoma,Osage,OK,Oklahoma
+Beaufort_North Carolina,Beaufort,NC,North Carolina
+Charlottesville_Virginia,Charlottesville,VA,Virginia
+Hancock_Mississippi,Hancock,MS,Mississippi
+Clinton_Iowa,Clinton,IA,Iowa
+Allegany_New York,Allegany,NY,New York
+Logan_Oklahoma,Logan,OK,Oklahoma
+Burnet_Texas,Burnet,TX,Texas
+Warren_Mississippi,Warren,MS,Mississippi
+Santa Cruz_Arizona,Santa Cruz,AZ,Arizona
+Marshall_Indiana,Marshall,IN,Indiana
+Bryan_Oklahoma,Bryan,OK,Oklahoma
+Washington_Louisiana,Washington,LA,Louisiana
+Beltrami_Minnesota,Beltrami,MN,Minnesota
+Mifflin_Pennsylvania,Mifflin,PA,Pennsylvania
+St. Bernard_Louisiana,St. Bernard,LA,Louisiana
+Goodhue_Minnesota,Goodhue,MN,Minnesota
+Monroe_Tennessee,Monroe,TN,Tennessee
+Washington_Mississippi,Washington,MS,Mississippi
+Perry_Pennsylvania,Perry,PA,Pennsylvania
+Chesterfield_South Carolina,Chesterfield,SC,South Carolina
+Gadsden_Florida,Gadsden,FL,Florida
+Kittitas_Washington,Kittitas,WA,Washington
+Bingham_Idaho,Bingham,ID,Idaho
+Henderson_Kentucky,Henderson,KY,Kentucky
+Stokes_North Carolina,Stokes,NC,North Carolina
+Monroe_Wisconsin,Monroe,WI,Wisconsin
+Hillsdale_Michigan,Hillsdale,MI,Michigan
+Auglaize_Ohio,Auglaize,OH,Ohio
+Nelson_Kentucky,Nelson,KY,Kentucky
+Lawrence_Indiana,Lawrence,IN,Indiana
+Calaveras_California,Calaveras,CA,California
+Colquitt_Georgia,Colquitt,GA,Georgia
+Camden_Missouri,Camden,MO,Missouri
+Macoupin_Illinois,Macoupin,IL,Illinois
+Huntingdon_Pennsylvania,Huntingdon,PA,Pennsylvania
+Hopkins_Kentucky,Hopkins,KY,Kentucky
+Logan_Ohio,Logan,OH,Ohio
+Barron_Wisconsin,Barron,WI,Wisconsin
+McDowell_North Carolina,McDowell,NC,North Carolina
+Itasca_Minnesota,Itasca,MN,Minnesota
+Baldwin_Georgia,Baldwin,GA,Georgia
+Union_Pennsylvania,Union,PA,Pennsylvania
+Stephenson_Illinois,Stephenson,IL,Illinois
+Richmond_North Carolina,Richmond,NC,North Carolina
+Delaware_New York,Delaware,NY,New York
+Greene_Arkansas,Greene,AR,Arkansas
+Callaway_Missouri,Callaway,MO,Missouri
+Dunn_Wisconsin,Dunn,WI,Wisconsin
+Stevens_Washington,Stevens,WA,Washington
+Thomas_Georgia,Thomas,GA,Georgia
+Phelps_Missouri,Phelps,MO,Missouri
+Habersham_Georgia,Habersham,GA,Georgia
+Vance_North Carolina,Vance,NC,North Carolina
+Shelby_Indiana,Shelby,IN,Indiana
+Kay_Oklahoma,Kay,OK,Oklahoma
+Nye_Nevada,Nye,NV,Nevada
+Wood_Texas,Wood,TX,Texas
+Pittsburg_Oklahoma,Pittsburg,OK,Oklahoma
+Madison_Ohio,Madison,OH,Ohio
+Chilton_Alabama,Chilton,AL,Alabama
+Suwannee_Florida,Suwannee,FL,Florida
+Jackson_Indiana,Jackson,IN,Indiana
+Holmes_Ohio,Holmes,OH,Ohio
+Barren_Kentucky,Barren,KY,Kentucky
+Jefferson_Pennsylvania,Jefferson,PA,Pennsylvania
+Kendall_Texas,Kendall,TX,Texas
+Stephens_Oklahoma,Stephens,OK,Oklahoma
+Bonner_Idaho,Bonner,ID,Idaho
+Fayette_West Virginia,Fayette,WV,West Virginia
+Miller_Arkansas,Miller,AR,Arkansas
+Brown_Ohio,Brown,OH,Ohio
+Sweetwater_Wyoming,Sweetwater,WY,Wyoming
+Branch_Michigan,Branch,MI,Michigan
+Siskiyou_California,Siskiyou,CA,California
+Polk_Wisconsin,Polk,WI,Wisconsin
+Lawrence_Tennessee,Lawrence,TN,Tennessee
+Douglas_Wisconsin,Douglas,WI,Wisconsin
+Mecosta_Michigan,Mecosta,MI,Michigan
+St. John the Baptist_Louisiana,St. John the Baptist,LA,Louisiana
+Shenandoah_Virginia,Shenandoah,VA,Virginia
+Sullivan_New Hampshire,Sullivan,NH,New Hampshire
+Coffee_Georgia,Coffee,GA,Georgia
+Highland_Ohio,Highland,OH,Ohio
+Jackson_North Carolina,Jackson,NC,North Carolina
+DeKalb_Indiana,DeKalb,IN,Indiana
+Muscatine_Iowa,Muscatine,IA,Iowa
+Kandiyohi_Minnesota,Kandiyohi,MN,Minnesota
+Cerro Gordo_Iowa,Cerro Gordo,IA,Iowa
+Windham_Vermont,Windham,VT,Vermont
+Butler_Missouri,Butler,MO,Missouri
+Dubois_Indiana,Dubois,IN,Indiana
+Ravalli_Montana,Ravalli,MT,Montana
+Delaware_Oklahoma,Delaware,OK,Oklahoma
+Pettis_Missouri,Pettis,MO,Missouri
+Davie_North Carolina,Davie,NC,North Carolina
+Fulton_Ohio,Fulton,OH,Ohio
+Caldwell_Texas,Caldwell,TX,Texas
+Ohio_West Virginia,Ohio,WV,West Virginia
+Mississippi_Arkansas,Mississippi,AR,Arkansas
+Douglas_Washington,Douglas,WA,Washington
+Pierce_Wisconsin,Pierce,WI,Wisconsin
+Clinton_Ohio,Clinton,OH,Ohio
+Polk_Georgia,Polk,GA,Georgia
+Okanogan_Washington,Okanogan,WA,Washington
+Erath_Texas,Erath,TX,Texas
+Crawford_Ohio,Crawford,OH,Ohio
+Franklin_Tennessee,Franklin,TN,Tennessee
+Sequoyah_Oklahoma,Sequoyah,OK,Oklahoma
+Montrose_Colorado,Montrose,CO,Colorado
+Tazewell_Virginia,Tazewell,VA,Virginia
+Wharton_Texas,Wharton,TX,Texas
+Baxter_Arkansas,Baxter,AR,Arkansas
+McKean_Pennsylvania,McKean,PA,Pennsylvania
+Chambers_Texas,Chambers,TX,Texas
+Sanilac_Michigan,Sanilac,MI,Michigan
+Manassas_Virginia,Manassas,VA,Virginia
+Okeechobee_Florida,Okeechobee,FL,Florida
+Summit_Utah,Summit,UT,Utah
+Preble_Ohio,Preble,OH,Ohio
+Danville_Virginia,Danville,VA,Virginia
+Mayes_Oklahoma,Mayes,OK,Oklahoma
+Upshur_Texas,Upshur,TX,Texas
+Jim Wells_Texas,Jim Wells,TX,Texas
+Susquehanna_Pennsylvania,Susquehanna,PA,Pennsylvania
+Tioga_Pennsylvania,Tioga,PA,Pennsylvania
+Gratiot_Michigan,Gratiot,MI,Michigan
+Orleans_New York,Orleans,NY,New York
+Shawano_Wisconsin,Shawano,WI,Wisconsin
+Mercer_Ohio,Mercer,OH,Ohio
+Hendry_Florida,Hendry,FL,Florida
+Warren_Tennessee,Warren,TN,Tennessee
+Avoyelles_Louisiana,Avoyelles,LA,Louisiana
+Ottawa_Ohio,Ottawa,OH,Ohio
+Tallapoosa_Alabama,Tallapoosa,AL,Alabama
+Tift_Georgia,Tift,GA,Georgia
+Snyder_Pennsylvania,Snyder,PA,Pennsylvania
+Levy_Florida,Levy,FL,Florida
+Marinette_Wisconsin,Marinette,WI,Wisconsin
+Wyoming_New York,Wyoming,NY,New York
+Wayne_West Virginia,Wayne,WV,West Virginia
+Nez Perce_Idaho,Nez Perce,ID,Idaho
+Cheatham_Tennessee,Cheatham,TN,Tennessee
+Fayette_Tennessee,Fayette,TN,Tennessee
+Benton_Minnesota,Benton,MN,Minnesota
+Howell_Missouri,Howell,MO,Missouri
+Cooke_Texas,Cooke,TX,Texas
+Marshall_Iowa,Marshall,IA,Iowa
+Harrison_Indiana,Harrison,IN,Indiana
+Fremont_Wyoming,Fremont,WY,Wyoming
+Mower_Minnesota,Mower,MN,Minnesota
+Campbell_Tennessee,Campbell,TN,Tennessee
+Knox_Maine,Knox,ME,Maine
+Warren_Pennsylvania,Warren,PA,Pennsylvania
+Murray_Georgia,Murray,GA,Georgia
+Waldo_Maine,Waldo,ME,Maine
+Pike_Mississippi,Pike,MS,Mississippi
+Pasquotank_North Carolina,Pasquotank,NC,North Carolina
+Latah_Idaho,Latah,ID,Idaho
+Warren_Virginia,Warren,VA,Virginia
+Union_Arkansas,Union,AR,Arkansas
+Isanti_Minnesota,Isanti,MN,Minnesota
+Des Moines_Iowa,Des Moines,IA,Iowa
+Person_North Carolina,Person,NC,North Carolina
+McClain_Oklahoma,McClain,OK,Oklahoma
+Webster_Louisiana,Webster,LA,Louisiana
+LaGrange_Indiana,LaGrange,IN,Indiana
+Rio Arriba_New Mexico,Rio Arriba,NM,New Mexico
+Dallas_Alabama,Dallas,AL,Alabama
+Guernsey_Ohio,Guernsey,OH,Ohio
+Clatsop_Oregon,Clatsop,OR,Oregon
+Madison_Idaho,Madison,ID,Idaho
+Crawford_Kansas,Crawford,KS,Kansas
+Franklin_Illinois,Franklin,IL,Illinois
+Brown_South Dakota,Brown,SD,South Dakota
+Clinton_Pennsylvania,Clinton,PA,Pennsylvania
+Champaign_Ohio,Champaign,OH,Ohio
+Calloway_Kentucky,Calloway,KY,Kentucky
+Natchitoches_Louisiana,Natchitoches,LA,Louisiana
+Okmulgee_Oklahoma,Okmulgee,OK,Oklahoma
+Clarion_Pennsylvania,Clarion,PA,Pennsylvania
+Woodford_Illinois,Woodford,IL,Illinois
+Webster_Missouri,Webster,MO,Missouri
+Scott_Missouri,Scott,MO,Missouri
+Wise_Virginia,Wise,VA,Virginia
+Amador_California,Amador,CA,California
+Albany_Wyoming,Albany,WY,Wyoming
+Pontotoc_Oklahoma,Pontotoc,OK,Oklahoma
+Montgomery_Indiana,Montgomery,IN,Indiana
+Lawrence_Missouri,Lawrence,MO,Missouri
+Newberry_South Carolina,Newberry,SC,South Carolina
+Defiance_Ohio,Defiance,OH,Ohio
+Oconee_Georgia,Oconee,GA,Georgia
+Prince George_Virginia,Prince George,VA,Virginia
+Graham_Arizona,Graham,AZ,Arizona
+Jefferson_Illinois,Jefferson,IL,Illinois
+Cass_Indiana,Cass,IN,Indiana
+Brown_Texas,Brown,TX,Texas
+Marion_Illinois,Marion,IL,Illinois
+Oconto_Wisconsin,Oconto,WI,Wisconsin
+Clinton_Illinois,Clinton,IL,Illinois
+Chippewa_Michigan,Chippewa,MI,Michigan
+Yadkin_North Carolina,Yadkin,NC,North Carolina
+Colleton_South Carolina,Colleton,SC,South Carolina
+Douglas_Minnesota,Douglas,MN,Minnesota
+Essex_New York,Essex,NY,New York
+Independence_Arkansas,Independence,AR,Arkansas
+Dyer_Tennessee,Dyer,TN,Tennessee
+Putnam_Indiana,Putnam,IN,Indiana
+Boone_Arkansas,Boone,AR,Arkansas
+Graves_Kentucky,Graves,KY,Kentucky
+Gloucester_Virginia,Gloucester,VA,Virginia
+Alexander_North Carolina,Alexander,NC,North Carolina
+Covington_Alabama,Covington,AL,Alabama
+Talbot_Maryland,Talbot,MD,Maryland
+Alcorn_Mississippi,Alcorn,MS,Mississippi
+Knox_Indiana,Knox,IN,Indiana
+Bryan_Georgia,Bryan,GA,Georgia
+Escambia_Alabama,Escambia,AL,Alabama
+Beauregard_Louisiana,Beauregard,LA,Louisiana
+Jasper_Iowa,Jasper,IA,Iowa
+DeSoto_Florida,DeSoto,FL,Florida
+Green_Wisconsin,Green,WI,Wisconsin
+Addison_Vermont,Addison,VT,Vermont
+Greene_Pennsylvania,Greene,PA,Pennsylvania
+Williams_Ohio,Williams,OH,Ohio
+Matagorda_Texas,Matagorda,TX,Texas
+Finney_Kansas,Finney,KS,Kansas
+Steele_Minnesota,Steele,MN,Minnesota
+Dodge_Nebraska,Dodge,NE,Nebraska
+Isle of Wight_Virginia,Isle of Wight,VA,Virginia
+Coshocton_Ohio,Coshocton,OH,Ohio
+Webster_Iowa,Webster,IA,Iowa
+Hopkins_Texas,Hopkins,TX,Texas
+Floyd_Kentucky,Floyd,KY,Kentucky
+Huntington_Indiana,Huntington,IN,Indiana
+Howard_Texas,Howard,TX,Texas
+Dare_North Carolina,Dare,NC,North Carolina
+Whitley_Kentucky,Whitley,KY,Kentucky
+Uintah_Utah,Uintah,UT,Utah
+Scotts Bluff_Nebraska,Scotts Bluff,NE,Nebraska
+Houghton_Michigan,Houghton,MI,Michigan
+Louisa_Virginia,Louisa,VA,Virginia
+Livingston_Illinois,Livingston,IL,Illinois
+Delta_Michigan,Delta,MI,Michigan
+Perry_Ohio,Perry,OH,Ohio
+Orange_Virginia,Orange,VA,Virginia
+Clark_Kentucky,Clark,KY,Kentucky
+McLeod_Minnesota,McLeod,MN,Minnesota
+Miami_Indiana,Miami,IN,Indiana
+Bennington_Vermont,Bennington,VT,Vermont
+Hill_Texas,Hill,TX,Texas
+Monroe_Mississippi,Monroe,MS,Mississippi
+Carlton_Minnesota,Carlton,MN,Minnesota
+Marshall_Mississippi,Marshall,MS,Mississippi
+Ware_Georgia,Ware,GA,Georgia
+Greenup_Kentucky,Greenup,KY,Kentucky
+Cocke_Tennessee,Cocke,TN,Tennessee
+Laclede_Missouri,Laclede,MO,Missouri
+Barry_Missouri,Barry,MO,Missouri
+Jasper_Texas,Jasper,TX,Texas
+Sagadahoc_Maine,Sagadahoc,ME,Maine
+Oneida_Wisconsin,Oneida,WI,Wisconsin
+Adams_Indiana,Adams,IN,Indiana
+Cowley_Kansas,Cowley,KS,Kansas
+Lincoln_Nebraska,Lincoln,NE,Nebraska
+Williams_North Dakota,Williams,ND,North Dakota
+Washington_Texas,Washington,TX,Texas
+Greenbrier_West Virginia,Greenbrier,WV,West Virginia
+Wapello_Iowa,Wapello,IA,Iowa
+Fulton_Illinois,Fulton,IL,Illinois
+Madison_Nebraska,Madison,NE,Nebraska
+Scotland_North Carolina,Scotland,NC,North Carolina
+Morrow_Ohio,Morrow,OH,Ohio
+Lincoln_Oklahoma,Lincoln,OK,Oklahoma
+Sioux_Iowa,Sioux,IA,Iowa
+Macon_North Carolina,Macon,NC,North Carolina
+Silver Bow_Montana,Silver Bow,MT,Montana
+Brookings_South Dakota,Brookings,SD,South Dakota
+Clark_Wisconsin,Clark,WI,Wisconsin
+Halifax_Virginia,Halifax,VA,Virginia
+Fannin_Texas,Fannin,TX,Texas
+Harvey_Kansas,Harvey,KS,Kansas
+Steuben_Indiana,Steuben,IN,Indiana
+Warren_Missouri,Warren,MO,Missouri
+Seneca_New York,Seneca,NY,New York
+Lee_Illinois,Lee,IL,Illinois
+Lincoln_Mississippi,Lincoln,MS,Mississippi
+Morgan_Illinois,Morgan,IL,Illinois
+Lee_Iowa,Lee,IA,Iowa
+Lincoln_Maine,Lincoln,ME,Maine
+Panola_Mississippi,Panola,MS,Mississippi
+Pulaski_Virginia,Pulaski,VA,Virginia
+Ford_Kansas,Ford,KS,Kansas
+Monroe_Illinois,Monroe,IL,Illinois
+Effingham_Illinois,Effingham,IL,Illinois
+Harris_Georgia,Harris,GA,Georgia
+Geary_Kansas,Geary,KS,Kansas
+Becker_Minnesota,Becker,MN,Minnesota
+Clarendon_South Carolina,Clarendon,SC,South Carolina
+Nicollet_Minnesota,Nicollet,MN,Minnesota
+Lincoln_Tennessee,Lincoln,TN,Tennessee
+Putnam_Ohio,Putnam,OH,Ohio
+Hale_Texas,Hale,TX,Texas
+Transylvania_North Carolina,Transylvania,NC,North Carolina
+Whitley_Indiana,Whitley,IN,Indiana
+Preston_West Virginia,Preston,WV,West Virginia
+Chambers_Alabama,Chambers,AL,Alabama
+Gibson_Indiana,Gibson,IN,Indiana
+Hot Spring_Arkansas,Hot Spring,AR,Arkansas
+Evangeline_Louisiana,Evangeline,LA,Louisiana
+Weakley_Tennessee,Weakley,TN,Tennessee
+Jasper_Indiana,Jasper,IN,Indiana
+Miami_Kansas,Miami,KS,Kansas
+Bladen_North Carolina,Bladen,NC,North Carolina
+Botetourt_Virginia,Botetourt,VA,Virginia
+Pike_Alabama,Pike,AL,Alabama
+Wexford_Michigan,Wexford,MI,Michigan
+Lyon_Kansas,Lyon,KS,Kansas
+Platte_Nebraska,Platte,NE,Nebraska
+Marion_Iowa,Marion,IA,Iowa
+Logan_West Virginia,Logan,WV,West Virginia
+Bureau_Illinois,Bureau,IL,Illinois
+Daviess_Indiana,Daviess,IN,Indiana
+Emmet_Michigan,Emmet,MI,Michigan
+Morrison_Minnesota,Morrison,MN,Minnesota
+Lawrence_Alabama,Lawrence,AL,Alabama
+Caroline_Maryland,Caroline,MD,Maryland
+McCurtain_Oklahoma,McCurtain,OK,Oklahoma
+Marshall_Tennessee,Marshall,TN,Tennessee
+Christian_Illinois,Christian,IL,Illinois
+Iberville_Louisiana,Iberville,LA,Louisiana
+Taos_New Mexico,Taos,NM,New Mexico
+Rhea_Tennessee,Rhea,TN,Tennessee
+Accomack_Virginia,Accomack,VA,Virginia
+Titus_Texas,Titus,TX,Texas
+Bee_Texas,Bee,TX,Texas
+Lafayette_Missouri,Lafayette,MO,Missouri
+Montgomery_Kansas,Montgomery,KS,Kansas
+Jackson_Ohio,Jackson,OH,Ohio
+Lumpkin_Georgia,Lumpkin,GA,Georgia
+Wakulla_Florida,Wakulla,FL,Florida
+Chester_South Carolina,Chester,SC,South Carolina
+Randolph_Illinois,Randolph,IL,Illinois
+Henry_Tennessee,Henry,TN,Tennessee
+Clinton_Indiana,Clinton,IN,Indiana
+Juneau_Alaska,Juneau,AK,Alaska
+Jefferson_Indiana,Jefferson,IN,Indiana
+Greene_Indiana,Greene,IN,Indiana
+Dorchester_Maryland,Dorchester,MD,Maryland
+Bolivar_Mississippi,Bolivar,MS,Mississippi
+Amherst_Virginia,Amherst,VA,Virginia
+Polk_Missouri,Polk,MO,Missouri
+Coos_New Hampshire,Coos,NH,New Hampshire
+Claiborne_Tennessee,Claiborne,TN,Tennessee
+Wasatch_Utah,Wasatch,UT,Utah
+Pontotoc_Mississippi,Pontotoc,MS,Mississippi
+Stone_Missouri,Stone,MO,Missouri
+Adams_Nebraska,Adams,NE,Nebraska
+Polk_Minnesota,Polk,MN,Minnesota
+Washington_Maine,Washington,ME,Maine
+Franklin_Alabama,Franklin,AL,Alabama
+Ottawa_Oklahoma,Ottawa,OK,Oklahoma
+Jefferson Davis_Louisiana,Jefferson Davis,LA,Louisiana
+Hardin_Ohio,Hardin,OH,Ohio
+Wabash_Indiana,Wabash,IN,Indiana
+Pickens_Georgia,Pickens,GA,Georgia
+Knox_Kentucky,Knox,KY,Kentucky
+Petersburg_Virginia,Petersburg,VA,Virginia
+Huron_Michigan,Huron,MI,Michigan
+Williamsburg_South Carolina,Williamsburg,SC,South Carolina
+Marion_South Carolina,Marion,SC,South Carolina
+Marshall_West Virginia,Marshall,WV,West Virginia
+Jefferson_Washington,Jefferson,WA,Washington
+Adams_Mississippi,Adams,MS,Mississippi
+Schoharie_New York,Schoharie,NY,New York
+Marshall_Kentucky,Marshall,KY,Kentucky
+Stark_North Dakota,Stark,ND,North Dakota
+Kleberg_Texas,Kleberg,TX,Texas
+Muhlenberg_Kentucky,Muhlenberg,KY,Kentucky
+Morton_North Dakota,Morton,ND,North Dakota
+Lassen_California,Lassen,CA,California
+Smyth_Virginia,Smyth,VA,Virginia
+Mecklenburg_Virginia,Mecklenburg,VA,Virginia
+Dillon_South Carolina,Dillon,SC,South Carolina
+Clare_Michigan,Clare,MI,Michigan
+Summit_Colorado,Summit,CO,Colorado
+Vernon_Wisconsin,Vernon,WI,Wisconsin
+Delta_Colorado,Delta,CO,Colorado
+McDonough_Illinois,McDonough,IL,Illinois
+Freeborn_Minnesota,Freeborn,MN,Minnesota
+Gilmer_Georgia,Gilmer,GA,Georgia
+Malheur_Oregon,Malheur,OR,Oregon
+Caroline_Virginia,Caroline,VA,Virginia
+Obion_Tennessee,Obion,TN,Tennessee
+Elk_Pennsylvania,Elk,PA,Pennsylvania
+Caledonia_Vermont,Caledonia,VT,Vermont
+Sheridan_Wyoming,Sheridan,WY,Wyoming
+Gallia_Ohio,Gallia,OH,Ohio
+Sumter_Georgia,Sumter,GA,Georgia
+Cass_Texas,Cass,TX,Texas
+Dunklin_Missouri,Dunklin,MO,Missouri
+Lake_Montana,Lake,MT,Montana
+Franklin_Maine,Franklin,ME,Maine
+Boyle_Kentucky,Boyle,KY,Kentucky
+Marion_Alabama,Marion,AL,Alabama
+Sanpete_Utah,Sanpete,UT,Utah
+Carroll_Virginia,Carroll,VA,Virginia
+Wayne_Georgia,Wayne,GA,Georgia
+Austin_Texas,Austin,TX,Texas
+Lee_Georgia,Lee,GA,Georgia
+Trempealeau_Wisconsin,Trempealeau,WI,Wisconsin
+White_Georgia,White,GA,Georgia
+Hancock_West Virginia,Hancock,WV,West Virginia
+Stoddard_Missouri,Stoddard,MO,Missouri
+Neshoba_Mississippi,Neshoba,MS,Mississippi
+Giles_Tennessee,Giles,TN,Tennessee
+Cass_Minnesota,Cass,MN,Minnesota
+Caddo_Oklahoma,Caddo,OK,Oklahoma
+Garrett_Maryland,Garrett,MD,Maryland
+Haralson_Georgia,Haralson,GA,Georgia
+Pine_Minnesota,Pine,MN,Minnesota
+Leflore_Mississippi,Leflore,MS,Mississippi
+Madison_Georgia,Madison,GA,Georgia
+Custer_Oklahoma,Custer,OK,Oklahoma
+Park_Wyoming,Park,WY,Wyoming
+Logan_Illinois,Logan,IL,Illinois
+Mason_Michigan,Mason,MI,Michigan
+Randolph_West Virginia,Randolph,WV,West Virginia
+Orange_Vermont,Orange,VT,Vermont
+Jackson_West Virginia,Jackson,WV,West Virginia
+Wythe_Virginia,Wythe,VA,Virginia
+Montgomery_Illinois,Montgomery,IL,Illinois
+Powhatan_Virginia,Powhatan,VA,Virginia
+Ellis_Kansas,Ellis,KS,Kansas
+Jasper_South Carolina,Jasper,SC,South Carolina
+Fredericksburg_Virginia,Fredericksburg,VA,Virginia
+Fayette_Ohio,Fayette,OH,Ohio
+Marion_Missouri,Marion,MO,Missouri
+Jones_Georgia,Jones,GA,Georgia
+McPherson_Kansas,McPherson,KS,Kansas
+Yazoo_Mississippi,Yazoo,MS,Mississippi
+Palo Pinto_Texas,Palo Pinto,TX,Texas
+Marion_Tennessee,Marion,TN,Tennessee
+Jefferson_Idaho,Jefferson,ID,Idaho
+Alpena_Michigan,Alpena,MI,Michigan
+Morgan_Colorado,Morgan,CO,Colorado
+Union_Mississippi,Union,MS,Mississippi
+Copiah_Mississippi,Copiah,MS,Mississippi
+Dinwiddie_Virginia,Dinwiddie,VA,Virginia
+Tate_Mississippi,Tate,MS,Mississippi
+Ripley_Indiana,Ripley,IN,Indiana
+Hocking_Ohio,Hocking,OH,Ohio
+Scott_Mississippi,Scott,MS,Mississippi
+Van Wert_Ohio,Van Wert,OH,Ohio
+Le Sueur_Minnesota,Le Sueur,MN,Minnesota
+Baker_Florida,Baker,FL,Florida
+Meade_Kentucky,Meade,KY,Kentucky
+San Jacinto_Texas,San Jacinto,TX,Texas
+Codington_South Dakota,Codington,SD,South Dakota
+Wells_Indiana,Wells,IN,Indiana
+Pike_Ohio,Pike,OH,Ohio
+Grimes_Texas,Grimes,TX,Texas
+Henderson_Tennessee,Henderson,TN,Tennessee
+Glenn_California,Glenn,CA,California
+Cherokee_North Carolina,Cherokee,NC,North Carolina
+Carroll_Arkansas,Carroll,AR,Arkansas
+Winchester_Virginia,Winchester,VA,Virginia
+Carroll_Tennessee,Carroll,TN,Tennessee
+Montgomery_Kentucky,Montgomery,KY,Kentucky
+Washington_Indiana,Washington,IN,Indiana
+Garvin_Oklahoma,Garvin,OK,Oklahoma
+Iroquois_Illinois,Iroquois,IL,Illinois
+Adams_Ohio,Adams,OH,Ohio
+Lincoln_Wisconsin,Lincoln,WI,Wisconsin
+San Miguel_New Mexico,San Miguel,NM,New Mexico
+Meade_South Dakota,Meade,SD,South Dakota
+Jennings_Indiana,Jennings,IN,Indiana
+Grant_New Mexico,Grant,NM,New Mexico
+Del Norte_California,Del Norte,CA,California
+Union_South Carolina,Union,SC,South Carolina
+Door_Wisconsin,Door,WI,Wisconsin
+Carroll_Ohio,Carroll,OH,Ohio
+Wyoming_Pennsylvania,Wyoming,PA,Pennsylvania
+Bradford_Florida,Bradford,FL,Florida
+De Soto_Louisiana,De Soto,LA,Louisiana
+Montgomery_North Carolina,Montgomery,NC,North Carolina
+Henry_Ohio,Henry,OH,Ohio
+Monroe_Georgia,Monroe,GA,Georgia
+Mineral_West Virginia,Mineral,WV,West Virginia
+Carter_Kentucky,Carter,KY,Kentucky
+Peach_Georgia,Peach,GA,Georgia
+Russell_Virginia,Russell,VA,Virginia
+Hardee_Florida,Hardee,FL,Florida
+Toombs_Georgia,Toombs,GA,Georgia
+Edgefield_South Carolina,Edgefield,SC,South Carolina
+Uvalde_Texas,Uvalde,TX,Texas
+Logan_Kentucky,Logan,KY,Kentucky
+Orleans_Vermont,Orleans,VT,Vermont
+Cibola_New Mexico,Cibola,NM,New Mexico
+Simpson_Mississippi,Simpson,MS,Mississippi
+Ashe_North Carolina,Ashe,NC,North Carolina
+Mason_West Virginia,Mason,WV,West Virginia
+White_Tennessee,White,TN,Tennessee
+Bell_Kentucky,Bell,KY,Kentucky
+Marlboro_South Carolina,Marlboro,SC,South Carolina
+Elmore_Idaho,Elmore,ID,Idaho
+Harlan_Kentucky,Harlan,KY,Kentucky
+Decatur_Georgia,Decatur,GA,Georgia
+Perry_Kentucky,Perry,KY,Kentucky
+Fluvanna_Virginia,Fluvanna,VA,Virginia
+Lewis_New York,Lewis,NY,New York
+Decatur_Indiana,Decatur,IN,Indiana
+Juneau_Wisconsin,Juneau,WI,Wisconsin
+Gillespie_Texas,Gillespie,TX,Texas
+Barton_Kansas,Barton,KS,Kansas
+Geneva_Alabama,Geneva,AL,Alabama
+Oceana_Michigan,Oceana,MI,Michigan
+Tillamook_Oregon,Tillamook,OR,Oregon
+Johnson_Arkansas,Johnson,AR,Arkansas
+Boone_Iowa,Boone,IA,Iowa
+Currituck_North Carolina,Currituck,NC,North Carolina
+Union_Oregon,Union,OR,Oregon
+Woodford_Kentucky,Woodford,KY,Kentucky
+Grayson_Kentucky,Grayson,KY,Kentucky
+Upson_Georgia,Upson,GA,Georgia
+Clay_Indiana,Clay,IN,Indiana
+King George_Virginia,King George,VA,Virginia
+Charlevoix_Michigan,Charlevoix,MI,Michigan
+Sunflower_Mississippi,Sunflower,MS,Mississippi
+Wasco_Oregon,Wasco,OR,Oregon
+West Baton Rouge_Louisiana,West Baton Rouge,LA,Louisiana
+Montezuma_Colorado,Montezuma,CO,Colorado
+Lauderdale_Tennessee,Lauderdale,TN,Tennessee
+Cherokee_Alabama,Cherokee,AL,Alabama
+St. Francis_Arkansas,St. Francis,AR,Arkansas
+Cass_Nebraska,Cass,NE,Nebraska
+Mille Lacs_Minnesota,Mille Lacs,MN,Minnesota
+McNairy_Tennessee,McNairy,TN,Tennessee
+Hart_Georgia,Hart,GA,Georgia
+Lyon_Minnesota,Lyon,MN,Minnesota
+Stephens_Georgia,Stephens,GA,Georgia
+Somerset_Maryland,Somerset,MD,Maryland
+Elbert_Colorado,Elbert,CO,Colorado
+Hardin_Tennessee,Hardin,TN,Tennessee
+Audrain_Missouri,Audrain,MO,Missouri
+Benton_Iowa,Benton,IA,Iowa
+Allen_Louisiana,Allen,LA,Louisiana
+Morehouse_Louisiana,Morehouse,LA,Louisiana
+Texas_Missouri,Texas,MO,Missouri
+Taylor_Kentucky,Taylor,KY,Kentucky
+Posey_Indiana,Posey,IN,Indiana
+Franklin_Kansas,Franklin,KS,Kansas
+Lawrence_South Dakota,Lawrence,SD,South Dakota
+Hardeman_Tennessee,Hardeman,TN,Tennessee
+Dickinson_Michigan,Dickinson,MI,Michigan
+Cheboygan_Michigan,Cheboygan,MI,Michigan
+Fannin_Georgia,Fannin,GA,Georgia
+Tattnall_Georgia,Tattnall,GA,Georgia
+Adair_Missouri,Adair,MO,Missouri
+Barbour_Alabama,Barbour,AL,Alabama
+Shelby_Texas,Shelby,TX,Texas
+Lamoille_Vermont,Lamoille,VT,Vermont
+Salem_Virginia,Salem,VA,Virginia
+Gladwin_Michigan,Gladwin,MI,Michigan
+Prentiss_Mississippi,Prentiss,MS,Mississippi
+Miller_Missouri,Miller,MO,Missouri
+Iosco_Michigan,Iosco,MI,Michigan
+Brown_Minnesota,Brown,MN,Minnesota
+Fayette_Texas,Fayette,TX,Texas
+Cleburne_Arkansas,Cleburne,AR,Arkansas
+Nicholas_West Virginia,Nicholas,WV,West Virginia
+Routt_Colorado,Routt,CO,Colorado
+Plymouth_Iowa,Plymouth,IA,Iowa
+Jackson_Oklahoma,Jackson,OK,Oklahoma
+Yates_New York,Yates,NY,New York
+Marion_Mississippi,Marion,MS,Mississippi
+Grant_Kentucky,Grant,KY,Kentucky
+Randolph_Indiana,Randolph,IN,Indiana
+Anson_North Carolina,Anson,NC,North Carolina
+Randolph_Missouri,Randolph,MO,Missouri
+Bremer_Iowa,Bremer,IA,Iowa
+Washington_Missouri,Washington,MO,Missouri
+Seminole_Oklahoma,Seminole,OK,Oklahoma
+Grady_Georgia,Grady,GA,Georgia
+Hickman_Tennessee,Hickman,TN,Tennessee
+Chattooga_Georgia,Chattooga,GA,Georgia
+Milam_Texas,Milam,TX,Texas
+Washington_Florida,Washington,FL,Florida
+Abbeville_South Carolina,Abbeville,SC,South Carolina
+Juniata_Pennsylvania,Juniata,PA,Pennsylvania
+Dawson_Georgia,Dawson,GA,Georgia
+Teller_Colorado,Teller,CO,Colorado
+Rowan_Kentucky,Rowan,KY,Kentucky
+Upshur_West Virginia,Upshur,WV,West Virginia
+Todd_Minnesota,Todd,MN,Minnesota
+Otsego_Michigan,Otsego,MI,Michigan
+Lincoln_Kentucky,Lincoln,KY,Kentucky
+Aransas_Texas,Aransas,TX,Texas
+Manistee_Michigan,Manistee,MI,Michigan
+Staunton_Virginia,Staunton,VA,Virginia
+Mingo_West Virginia,Mingo,WV,West Virginia
+Churchill_Nevada,Churchill,NV,Nevada
+Waushara_Wisconsin,Waushara,WI,Wisconsin
+Crawford_Missouri,Crawford,MO,Missouri
+White_Indiana,White,IN,Indiana
+Clarke_Alabama,Clarke,AL,Alabama
+Butts_Georgia,Butts,GA,Georgia
+Luna_New Mexico,Luna,NM,New Mexico
+Ohio_Kentucky,Ohio,KY,Kentucky
+Hertford_North Carolina,Hertford,NC,North Carolina
+Saline_Illinois,Saline,IL,Illinois
+Sabine_Louisiana,Sabine,LA,Louisiana
+Lee_Virginia,Lee,VA,Virginia
+George_Mississippi,George,MS,Mississippi
+Poinsett_Arkansas,Poinsett,AR,Arkansas
+Roscommon_Michigan,Roscommon,MI,Michigan
+Pottawatomie_Kansas,Pottawatomie,KS,Kansas
+Macon_Tennessee,Macon,TN,Tennessee
+Ouachita_Arkansas,Ouachita,AR,Arkansas
+Page_Virginia,Page,VA,Virginia
+Winston_Alabama,Winston,AL,Alabama
+Columbia_Arkansas,Columbia,AR,Arkansas
+Scott_Indiana,Scott,IN,Indiana
+Dawson_Nebraska,Dawson,NE,Nebraska
+Jerome_Idaho,Jerome,ID,Idaho
+Cassia_Idaho,Cassia,ID,Idaho
+Iowa_Wisconsin,Iowa,WI,Wisconsin
+Jefferson_Oregon,Jefferson,OR,Oregon
+Itawamba_Mississippi,Itawamba,MS,Mississippi
+Limestone_Texas,Limestone,TX,Texas
+Plaquemines_Louisiana,Plaquemines,LA,Louisiana
+Panola_Texas,Panola,TX,Texas
+Hampshire_West Virginia,Hampshire,WV,West Virginia
+Osceola_Michigan,Osceola,MI,Michigan
+Union_Georgia,Union,GA,Georgia
+Teton_Wyoming,Teton,WY,Wyoming
+Payette_Idaho,Payette,ID,Idaho
+Coahoma_Mississippi,Coahoma,MS,Mississippi
+Hood River_Oregon,Hood River,OR,Oregon
+Antrim_Michigan,Antrim,MI,Michigan
+Fayette_Indiana,Fayette,IN,Indiana
+Sumner_Kansas,Sumner,KS,Kansas
+Meeker_Minnesota,Meeker,MN,Minnesota
+Grainger_Tennessee,Grainger,TN,Tennessee
+Meigs_Ohio,Meigs,OH,Ohio
+Menominee_Michigan,Menominee,MI,Michigan
+Hockley_Texas,Hockley,TX,Texas
+Crook_Oregon,Crook,OR,Oregon
+Saline_Missouri,Saline,MO,Missouri
+Houston_Texas,Houston,TX,Texas
+Starke_Indiana,Starke,IN,Indiana
+Prince Edward_Virginia,Prince Edward,VA,Virginia
+Ray_Missouri,Ray,MO,Missouri
+Goochland_Virginia,Goochland,VA,Virginia
+Martin_North Carolina,Martin,NC,North Carolina
+Leake_Mississippi,Leake,MS,Mississippi
+McDonald_Missouri,McDonald,MO,Missouri
+Franklin_Indiana,Franklin,IN,Indiana
+Franklin_Georgia,Franklin,GA,Georgia
+Yankton_South Dakota,Yankton,SD,South Dakota
+Crisp_Georgia,Crisp,GA,Georgia
+Caswell_North Carolina,Caswell,NC,North Carolina
+Curry_Oregon,Curry,OR,Oregon
+Randolph_Alabama,Randolph,AL,Alabama
+Johnson_Kentucky,Johnson,KY,Kentucky
+Rockbridge_Virginia,Rockbridge,VA,Virginia
+Fairfield_South Carolina,Fairfield,SC,South Carolina
+Emanuel_Georgia,Emanuel,GA,Georgia
+Burke_Georgia,Burke,GA,Georgia
+Bibb_Alabama,Bibb,AL,Alabama
+Assumption_Louisiana,Assumption,LA,Louisiana
+Brooke_West Virginia,Brooke,WV,West Virginia
+Hopewell_Virginia,Hopewell,VA,Virginia
+Asotin_Washington,Asotin,WA,Washington
+Gray_Texas,Gray,TX,Texas
+Anderson_Kentucky,Anderson,KY,Kentucky
+Clark_Arkansas,Clark,AR,Arkansas
+Logan_Colorado,Logan,CO,Colorado
+Blaine_Idaho,Blaine,ID,Idaho
+Boone_West Virginia,Boone,WV,West Virginia
+Nodaway_Missouri,Nodaway,MO,Missouri
+Union_Louisiana,Union,LA,Louisiana
+Seward_Kansas,Seward,KS,Kansas
+Grant_Louisiana,Grant,LA,Louisiana
+Letcher_Kentucky,Letcher,KY,Kentucky
+Beckham_Oklahoma,Beckham,OK,Oklahoma
+Mitchell_Georgia,Mitchell,GA,Georgia
+Adair_Oklahoma,Adair,OK,Oklahoma
+Bandera_Texas,Bandera,TX,Texas
+Mahaska_Iowa,Mahaska,IA,Iowa
+Waynesboro_Virginia,Waynesboro,VA,Virginia
+Washington_Iowa,Washington,IA,Iowa
+Overton_Tennessee,Overton,TN,Tennessee
+Tippah_Mississippi,Tippah,MS,Mississippi
+Pointe Coupee_Louisiana,Pointe Coupee,LA,Louisiana
+Wyandot_Ohio,Wyandot,OH,Ohio
+Scott_Tennessee,Scott,TN,Tennessee
+Jersey_Illinois,Jersey,IL,Illinois
+Scott_Virginia,Scott,VA,Virginia
+Taylor_Florida,Taylor,FL,Florida
+Hempstead_Arkansas,Hempstead,AR,Arkansas
+Buchanan_Virginia,Buchanan,VA,Virginia
+Vilas_Wisconsin,Vilas,WI,Wisconsin
+Shelby_Illinois,Shelby,IL,Illinois
+Henry_Missouri,Henry,MO,Missouri
+Nobles_Minnesota,Nobles,MN,Minnesota
+Klickitat_Washington,Klickitat,WA,Washington
+Putnam_Georgia,Putnam,GA,Georgia
+Pacific_Washington,Pacific,WA,Washington
+New Kent_Virginia,New Kent,VA,Virginia
+Calhoun_Texas,Calhoun,TX,Texas
+Logan_Arkansas,Logan,AR,Arkansas
+Leelanau_Michigan,Leelanau,MI,Michigan
+Gage_Nebraska,Gage,NE,Nebraska
+Mercer_Kentucky,Mercer,KY,Kentucky
+Willacy_Texas,Willacy,TX,Texas
+Jo Daviess_Illinois,Jo Daviess,IL,Illinois
+Fayette_Illinois,Fayette,IL,Illinois
+Morgan_Tennessee,Morgan,TN,Tennessee
+Wabasha_Minnesota,Wabasha,MN,Minnesota
+Tyler_Texas,Tyler,TX,Texas
+Madison_North Carolina,Madison,NC,North Carolina
+Yell_Arkansas,Yell,AR,Arkansas
+McDuffie_Georgia,McDuffie,GA,Georgia
+Colusa_California,Colusa,CA,California
+Moore_Texas,Moore,TX,Texas
+Newton_Mississippi,Newton,MS,Mississippi
+Barnwell_South Carolina,Barnwell,SC,South Carolina
+Hutchinson_Texas,Hutchinson,TX,Texas
+St. James_Louisiana,St. James,LA,Louisiana
+Wyoming_West Virginia,Wyoming,WV,West Virginia
+Sevier_Utah,Sevier,UT,Utah
+Monroe_Alabama,Monroe,AL,Alabama
+Perry_Illinois,Perry,IL,Illinois
+Colorado_Texas,Colorado,TX,Texas
+Saunders_Nebraska,Saunders,NE,Nebraska
+Buchanan_Iowa,Buchanan,IA,Iowa
+Meriwether_Georgia,Meriwether,GA,Georgia
+Grenada_Mississippi,Grenada,MS,Mississippi
+Llano_Texas,Llano,TX,Texas
+Greene_North Carolina,Greene,NC,North Carolina
+Hubbard_Minnesota,Hubbard,MN,Minnesota
+Stutsman_North Dakota,Stutsman,ND,North Dakota
+Fillmore_Minnesota,Fillmore,MN,Minnesota
+Allen_Kentucky,Allen,KY,Kentucky
+Ogemaw_Michigan,Ogemaw,MI,Michigan
+Lampasas_Texas,Lampasas,TX,Texas
+Conway_Arkansas,Conway,AR,Arkansas
+Lincoln_West Virginia,Lincoln,WV,West Virginia
+Jay_Indiana,Jay,IN,Indiana
+Owen_Indiana,Owen,IN,Indiana
+Dodge_Georgia,Dodge,GA,Georgia
+Texas_Oklahoma,Texas,OK,Oklahoma
+La Paz_Arizona,La Paz,AZ,Arizona
+Gonzales_Texas,Gonzales,TX,Texas
+Sullivan_Indiana,Sullivan,IN,Indiana
+Woodward_Oklahoma,Woodward,OK,Oklahoma
+Gaines_Texas,Gaines,TX,Texas
+Minidoka_Idaho,Minidoka,ID,Idaho
+Dodge_Minnesota,Dodge,MN,Minnesota
+Vernon_Missouri,Vernon,MO,Missouri
+Jones_Iowa,Jones,IA,Iowa
+Polk_North Carolina,Polk,NC,North Carolina
+Wayne_Kentucky,Wayne,KY,Kentucky
+Jackson_Wisconsin,Jackson,WI,Wisconsin
+Clinton_Missouri,Clinton,MO,Missouri
+Worth_Georgia,Worth,GA,Georgia
+Uinta_Wyoming,Uinta,WY,Wyoming
+Spencer_Indiana,Spencer,IN,Indiana
+Washington_Georgia,Washington,GA,Georgia
+Kewaunee_Wisconsin,Kewaunee,WI,Wisconsin
+Wayne_Mississippi,Wayne,MS,Mississippi
+Clay_Kentucky,Clay,KY,Kentucky
+Washington_Nebraska,Washington,NE,Nebraska
+Richland_Louisiana,Richland,LA,Louisiana
+DeWitt_Texas,DeWitt,TX,Texas
+Taylor_Wisconsin,Taylor,WI,Wisconsin
+Carbon_Utah,Carbon,UT,Utah
+Saluda_South Carolina,Saluda,SC,South Carolina
+Carroll_Iowa,Carroll,IA,Iowa
+Morgan_Missouri,Morgan,MO,Missouri
+Ashley_Arkansas,Ashley,AR,Arkansas
+Winneshiek_Iowa,Winneshiek,IA,Iowa
+Pickens_Alabama,Pickens,AL,Alabama
+Franklin_Louisiana,Franklin,LA,Louisiana
+Cherokee_Kansas,Cherokee,KS,Kansas
+Breckinridge_Kentucky,Breckinridge,KY,Kentucky
+Dakota_Nebraska,Dakota,NE,Nebraska
+Duchesne_Utah,Duchesne,UT,Utah
+Labette_Kansas,Labette,KS,Kansas
+Fulton_Indiana,Fulton,IN,Indiana
+Adams_Wisconsin,Adams,WI,Wisconsin
+Polk_Arkansas,Polk,AR,Arkansas
+Carroll_Indiana,Carroll,IN,Indiana
+Buena Vista_Iowa,Buena Vista,IA,Iowa
+Bourbon_Kentucky,Bourbon,KY,Kentucky
+Lavaca_Texas,Lavaca,TX,Texas
+Northampton_North Carolina,Northampton,NC,North Carolina
+Jones_Texas,Jones,TX,Texas
+Henry_Iowa,Henry,IA,Iowa
+Warren_North Carolina,Warren,NC,North Carolina
+Frio_Texas,Frio,TX,Texas
+Davison_South Dakota,Davison,SD,South Dakota
+Martin_Minnesota,Martin,MN,Minnesota
+DeKalb_Tennessee,DeKalb,TN,Tennessee
+Butler_Alabama,Butler,AL,Alabama
+Fayette_Iowa,Fayette,IA,Iowa
+Concordia_Louisiana,Concordia,LA,Louisiana
+Smith_Tennessee,Smith,TN,Tennessee
+McIntosh_Oklahoma,McIntosh,OK,Oklahoma
+Freestone_Texas,Freestone,TX,Texas
+Clay_Mississippi,Clay,MS,Mississippi
+Douglas_Illinois,Douglas,IL,Illinois
+Adams_Washington,Adams,WA,Washington
+Hampton_South Carolina,Hampton,SC,South Carolina
+Chaffee_Colorado,Chaffee,CO,Colorado
+Orange_Indiana,Orange,IN,Indiana
+Lincoln_Montana,Lincoln,MT,Montana
+Kent_Maryland,Kent,MD,Maryland
+Greene_Virginia,Greene,VA,Virginia
+Montague_Texas,Montague,TX,Texas
+Union_Tennessee,Union,TN,Tennessee
+Lincoln_New Mexico,Lincoln,NM,New Mexico
+Tishomingo_Mississippi,Tishomingo,MS,Mississippi
+Holmes_Florida,Holmes,FL,Florida
+Jackson_Iowa,Jackson,IA,Iowa
+Bertie_North Carolina,Bertie,NC,North Carolina
+East Feliciana_Louisiana,East Feliciana,LA,Louisiana
+Marengo_Alabama,Marengo,AL,Alabama
+Lincoln_Wyoming,Lincoln,WY,Wyoming
+Pierce_Georgia,Pierce,GA,Georgia
+Marion_Kentucky,Marion,KY,Kentucky
+Adair_Kentucky,Adair,KY,Kentucky
+Perry_Missouri,Perry,MO,Missouri
+Elbert_Georgia,Elbert,GA,Georgia
+Berrien_Georgia,Berrien,GA,Georgia
+Langlade_Wisconsin,Langlade,WI,Wisconsin
+Benton_Missouri,Benton,MO,Missouri
+Perry_Indiana,Perry,IN,Indiana
+Covington_Mississippi,Covington,MS,Mississippi
+Crawford_Illinois,Crawford,IL,Illinois
+Jefferson_Kansas,Jefferson,KS,Kansas
+Roosevelt_New Mexico,Roosevelt,NM,New Mexico
+Dickinson_Kansas,Dickinson,KS,Kansas
+Paulding_Ohio,Paulding,OH,Ohio
+Brantley_Georgia,Brantley,GA,Georgia
+Green Lake_Wisconsin,Green Lake,WI,Wisconsin
+Waseca_Minnesota,Waseca,MN,Minnesota
+Deaf Smith_Texas,Deaf Smith,TX,Texas
+Hart_Kentucky,Hart,KY,Kentucky
+Harrison_Kentucky,Harrison,KY,Kentucky
+Macon_Alabama,Macon,AL,Alabama
+Banks_Georgia,Banks,GA,Georgia
+Long_Georgia,Long,GA,Georgia
+Spencer_Kentucky,Spencer,KY,Kentucky
+Lamar_Georgia,Lamar,GA,Georgia
+McDowell_West Virginia,McDowell,WV,West Virginia
+Plumas_California,Plumas,CA,California
+Houston_Minnesota,Houston,MN,Minnesota
+Los Alamos_New Mexico,Los Alamos,NM,New Mexico
+Phillips_Arkansas,Phillips,AR,Arkansas
+Morgan_Georgia,Morgan,GA,Georgia
+Madison_Florida,Madison,FL,Florida
+Cedar_Iowa,Cedar,IA,Iowa
+Pike_Missouri,Pike,MO,Missouri
+Appling_Georgia,Appling,GA,Georgia
+Attala_Mississippi,Attala,MS,Mississippi
+Humphreys_Tennessee,Humphreys,TN,Tennessee
+Drew_Arkansas,Drew,AR,Arkansas
+Poweshiek_Iowa,Poweshiek,IA,Iowa
+Beadle_South Dakota,Beadle,SD,South Dakota
+Pike_Georgia,Pike,GA,Georgia
+Bosque_Texas,Bosque,TX,Texas
+Otero_Colorado,Otero,CO,Colorado
+Stone_Mississippi,Stone,MS,Mississippi
+Eastland_Texas,Eastland,TX,Texas
+Montour_Pennsylvania,Montour,PA,Pennsylvania
+Winston_Mississippi,Winston,MS,Mississippi
+Fentress_Tennessee,Fentress,TN,Tennessee
+Wright_Missouri,Wright,MO,Missouri
+Simpson_Kentucky,Simpson,KY,Kentucky
+Jefferson_Iowa,Jefferson,IA,Iowa
+Bethel_Alaska,Bethel,AK,Alaska
+Grant_Arkansas,Grant,AR,Arkansas
+Burleson_Texas,Burleson,TX,Texas
+Young_Texas,Young,TX,Texas
+Andrews_Texas,Andrews,TX,Texas
+Hancock_Illinois,Hancock,IL,Illinois
+Inyo_California,Inyo,CA,California
+Gilchrist_Florida,Gilchrist,FL,Florida
+Pitkin_Colorado,Pitkin,CO,Colorado
+Schuyler_New York,Schuyler,NY,New York
+Arkansas_Arkansas,Arkansas,AR,Arkansas
+Southampton_Virginia,Southampton,VA,Virginia
+Park_Colorado,Park,CO,Colorado
+Ste. Genevieve_Missouri,Ste. Genevieve,MO,Missouri
+Unicoi_Tennessee,Unicoi,TN,Tennessee
+Russell_Kentucky,Russell,KY,Kentucky
+Yancey_North Carolina,Yancey,NC,North Carolina
+Johnson_Tennessee,Johnson,TN,Tennessee
+Westmoreland_Virginia,Westmoreland,VA,Virginia
+Patrick_Virginia,Patrick,VA,Virginia
+Franklin_Arkansas,Franklin,AR,Arkansas
+Holmes_Mississippi,Holmes,MS,Mississippi
+Morgan_West Virginia,Morgan,WV,West Virginia
+Randolph_Arkansas,Randolph,AR,Arkansas
+Radford_Virginia,Radford,VA,Virginia
+Cooper_Missouri,Cooper,MO,Missouri
+Clayton_Iowa,Clayton,IA,Iowa
+Haywood_Tennessee,Haywood,TN,Tennessee
+Benzie_Michigan,Benzie,MI,Michigan
+Hughes_South Dakota,Hughes,SD,South Dakota
+Kalkaska_Michigan,Kalkaska,MI,Michigan
+New Madrid_Missouri,New Madrid,MO,Missouri
+Avery_North Carolina,Avery,NC,North Carolina
+Andrew_Missouri,Andrew,MO,Missouri
+McCreary_Kentucky,McCreary,KY,Kentucky
+Richland_Wisconsin,Richland,WI,Wisconsin
+Garrard_Kentucky,Garrard,KY,Kentucky
+Colonial Heights_Virginia,Colonial Heights,VA,Virginia
+Mariposa_California,Mariposa,CA,California
+Edgar_Illinois,Edgar,IL,Illinois
+Lee_South Carolina,Lee,SC,South Carolina
+Greene_Georgia,Greene,GA,Georgia
+Gem_Idaho,Gem,ID,Idaho
+Dukes_Massachusetts,Dukes,MA,Massachusetts
+Falls_Texas,Falls,TX,Texas
+Leon_Texas,Leon,TX,Texas
+Chickasaw_Mississippi,Chickasaw,MS,Mississippi
+Chester_Tennessee,Chester,TN,Tennessee
+Delaware_Iowa,Delaware,IA,Iowa
+Cook_Georgia,Cook,GA,Georgia
+Seward_Nebraska,Seward,NE,Nebraska
+Warren_Illinois,Warren,IL,Illinois
+Sharp_Arkansas,Sharp,AR,Arkansas
+Henry_Alabama,Henry,AL,Alabama
+Dickinson_Iowa,Dickinson,IA,Iowa
+Mason_Kentucky,Mason,KY,Kentucky
+Scurry_Texas,Scurry,TX,Texas
+Sevier_Arkansas,Sevier,AR,Arkansas
+Hardin_Iowa,Hardin,IA,Iowa
+Buckingham_Virginia,Buckingham,VA,Virginia
+Lee_Texas,Lee,TX,Texas
+Crawford_Iowa,Crawford,IA,Iowa
+Ben Hill_Georgia,Ben Hill,GA,Georgia
+Tama_Iowa,Tama,IA,Iowa
+Jackson_Arkansas,Jackson,AR,Arkansas
+Robertson_Texas,Robertson,TX,Texas
+Manassas Park_Virginia,Manassas Park,VA,Virginia
+Union_Illinois,Union,IL,Illinois
+Parke_Indiana,Parke,IN,Indiana
+Bristol_Virginia,Bristol,VA,Virginia
+Taylor_West Virginia,Taylor,WV,West Virginia
+Socorro_New Mexico,Socorro,NM,New Mexico
+Piscataquis_Maine,Piscataquis,ME,Maine
+Humboldt_Nevada,Humboldt,NV,Nevada
+Cross_Arkansas,Cross,AR,Arkansas
+Rockcastle_Kentucky,Rockcastle,KY,Kentucky
+Polk_Tennessee,Polk,TN,Tennessee
+Potter_Pennsylvania,Potter,PA,Pennsylvania
+Gunnison_Colorado,Gunnison,CO,Colorado
+San Juan_Washington,San Juan,WA,Washington
+Giles_Virginia,Giles,VA,Virginia
+Lafayette_Wisconsin,Lafayette,WI,Wisconsin
+Wayne_Tennessee,Wayne,TN,Tennessee
+King William_Virginia,King William,VA,Virginia
+Pemiscot_Missouri,Pemiscot,MO,Missouri
+Rabun_Georgia,Rabun,GA,Georgia
+Van Buren_Arkansas,Van Buren,AR,Arkansas
+Rush_Indiana,Rush,IN,Indiana
+Barbour_West Virginia,Barbour,WV,West Virginia
+Dallas_Missouri,Dallas,MO,Missouri
+Dixie_Florida,Dixie,FL,Florida
+Bond_Illinois,Bond,IL,Illinois
+Lawrence_Arkansas,Lawrence,AR,Arkansas
+Washington_Alabama,Washington,AL,Alabama
+Brunswick_Virginia,Brunswick,VA,Virginia
+Marshall_Oklahoma,Marshall,OK,Oklahoma
+Jasper_Mississippi,Jasper,MS,Mississippi
+Fayette_Alabama,Fayette,AL,Alabama
+Marion_Arkansas,Marion,AR,Arkansas
+Hill_Montana,Hill,MT,Montana
+Fountain_Indiana,Fountain,IN,Indiana
+Pawnee_Oklahoma,Pawnee,OK,Oklahoma
+Idaho_Idaho,Idaho,ID,Idaho
+Wayne_Illinois,Wayne,IL,Illinois
+Piatt_Illinois,Piatt,IL,Illinois
+Sawyer_Wisconsin,Sawyer,WI,Wisconsin
+Park_Montana,Park,MT,Montana
+Bates_Missouri,Bates,MO,Missouri
+Atchison_Kansas,Atchison,KS,Kansas
+Richland_North Dakota,Richland,ND,North Dakota
+Crawford_Wisconsin,Crawford,WI,Wisconsin
+Clay_Iowa,Clay,IA,Iowa
+Madison_Arkansas,Madison,AR,Arkansas
+Dade_Georgia,Dade,GA,Georgia
+Iowa_Iowa,Iowa,IA,Iowa
+Lewis_West Virginia,Lewis,WV,West Virginia
+Benton_Tennessee,Benton,TN,Tennessee
+Neosho_Kansas,Neosho,KS,Kansas
+Alamosa_Colorado,Alamosa,CO,Colorado
+Kanabec_Minnesota,Kanabec,MN,Minnesota
+Moniteau_Missouri,Moniteau,MO,Missouri
+Telfair_Georgia,Telfair,GA,Georgia
+Lawrence_Illinois,Lawrence,IL,Illinois
+Baker_Oregon,Baker,OR,Oregon
+Madison_Iowa,Madison,IA,Iowa
+Smith_Mississippi,Smith,MS,Mississippi
+Claiborne_Louisiana,Claiborne,LA,Louisiana
+Otoe_Nebraska,Otoe,NE,Nebraska
+De Witt_Illinois,De Witt,IL,Illinois
+Henry_Kentucky,Henry,KY,Kentucky
+Casey_Kentucky,Casey,KY,Kentucky
+Osage_Kansas,Osage,KS,Kansas
+Jackson_Louisiana,Jackson,LA,Louisiana
+Aitkin_Minnesota,Aitkin,MN,Minnesota
+Pecos_Texas,Pecos,TX,Texas
+Floyd_Iowa,Floyd,IA,Iowa
+Clarke_Mississippi,Clarke,MS,Mississippi
+Richland_Illinois,Richland,IL,Illinois
+Grayson_Virginia,Grayson,VA,Virginia
+Clark_Illinois,Clark,IL,Illinois
+Appomattox_Virginia,Appomattox,VA,Virginia
+Floyd_Virginia,Floyd,VA,Virginia
+Kingfisher_Oklahoma,Kingfisher,OK,Oklahoma
+Washburn_Wisconsin,Washburn,WI,Wisconsin
+Pike_Illinois,Pike,IL,Illinois
+Lawrence_Kentucky,Lawrence,KY,Kentucky
+Jefferson_Georgia,Jefferson,GA,Georgia
+Ashland_Wisconsin,Ashland,WI,Wisconsin
+Brooks_Georgia,Brooks,GA,Georgia
+Mercer_Illinois,Mercer,IL,Illinois
+Gulf_Florida,Gulf,FL,Florida
+Dent_Missouri,Dent,MO,Missouri
+Karnes_Texas,Karnes,TX,Texas
+Vermillion_Indiana,Vermillion,IN,Indiana
+Torrance_New Mexico,Torrance,NM,New Mexico
+Reeves_Texas,Reeves,TX,Texas
+Wetzel_West Virginia,Wetzel,WV,West Virginia
+Nottoway_Virginia,Nottoway,VA,Virginia
+West Feliciana_Louisiana,West Feliciana,LA,Louisiana
+Union_South Dakota,Union,SD,South Dakota
+Roseau_Minnesota,Roseau,MN,Minnesota
+Marquette_Wisconsin,Marquette,WI,Wisconsin
+Grand_Colorado,Grand,CO,Colorado
+Union_Florida,Union,FL,Florida
+San Juan_Utah,San Juan,UT,Utah
+Burnett_Wisconsin,Burnett,WI,Wisconsin
+Page_Iowa,Page,IA,Iowa
+Redwood_Minnesota,Redwood,MN,Minnesota
+Knott_Kentucky,Knott,KY,Kentucky
+Carbon_Wyoming,Carbon,WY,Wyoming
+Harrison_Ohio,Harrison,OH,Ohio
+Macon_Missouri,Macon,MO,Missouri
+Tipton_Indiana,Tipton,IN,Indiana
+Alleghany_Virginia,Alleghany,VA,Virginia
+Gooding_Idaho,Gooding,ID,Idaho
+Livingston_Missouri,Livingston,MO,Missouri
+Arenac_Michigan,Arenac,MI,Michigan
+Brown_Indiana,Brown,IN,Indiana
+Gogebic_Michigan,Gogebic,MI,Michigan
+Jeff Davis_Georgia,Jeff Davis,GA,Georgia
+Mills_Iowa,Mills,IA,Iowa
+Missaukee_Michigan,Missaukee,MI,Michigan
+Mitchell_North Carolina,Mitchell,NC,North Carolina
+Hamilton_Iowa,Hamilton,IA,Iowa
+Bayfield_Wisconsin,Bayfield,WI,Wisconsin
+Kossuth_Iowa,Kossuth,IA,Iowa
+LaSalle_Louisiana,LaSalle,LA,Louisiana
+Oglethorpe_Georgia,Oglethorpe,GA,Georgia
+Williamsburg_Virginia,Williamsburg,VA,Virginia
+Cleburne_Alabama,Cleburne,AL,Alabama
+Nolan_Texas,Nolan,TX,Texas
+Sibley_Minnesota,Sibley,MN,Minnesota
+Clay_Arkansas,Clay,AR,Arkansas
+Bledsoe_Tennessee,Bledsoe,TN,Tennessee
+Nelson_Virginia,Nelson,VA,Virginia
+Jackson_Texas,Jackson,TX,Texas
+Sequatchie_Tennessee,Sequatchie,TN,Tennessee
+Hale_Alabama,Hale,AL,Alabama
+Choctaw_Oklahoma,Choctaw,OK,Oklahoma
+Dickenson_Virginia,Dickenson,VA,Virginia
+Gasconade_Missouri,Gasconade,MO,Missouri
+Calhoun_South Carolina,Calhoun,SC,South Carolina
+Renville_Minnesota,Renville,MN,Minnesota
+Moultrie_Illinois,Moultrie,IL,Illinois
+Morgan_Ohio,Morgan,OH,Ohio
+Union_Kentucky,Union,KY,Kentucky
+Butler_Iowa,Butler,IA,Iowa
+Trinity_Texas,Trinity,TX,Texas
+Bourbon_Kansas,Bourbon,KS,Kansas
+Pendleton_Kentucky,Pendleton,KY,Kentucky
+Fleming_Kentucky,Fleming,KY,Kentucky
+Rolette_North Dakota,Rolette,ND,North Dakota
+Fulton_Pennsylvania,Fulton,PA,Pennsylvania
+Calhoun_Mississippi,Calhoun,MS,Mississippi
+Walthall_Mississippi,Walthall,MS,Mississippi
+Carroll_Illinois,Carroll,IL,Illinois
+Trigg_Kentucky,Trigg,KY,Kentucky
+Clarke_Virginia,Clarke,VA,Virginia
+Noble_Ohio,Noble,OH,Ohio
+Crockett_Tennessee,Crockett,TN,Tennessee
+Craig_Oklahoma,Craig,OK,Oklahoma
+Bamberg_South Carolina,Bamberg,SC,South Carolina
+Calhoun_Florida,Calhoun,FL,Florida
+Oglala Lakota_South Dakota,Oglala Lakota,SD,South Dakota
+Hamilton_Florida,Hamilton,FL,Florida
+Winn_Louisiana,Winn,LA,Louisiana
+Mono_California,Mono,CA,California
+Zapata_Texas,Zapata,TX,Texas
+Saline_Nebraska,Saline,NE,Nebraska
+Las Animas_Colorado,Las Animas,CO,Colorado
+Swain_North Carolina,Swain,NC,North Carolina
+Estill_Kentucky,Estill,KY,Kentucky
+Massac_Illinois,Massac,IL,Illinois
+Larue_Kentucky,Larue,KY,Kentucky
+Madison_Texas,Madison,TX,Texas
+Braxton_West Virginia,Braxton,WV,West Virginia
+Pennington_Minnesota,Pennington,MN,Minnesota
+Cannon_Tennessee,Cannon,TN,Tennessee
+McIntosh_Georgia,McIntosh,GA,Georgia
+Jefferson_Florida,Jefferson,FL,Florida
+Tallahatchie_Mississippi,Tallahatchie,MS,Mississippi
+Rusk_Wisconsin,Rusk,WI,Wisconsin
+Falls Church_Virginia,Falls Church,VA,Virginia
+Chowan_North Carolina,Chowan,NC,North Carolina
+Harrison_Iowa,Harrison,IA,Iowa
+Washington_Illinois,Washington,IL,Illinois
+Cedar_Missouri,Cedar,MO,Missouri
+Roane_West Virginia,Roane,WV,West Virginia
+Newton_Indiana,Newton,IN,Indiana
+Screven_Georgia,Screven,GA,Georgia
+Clay_South Dakota,Clay,SD,South Dakota
+Murray_Oklahoma,Murray,OK,Oklahoma
+Monroe_Ohio,Monroe,OH,Ohio
+Converse_Wyoming,Converse,WY,Wyoming
+Jasper_Georgia,Jasper,GA,Georgia
+Newton_Texas,Newton,TX,Texas
+Crawford_Michigan,Crawford,MI,Michigan
+Lamar_Alabama,Lamar,AL,Alabama
+White_Illinois,White,IL,Illinois
+Callahan_Texas,Callahan,TX,Texas
+Crenshaw_Alabama,Crenshaw,AL,Alabama
+O'Brien_Iowa,O'Brien,IA,Iowa
+Atoka_Oklahoma,Atoka,OK,Oklahoma
+Allamakee_Iowa,Allamakee,IA,Iowa
+Hardy_West Virginia,Hardy,WV,West Virginia
+Faribault_Minnesota,Faribault,MN,Minnesota
+Ketchikan Gateway_Alaska,Ketchikan Gateway,AK,Alaska
+York_Nebraska,York,NE,Nebraska
+Dooly_Georgia,Dooly,GA,Georgia
+Glacier_Montana,Glacier,MT,Montana
+Wadena_Minnesota,Wadena,MN,Minnesota
+Greene_Mississippi,Greene,MS,Mississippi
+Mason_Illinois,Mason,IL,Illinois
+Osage_Missouri,Osage,MO,Missouri
+Mississippi_Missouri,Mississippi,MO,Missouri
+Izard_Arkansas,Izard,AR,Arkansas
+Ripley_Missouri,Ripley,MO,Missouri
+Bienville_Louisiana,Bienville,LA,Louisiana
+Comanche_Texas,Comanche,TX,Texas
+Glades_Florida,Glades,FL,Florida
+Franklin_Idaho,Franklin,ID,Idaho
+Lincoln_Arkansas,Lincoln,AR,Arkansas
+Kodiak Island_Alaska,Kodiak Island,AK,Alaska
+Perquimans_North Carolina,Perquimans,NC,North Carolina
+Stewart_Tennessee,Stewart,TN,Tennessee
+Lewis_Kentucky,Lewis,KY,Kentucky
+Price_Wisconsin,Price,WI,Wisconsin
+Monroe_West Virginia,Monroe,WV,West Virginia
+Big Horn_Montana,Big Horn,MT,Montana
+Pend Oreille_Washington,Pend Oreille,WA,Washington
+Hughes_Oklahoma,Hughes,OK,Oklahoma
+Jackson_Kentucky,Jackson,KY,Kentucky
+Grundy_Tennessee,Grundy,TN,Tennessee
+Goshen_Wyoming,Goshen,WY,Wyoming
+Clay_Alabama,Clay,AL,Alabama
+McKenzie_North Dakota,McKenzie,ND,North Dakota
+Howard_Arkansas,Howard,AR,Arkansas
+Douglas_Missouri,Douglas,MO,Missouri
+Macon_Georgia,Macon,GA,Georgia
+Morgan_Kentucky,Morgan,KY,Kentucky
+Clay_Illinois,Clay,IL,Illinois
+Ford_Illinois,Ford,IL,Illinois
+Jackson_Kansas,Jackson,KS,Kansas
+Archuleta_Colorado,Archuleta,CO,Colorado
+Wayne_Missouri,Wayne,MO,Missouri
+Madison_Virginia,Madison,VA,Virginia
+Greene_Illinois,Greene,IL,Illinois
+Moffat_Colorado,Moffat,CO,Colorado
+Buffalo_Wisconsin,Buffalo,WI,Wisconsin
+Lamb_Texas,Lamb,TX,Texas
+Cass_Iowa,Cass,IA,Iowa
+Vinton_Ohio,Vinton,OH,Ohio
+Webster_Kentucky,Webster,KY,Kentucky
+Charlton_Georgia,Charlton,GA,Georgia
+Fremont_Idaho,Fremont,ID,Idaho
+Breathitt_Kentucky,Breathitt,KY,Kentucky
+Amelia_Virginia,Amelia,VA,Virginia
+Choctaw_Alabama,Choctaw,AL,Alabama
+Camp_Texas,Camp,TX,Texas
+Millard_Utah,Millard,UT,Utah
+Martinsville_Virginia,Martinsville,VA,Virginia
+Summers_West Virginia,Summers,WV,West Virginia
+Wilbarger_Texas,Wilbarger,TX,Texas
+Dawson_Texas,Dawson,TX,Texas
+Bleckley_Georgia,Bleckley,GA,Georgia
+Sumter_Alabama,Sumter,AL,Alabama
+Butler_Kentucky,Butler,KY,Kentucky
+Wright_Iowa,Wright,IA,Iowa
+Lake_South Dakota,Lake,SD,South Dakota
+Presque Isle_Michigan,Presque Isle,MI,Michigan
+Caldwell_Kentucky,Caldwell,KY,Kentucky
+Pamlico_North Carolina,Pamlico,NC,North Carolina
+Trinity_California,Trinity,CA,California
+Haskell_Oklahoma,Haskell,OK,Oklahoma
+Lawrence_Mississippi,Lawrence,MS,Mississippi
+Shoshone_Idaho,Shoshone,ID,Idaho
+Pulaski_Indiana,Pulaski,IN,Indiana
+Allen_Kansas,Allen,KS,Kansas
+Terry_Texas,Terry,TX,Texas
+DeKalb_Missouri,DeKalb,MO,Missouri
+Koochiching_Minnesota,Koochiching,MN,Minnesota
+Johnson_Illinois,Johnson,IL,Illinois
+Cass_Illinois,Cass,IL,Illinois
+Magoffin_Kentucky,Magoffin,KY,Kentucky
+Stone_Arkansas,Stone,AR,Arkansas
+Appanoose_Iowa,Appanoose,IA,Iowa
+Amite_Mississippi,Amite,MS,Mississippi
+Conecuh_Alabama,Conecuh,AL,Alabama
+Pike_Indiana,Pike,IN,Indiana
+Morris_Texas,Morris,TX,Texas
+Yalobusha_Mississippi,Yalobusha,MS,Mississippi
+Union_Iowa,Union,IA,Iowa
+Bath_Kentucky,Bath,KY,Kentucky
+Little River_Arkansas,Little River,AR,Arkansas
+Crawford_Georgia,Crawford,GA,Georgia
+Todd_Kentucky,Todd,KY,Kentucky
+Menard_Illinois,Menard,IL,Illinois
+Powell_Kentucky,Powell,KY,Kentucky
+Grundy_Iowa,Grundy,IA,Iowa
+Lunenburg_Virginia,Lunenburg,VA,Virginia
+Fulton_Arkansas,Fulton,AR,Arkansas
+Bollinger_Missouri,Bollinger,MO,Missouri
+Northumberland_Virginia,Northumberland,VA,Virginia
+Madison_Missouri,Madison,MO,Missouri
+Red River_Texas,Red River,TX,Texas
+Colfax_New Mexico,Colfax,NM,New Mexico
+Live Oak_Texas,Live Oak,TX,Texas
+Edmonson_Kentucky,Edmonson,KY,Kentucky
+Linn_Missouri,Linn,MO,Missouri
+Meigs_Tennessee,Meigs,TN,Tennessee
+Poquoson_Virginia,Poquoson,VA,Virginia
+Okfuskee_Oklahoma,Okfuskee,OK,Oklahoma
+Charlotte_Virginia,Charlotte,VA,Virginia
+Zavala_Texas,Zavala,TX,Texas
+Lewis_Tennessee,Lewis,TN,Tennessee
+Chickasaw_Iowa,Chickasaw,IA,Iowa
+Washington_Kentucky,Washington,KY,Kentucky
+Prowers_Colorado,Prowers,CO,Colorado
+Blackford_Indiana,Blackford,IN,Indiana
+Perry_Mississippi,Perry,MS,Mississippi
+Marion_Kansas,Marion,KS,Kansas
+Chippewa_Minnesota,Chippewa,MN,Minnesota
+Washington_North Carolina,Washington,NC,North Carolina
+Jefferson_Montana,Jefferson,MT,Montana
+Northampton_Virginia,Northampton,VA,Virginia
+Big Horn_Wyoming,Big Horn,WY,Wyoming
+Lake_Michigan,Lake,MI,Michigan
+Boundary_Idaho,Boundary,ID,Idaho
+Franklin_Florida,Franklin,FL,Florida
+Barton_Missouri,Barton,MO,Missouri
+Lyon_Iowa,Lyon,IA,Iowa
+Rains_Texas,Rains,TX,Texas
+Skamania_Washington,Skamania,WA,Washington
+Heard_Georgia,Heard,GA,Georgia
+Custer_Montana,Custer,MT,Montana
+Desha_Arkansas,Desha,AR,Arkansas
+Decatur_Tennessee,Decatur,TN,Tennessee
+Jackson_Tennessee,Jackson,TN,Tennessee
+Sanders_Montana,Sanders,MT,Montana
+Marshall_Illinois,Marshall,IL,Illinois
+Morgan_Utah,Morgan,UT,Utah
+Ward_Texas,Ward,TX,Texas
+Martin_Kentucky,Martin,KY,Kentucky
+Towns_Georgia,Towns,GA,Georgia
+Grant_West Virginia,Grant,WV,West Virginia
+Shelby_Iowa,Shelby,IA,Iowa
+Ramsey_North Dakota,Ramsey,ND,North Dakota
+Owyhee_Idaho,Owyhee,ID,Idaho
+Gates_North Carolina,Gates,NC,North Carolina
+Wabash_Illinois,Wabash,IL,Illinois
+Greensville_Virginia,Greensville,VA,Virginia
+Montgomery_Missouri,Montgomery,MO,Missouri
+Blanco_Texas,Blanco,TX,Texas
+Teton_Idaho,Teton,ID,Idaho
+Sussex_Virginia,Sussex,VA,Virginia
+Cherokee_Iowa,Cherokee,IA,Iowa
+Jefferson Davis_Mississippi,Jefferson Davis,MS,Mississippi
+Noble_Oklahoma,Noble,OK,Oklahoma
+Madison_Louisiana,Madison,LA,Louisiana
+Rio Grande_Colorado,Rio Grande,CO,Colorado
+Morrow_Oregon,Morrow,OR,Oregon
+Juab_Utah,Juab,UT,Utah
+Cottonwood_Minnesota,Cottonwood,MN,Minnesota
+Duval_Texas,Duval,TX,Texas
+Washita_Oklahoma,Washita,OK,Oklahoma
+Fergus_Montana,Fergus,MT,Montana
+Pulaski_Georgia,Pulaski,GA,Georgia
+Bacon_Georgia,Bacon,GA,Georgia
+Richland_Montana,Richland,MT,Montana
+Louisa_Iowa,Louisa,IA,Iowa
+Roosevelt_Montana,Roosevelt,MT,Montana
+Nantucket_Massachusetts,Nantucket,MA,Massachusetts
+Iron_Michigan,Iron,MI,Michigan
+Pushmataha_Oklahoma,Pushmataha,OK,Oklahoma
+Johnston_Oklahoma,Johnston,OK,Oklahoma
+Pope_Minnesota,Pope,MN,Minnesota
+West Carroll_Louisiana,West Carroll,LA,Louisiana
+Sierra_New Mexico,Sierra,NM,New Mexico
+Alleghany_North Carolina,Alleghany,NC,North Carolina
+Essex_Virginia,Essex,VA,Virginia
+Green_Kentucky,Green,KY,Kentucky
+Watonwan_Minnesota,Watonwan,MN,Minnesota
+Box Butte_Nebraska,Box Butte,NE,Nebraska
+Clay_North Carolina,Clay,NC,North Carolina
+Bradley_Arkansas,Bradley,AR,Arkansas
+Cumberland_Illinois,Cumberland,IL,Illinois
+Custer_Nebraska,Custer,NE,Nebraska
+Candler_Georgia,Candler,GA,Georgia
+Hancock_Iowa,Hancock,IA,Iowa
+Owen_Kentucky,Owen,KY,Kentucky
+Mackinac_Michigan,Mackinac,MI,Michigan
+Red Willow_Nebraska,Red Willow,NE,Nebraska
+Coosa_Alabama,Coosa,AL,Alabama
+Pike_Arkansas,Pike,AR,Arkansas
+Walsh_North Dakota,Walsh,ND,North Dakota
+Lancaster_Virginia,Lancaster,VA,Virginia
+Franklin_Texas,Franklin,TX,Texas
+Colfax_Nebraska,Colfax,NE,Nebraska
+Valley_Idaho,Valley,ID,Idaho
+Barnes_North Dakota,Barnes,ND,North Dakota
+Noxubee_Mississippi,Noxubee,MS,Mississippi
+Evans_Georgia,Evans,GA,Georgia
+Switzerland_Indiana,Switzerland,IN,Indiana
+Wilcox_Alabama,Wilcox,AL,Alabama
+Middlesex_Virginia,Middlesex,VA,Virginia
+Carroll_Kentucky,Carroll,KY,Kentucky
+Guthrie_Iowa,Guthrie,IA,Iowa
+Oregon_Missouri,Oregon,MO,Missouri
+Monroe_Kentucky,Monroe,KY,Kentucky
+Chicot_Arkansas,Chicot,AR,Arkansas
+Mitchell_Iowa,Mitchell,IA,Iowa
+Carbon_Montana,Carbon,MT,Montana
+Lincoln_Washington,Lincoln,WA,Washington
+Crawford_Indiana,Crawford,IN,Indiana
+Lake_Minnesota,Lake,MN,Minnesota
+Chattahoochee_Georgia,Chattahoochee,GA,Georgia
+Camden_North Carolina,Camden,NC,North Carolina
+Winnebago_Iowa,Winnebago,IA,Iowa
+Sabine_Texas,Sabine,TX,Texas
+Dimmit_Texas,Dimmit,TX,Texas
+Clay_Texas,Clay,TX,Texas
+Lanier_Georgia,Lanier,GA,Georgia
+Scott_Arkansas,Scott,AR,Arkansas
+Perry_Arkansas,Perry,AR,Arkansas
+Alcona_Michigan,Alcona,MI,Michigan
+Latimer_Oklahoma,Latimer,OK,Oklahoma
+Nowata_Oklahoma,Nowata,OK,Oklahoma
+Mountrail_North Dakota,Mountrail,ND,North Dakota
+Early_Georgia,Early,GA,Georgia
+St. Helena_Louisiana,St. Helena,LA,Louisiana
+Roberts_South Dakota,Roberts,SD,South Dakota
+Leslie_Kentucky,Leslie,KY,Kentucky
+Runnels_Texas,Runnels,TX,Texas
+Bullock_Alabama,Bullock,AL,Alabama
+Ralls_Missouri,Ralls,MO,Missouri
+Trousdale_Tennessee,Trousdale,TN,Tennessee
+Butte_South Dakota,Butte,SD,South Dakota
+Martin_Indiana,Martin,IN,Indiana
+Todd_South Dakota,Todd,SD,South Dakota
+Clinton_Kentucky,Clinton,KY,Kentucky
+Keokuk_Iowa,Keokuk,IA,Iowa
+Holt_Nebraska,Holt,NE,Nebraska
+Iron_Missouri,Iron,MO,Missouri
+Franklin_Iowa,Franklin,IA,Iowa
+Ochiltree_Texas,Ochiltree,TX,Texas
+Nemaha_Kansas,Nemaha,KS,Kansas
+Emery_Utah,Emery,UT,Utah
+Lowndes_Alabama,Lowndes,AL,Alabama
+Carroll_Mississippi,Carroll,MS,Mississippi
+Montgomery_Mississippi,Montgomery,MS,Mississippi
+Love_Oklahoma,Love,OK,Oklahoma
+Howard_Missouri,Howard,MO,Missouri
+Washington_Idaho,Washington,ID,Idaho
+Montgomery_Iowa,Montgomery,IA,Iowa
+Metcalfe_Kentucky,Metcalfe,KY,Kentucky
+Marion_Texas,Marion,TX,Texas
+Yuma_Colorado,Yuma,CO,Colorado
+Caldwell_Louisiana,Caldwell,LA,Louisiana
+Grundy_Missouri,Grundy,MO,Missouri
+Nome_Alaska,Nome,AK,Alaska
+Tunica_Mississippi,Tunica,MS,Mississippi
+Lewis_Missouri,Lewis,MO,Missouri
+Jackson_Minnesota,Jackson,MN,Minnesota
+Kemper_Mississippi,Kemper,MS,Mississippi
+Sublette_Wyoming,Sublette,WY,Wyoming
+Ritchie_West Virginia,Ritchie,WV,West Virginia
+Wilkes_Georgia,Wilkes,GA,Georgia
+Cumberland_Virginia,Cumberland,VA,Virginia
+Yellow Medicine_Minnesota,Yellow Medicine,MN,Minnesota
+Sac_Iowa,Sac,IA,Iowa
+North Slope_Alaska,North Slope,AK,Alaska
+Stevens_Minnesota,Stevens,MN,Minnesota
+Webster_Mississippi,Webster,MS,Mississippi
+Catahoula_Louisiana,Catahoula,LA,Louisiana
+Marshall_Kansas,Marshall,KS,Kansas
+Calhoun_Iowa,Calhoun,IA,Iowa
+Parmer_Texas,Parmer,TX,Texas
+Johnson_Georgia,Johnson,GA,Georgia
+White Pine_Nevada,White Pine,NV,Nevada
+Linn_Kansas,Linn,KS,Kansas
+Rice_Kansas,Rice,KS,Kansas
+Grand_Utah,Grand,UT,Utah
+Brown_Kansas,Brown,KS,Kansas
+Cheyenne_Nebraska,Cheyenne,NE,Nebraska
+Jones_North Carolina,Jones,NC,North Carolina
+Jasper_Illinois,Jasper,IL,Illinois
+McLean_North Dakota,McLean,ND,North Dakota
+Blaine_Oklahoma,Blaine,OK,Oklahoma
+Humboldt_Iowa,Humboldt,IA,Iowa
+McCormick_South Carolina,McCormick,SC,South Carolina
+Greenlee_Arizona,Greenlee,AZ,Arizona
+Clear Creek_Colorado,Clear Creek,CO,Colorado
+Stillwater_Montana,Stillwater,MT,Montana
+Pratt_Kansas,Pratt,KS,Kansas
+Emmet_Iowa,Emmet,IA,Iowa
+Beaverhead_Montana,Beaverhead,MT,Montana
+Hickory_Missouri,Hickory,MO,Missouri
+Rock_Minnesota,Rock,MN,Minnesota
+Marshall_Minnesota,Marshall,MN,Minnesota
+St. Clair_Missouri,St. Clair,MO,Missouri
+Stephens_Texas,Stephens,TX,Texas
+Clarke_Iowa,Clarke,IA,Iowa
+Swift_Minnesota,Swift,MN,Minnesota
+Charles Mix_South Dakota,Charles Mix,SD,South Dakota
+Wayne_Nebraska,Wayne,NE,Nebraska
+Irwin_Georgia,Irwin,GA,Georgia
+Perry_Alabama,Perry,AL,Alabama
+McLean_Kentucky,McLean,KY,Kentucky
+Montmorency_Michigan,Montmorency,MI,Michigan
+Valdez-Cordova_Alaska,Valdez-Cordova,AK,Alaska
+Livingston_Kentucky,Livingston,KY,Kentucky
+Brewster_Texas,Brewster,TX,Texas
+Howard_Iowa,Howard,IA,Iowa
+Hamilton_Nebraska,Hamilton,NE,Nebraska
+Ozark_Missouri,Ozark,MO,Missouri
+Lee_Arkansas,Lee,AR,Arkansas
+Pipestone_Minnesota,Pipestone,MN,Minnesota
+Rosebud_Montana,Rosebud,MT,Montana
+Alger_Michigan,Alger,MI,Michigan
+Benewah_Idaho,Benewah,ID,Idaho
+Deer Lodge_Montana,Deer Lodge,MT,Montana
+Phelps_Nebraska,Phelps,NE,Nebraska
+Claiborne_Mississippi,Claiborne,MS,Mississippi
+Montgomery_Georgia,Montgomery,GA,Georgia
+Woods_Oklahoma,Woods,OK,Oklahoma
+Caldwell_Missouri,Caldwell,MO,Missouri
+Allendale_South Carolina,Allendale,SC,South Carolina
+Dawson_Montana,Dawson,MT,Montana
+Wilkinson_Georgia,Wilkinson,GA,Georgia
+Palo Alto_Iowa,Palo Alto,IA,Iowa
+Crittenden_Kentucky,Crittenden,KY,Kentucky
+Forest_Wisconsin,Forest,WI,Wisconsin
+Cuming_Nebraska,Cuming,NE,Nebraska
+Montgomery_Arkansas,Montgomery,AR,Arkansas
+Greene_Iowa,Greene,IA,Iowa
+Cloud_Kansas,Cloud,KS,Kansas
+Davis_Iowa,Davis,IA,Iowa
+Modoc_California,Modoc,CA,California
+Kiowa_Oklahoma,Kiowa,OK,Oklahoma
+Wilkinson_Mississippi,Wilkinson,MS,Mississippi
+Somervell_Texas,Somervell,TX,Texas
+Jack_Texas,Jack,TX,Texas
+Wilcox_Georgia,Wilcox,GA,Georgia
+Clearwater_Minnesota,Clearwater,MN,Minnesota
+Tyler_West Virginia,Tyler,WV,West Virginia
+Dawes_Nebraska,Dawes,NE,Nebraska
+Maries_Missouri,Maries,MO,Missouri
+Jenkins_Georgia,Jenkins,GA,Georgia
+Mathews_Virginia,Mathews,VA,Virginia
+Carroll_Missouri,Carroll,MO,Missouri
+Terrell_Georgia,Terrell,GA,Georgia
+Gallatin_Kentucky,Gallatin,KY,Kentucky
+Monona_Iowa,Monona,IA,Iowa
+Hancock_Kentucky,Hancock,KY,Kentucky
+Custer_South Dakota,Custer,SD,South Dakota
+Archer_Texas,Archer,TX,Texas
+Clay_West Virginia,Clay,WV,West Virginia
+Wilson_Kansas,Wilson,KS,Kansas
+Benton_Indiana,Benton,IN,Indiana
+Clearwater_Idaho,Clearwater,ID,Idaho
+Sitka_Alaska,Sitka,AK,Alaska
+Lafayette_Florida,Lafayette,FL,Florida
+Yoakum_Texas,Yoakum,TX,Texas
+Monroe_Missouri,Monroe,MO,Missouri
+Lucas_Iowa,Lucas,IA,Iowa
+Platte_Wyoming,Platte,WY,Wyoming
+Red River_Louisiana,Red River,LA,Louisiana
+Doddridge_West Virginia,Doddridge,WV,West Virginia
+Trimble_Kentucky,Trimble,KY,Kentucky
+Mitchell_Texas,Mitchell,TX,Texas
+Hancock_Georgia,Hancock,GA,Georgia
+Graham_North Carolina,Graham,NC,North Carolina
+Cedar_Nebraska,Cedar,NE,Nebraska
+Harrison_Missouri,Harrison,MO,Missouri
+Johnson_Wyoming,Johnson,WY,Wyoming
+Mercer_North Dakota,Mercer,ND,North Dakota
+Pocahontas_West Virginia,Pocahontas,WV,West Virginia
+Marion_Georgia,Marion,GA,Georgia
+Knox_Nebraska,Knox,NE,Nebraska
+Baraga_Michigan,Baraga,MI,Michigan
+Humphreys_Mississippi,Humphreys,MS,Mississippi
+Webster_West Virginia,Webster,WV,West Virginia
+Nevada_Arkansas,Nevada,AR,Arkansas
+Liberty_Florida,Liberty,FL,Florida
+Coleman_Texas,Coleman,TX,Texas
+Hamilton_Texas,Hamilton,TX,Texas
+Quay_New Mexico,Quay,NM,New Mexico
+Greene_Alabama,Greene,AL,Alabama
+Seminole_Georgia,Seminole,GA,Georgia
+Bracken_Kentucky,Bracken,KY,Kentucky
+Madison_Montana,Madison,MT,Montana
+Turner_South Dakota,Turner,SD,South Dakota
+Murray_Minnesota,Murray,MN,Minnesota
+Daviess_Missouri,Daviess,MO,Missouri
+San Augustine_Texas,San Augustine,TX,Texas
+Choctaw_Mississippi,Choctaw,MS,Mississippi
+Lyon_Kentucky,Lyon,KY,Kentucky
+Coffey_Kansas,Coffey,KS,Kansas
+Kusilvak_Alaska,Kusilvak,AK,Alaska
+Oscoda_Michigan,Oscoda,MI,Michigan
+Atkinson_Georgia,Atkinson,GA,Georgia
+Warren_Indiana,Warren,IN,Indiana
+Benton_Mississippi,Benton,MS,Mississippi
+Twiggs_Georgia,Twiggs,GA,Georgia
+Shannon_Missouri,Shannon,MO,Missouri
+Prairie_Arkansas,Prairie,AR,Arkansas
+Hamilton_Illinois,Hamilton,IL,Illinois
+Houston_Tennessee,Houston,TN,Tennessee
+Cleveland_Arkansas,Cleveland,AR,Arkansas
+Conejos_Colorado,Conejos,CO,Colorado
+Taylor_Georgia,Taylor,GA,Georgia
+Clay_Kansas,Clay,KS,Kansas
+Keith_Nebraska,Keith,NE,Nebraska
+McCulloch_Texas,McCulloch,TX,Texas
+San Miguel_Colorado,San Miguel,CO,Colorado
+Schoolcraft_Michigan,Schoolcraft,MI,Michigan
+Gilmer_West Virginia,Gilmer,WV,West Virginia
+Ballard_Kentucky,Ballard,KY,Kentucky
+Butler_Nebraska,Butler,NE,Nebraska
+Washakie_Wyoming,Washakie,WY,Wyoming
+Traill_North Dakota,Traill,ND,North Dakota
+Decatur_Iowa,Decatur,IA,Iowa
+Perry_Tennessee,Perry,TN,Tennessee
+Richardson_Nebraska,Richardson,NE,Nebraska
+Turner_Georgia,Turner,GA,Georgia
+Wheeler_Georgia,Wheeler,GA,Georgia
+Searcy_Arkansas,Searcy,AR,Arkansas
+Winkler_Texas,Winkler,TX,Texas
+Lincoln_Georgia,Lincoln,GA,Georgia
+Lemhi_Idaho,Lemhi,ID,Idaho
+Lake_Oregon,Lake,OR,Oregon
+Anderson_Kansas,Anderson,KS,Kansas
+Newton_Arkansas,Newton,AR,Arkansas
+Thomas_Kansas,Thomas,KS,Kansas
+Monroe_Iowa,Monroe,IA,Iowa
+Merrick_Nebraska,Merrick,NE,Nebraska
+Lake_Colorado,Lake,CO,Colorado
+Franklin_Mississippi,Franklin,MS,Mississippi
+Northwest Arctic_Alaska,Northwest Arctic,AK,Alaska
+Major_Oklahoma,Major,OK,Oklahoma
+Doniphan_Kansas,Doniphan,KS,Kansas
+Castro_Texas,Castro,TX,Texas
+Power_Idaho,Power,ID,Idaho
+Clay_Tennessee,Clay,TN,Tennessee
+Dade_Missouri,Dade,MO,Missouri
+Ferry_Washington,Ferry,WA,Washington
+Goliad_Texas,Goliad,TX,Texas
+Elliott_Kentucky,Elliott,KY,Kentucky
+Kane_Utah,Kane,UT,Utah
+Chariton_Missouri,Chariton,MO,Missouri
+Pleasants_West Virginia,Pleasants,WV,West Virginia
+Crook_Wyoming,Crook,WY,Wyoming
+Valley_Montana,Valley,MT,Montana
+Grant_Kansas,Grant,KS,Kansas
+Kit Carson_Colorado,Kit Carson,CO,Colorado
+Worth_Iowa,Worth,IA,Iowa
+Swisher_Texas,Swisher,TX,Texas
+La Salle_Texas,La Salle,TX,Texas
+Tillman_Oklahoma,Tillman,OK,Oklahoma
+Lake_Tennessee,Lake,TN,Tennessee
+Boise_Idaho,Boise,ID,Idaho
+Rappahannock_Virginia,Rappahannock,VA,Virginia
+Kingman_Kansas,Kingman,KS,Kansas
+Forest_Pennsylvania,Forest,PA,Pennsylvania
+Hutchinson_South Dakota,Hutchinson,SD,South Dakota
+Dallam_Texas,Dallam,TX,Texas
+Calhoun_West Virginia,Calhoun,WV,West Virginia
+Dallas_Arkansas,Dallas,AR,Arkansas
+Harney_Oregon,Harney,OR,Oregon
+Pepin_Wisconsin,Pepin,WI,Wisconsin
+Childress_Texas,Childress,TX,Texas
+Lexington_Virginia,Lexington,VA,Virginia
+Jefferson_Mississippi,Jefferson,MS,Mississippi
+Wolfe_Kentucky,Wolfe,KY,Kentucky
+Grant_Oregon,Grant,OR,Oregon
+Quitman_Mississippi,Quitman,MS,Mississippi
+Thurston_Nebraska,Thurston,NE,Nebraska
+Nicholas_Kentucky,Nicholas,KY,Kentucky
+Van Buren_Iowa,Van Buren,IA,Iowa
+Grant_South Dakota,Grant,SD,South Dakota
+Refugio_Texas,Refugio,TX,Texas
+Jefferson_Nebraska,Jefferson,NE,Nebraska
+Pierce_Nebraska,Pierce,NE,Nebraska
+Brooks_Texas,Brooks,TX,Texas
+Union_Indiana,Union,IN,Indiana
+Bailey_Texas,Bailey,TX,Texas
+East Carroll_Louisiana,East Carroll,LA,Louisiana
+Adair_Iowa,Adair,IA,Iowa
+Monroe_Arkansas,Monroe,AR,Arkansas
+Weston_Wyoming,Weston,WY,Wyoming
+King and Queen_Virginia,King and Queen,VA,Virginia
+Grand Isle_Vermont,Grand Isle,VT,Vermont
+Charles City_Virginia,Charles City,VA,Virginia
+Wallowa_Oregon,Wallowa,OR,Oregon
+Pendleton_West Virginia,Pendleton,WV,West Virginia
+Tucker_West Virginia,Tucker,WV,West Virginia
+Presidio_Texas,Presidio,TX,Texas
+Nemaha_Nebraska,Nemaha,NE,Nebraska
+Randolph_Georgia,Randolph,GA,Georgia
+Schuyler_Illinois,Schuyler,IL,Illinois
+Caribou_Idaho,Caribou,ID,Idaho
+Russell_Kansas,Russell,KS,Kansas
+Pembina_North Dakota,Pembina,ND,North Dakota
+Fremont_Iowa,Fremont,IA,Iowa
+Cameron_Louisiana,Cameron,LA,Louisiana
+Bon Homme_South Dakota,Bon Homme,SD,South Dakota
+Ida_Iowa,Ida,IA,Iowa
+Wabaunsee_Kansas,Wabaunsee,KS,Kansas
+Lee_Kentucky,Lee,KY,Kentucky
+Southeast Fairbanks_Alaska,Southeast Fairbanks,AK,Alaska
+Benson_North Dakota,Benson,ND,North Dakota
+Powell_Montana,Powell,MT,Montana
+Henderson_Illinois,Henderson,IL,Illinois
+Lafayette_Arkansas,Lafayette,AR,Arkansas
+Pocahontas_Iowa,Pocahontas,IA,Iowa
+Treutlen_Georgia,Treutlen,GA,Georgia
+Clark_Missouri,Clark,MO,Missouri
+Fall River_South Dakota,Fall River,SD,South Dakota
+Lac qui Parle_Minnesota,Lac qui Parle,MN,Minnesota
+Blaine_Montana,Blaine,MT,Montana
+Cumberland_Kentucky,Cumberland,KY,Kentucky
+Clinch_Georgia,Clinch,GA,Georgia
+Huerfano_Colorado,Huerfano,CO,Colorado
+Pawnee_Kansas,Pawnee,KS,Kansas
+Brown_Illinois,Brown,IL,Illinois
+Gentry_Missouri,Gentry,MO,Missouri
+Pershing_Nevada,Pershing,NV,Nevada
+Saguache_Colorado,Saguache,CO,Colorado
+Hancock_Tennessee,Hancock,TN,Tennessee
+Woodruff_Arkansas,Woodruff,AR,Arkansas
+Kearney_Nebraska,Kearney,NE,Nebraska
+Surry_Virginia,Surry,VA,Virginia
+Norman_Minnesota,Norman,MN,Minnesota
+Beaver_Utah,Beaver,UT,Utah
+Galax_Virginia,Galax,VA,Virginia
+Burt_Nebraska,Burt,NE,Nebraska
+Moody_South Dakota,Moody,SD,South Dakota
+Bottineau_North Dakota,Bottineau,ND,North Dakota
+Buena Vista_Virginia,Buena Vista,VA,Virginia
+Spink_South Dakota,Spink,SD,South Dakota
+Edwards_Illinois,Edwards,IL,Illinois
+Menifee_Kentucky,Menifee,KY,Kentucky
+Wayne_Iowa,Wayne,IA,Iowa
+Howard_Nebraska,Howard,NE,Nebraska
+Prince of Wales-Hyder_Alaska,Prince of Wales-Hyder,AK,Alaska
+Bland_Virginia,Bland,VA,Virginia
+Rio Blanco_Colorado,Rio Blanco,CO,Colorado
+Moore_Tennessee,Moore,TN,Tennessee
+Calhoun_Georgia,Calhoun,GA,Georgia
+Antelope_Nebraska,Antelope,NE,Nebraska
+Luce_Michigan,Luce,MI,Michigan
+Talbot_Georgia,Talbot,GA,Georgia
+Stewart_Georgia,Stewart,GA,Georgia
+Wilkin_Minnesota,Wilkin,MN,Minnesota
+Reynolds_Missouri,Reynolds,MO,Missouri
+Alexander_Illinois,Alexander,IL,Illinois
+Sullivan_Missouri,Sullivan,MO,Missouri
+Ellsworth_Kansas,Ellsworth,KS,Kansas
+Clay_Nebraska,Clay,NE,Nebraska
+Essex_Vermont,Essex,VT,Vermont
+Taylor_Iowa,Taylor,IA,Iowa
+Jefferson_Oklahoma,Jefferson,OK,Oklahoma
+Carter_Missouri,Carter,MO,Missouri
+Mitchell_Kansas,Mitchell,KS,Kansas
+Sullivan_Pennsylvania,Sullivan,PA,Pennsylvania
+Fulton_Kentucky,Fulton,KY,Kentucky
+Teton_Montana,Teton,MT,Montana
+Greenwood_Kansas,Greenwood,KS,Kansas
+Garza_Texas,Garza,TX,Texas
+Osceola_Iowa,Osceola,IA,Iowa
+Gray_Kansas,Gray,KS,Kansas
+Hamlin_South Dakota,Hamlin,SD,South Dakota
+Gilpin_Colorado,Gilpin,CO,Colorado
+Shelby_Missouri,Shelby,MO,Missouri
+Carson_Texas,Carson,TX,Texas
+Bear Lake_Idaho,Bear Lake,ID,Idaho
+Pondera_Montana,Pondera,MT,Montana
+San Saba_Texas,San Saba,TX,Texas
+Stanton_Nebraska,Stanton,NE,Nebraska
+Broadwater_Montana,Broadwater,MT,Montana
+Sherman_Kansas,Sherman,KS,Kansas
+Grant_Minnesota,Grant,MN,Minnesota
+McHenry_North Dakota,McHenry,ND,North Dakota
+Ontonagon_Michigan,Ontonagon,MI,Michigan
+Ohio_Indiana,Ohio,IN,Indiana
+Greer_Oklahoma,Greer,OK,Oklahoma
+Cotton_Oklahoma,Cotton,OK,Oklahoma
+Alfalfa_Oklahoma,Alfalfa,OK,Oklahoma
+Crosby_Texas,Crosby,TX,Texas
+Dewey_South Dakota,Dewey,SD,South Dakota
+Lynn_Texas,Lynn,TX,Texas
+Ottawa_Kansas,Ottawa,KS,Kansas
+Floyd_Texas,Floyd,TX,Texas
+Wirt_West Virginia,Wirt,WV,West Virginia
+Miller_Georgia,Miller,GA,Georgia
+Bent_Colorado,Bent,CO,Colorado
+Cherry_Nebraska,Cherry,NE,Nebraska
+Van Buren_Tennessee,Van Buren,TN,Tennessee
+Crowley_Colorado,Crowley,CO,Colorado
+Chouteau_Montana,Chouteau,MT,Montana
+Haskell_Texas,Haskell,TX,Texas
+Putnam_Illinois,Putnam,IL,Illinois
+Dixon_Nebraska,Dixon,NE,Nebraska
+Aleutians West_Alaska,Aleutians West,AK,Alaska
+Iron_Wisconsin,Iron,WI,Wisconsin
+Lincoln_Minnesota,Lincoln,MN,Minnesota
+Hartley_Texas,Hartley,TX,Texas
+Martin_Texas,Martin,TX,Texas
+Lander_Nevada,Lander,NV,Nevada
+Stevens_Kansas,Stevens,KS,Kansas
+Covington_Virginia,Covington,VA,Virginia
+Harper_Kansas,Harper,KS,Kansas
+Lincoln_Colorado,Lincoln,CO,Colorado
+Coal_Oklahoma,Coal,OK,Oklahoma
+Audubon_Iowa,Audubon,IA,Iowa
+Morris_Kansas,Morris,KS,Kansas
+McCook_South Dakota,McCook,SD,South Dakota
+Fillmore_Nebraska,Fillmore,NE,Nebraska
+Hansford_Texas,Hansford,TX,Texas
+Pulaski_Illinois,Pulaski,IL,Illinois
+Mahnomen_Minnesota,Mahnomen,MN,Minnesota
+Washington_Kansas,Washington,KS,Kansas
+Day_South Dakota,Day,SD,South Dakota
+Tripp_South Dakota,Tripp,SD,South Dakota
+Walworth_South Dakota,Walworth,SD,South Dakota
+Stark_Illinois,Stark,IL,Illinois
+Norton_Kansas,Norton,KS,Kansas
+Emporia_Virginia,Emporia,VA,Virginia
+Yukon-Koyukuk_Alaska,Yukon-Koyukuk,AK,Alaska
+Beaver_Oklahoma,Beaver,OK,Oklahoma
+Cook_Minnesota,Cook,MN,Minnesota
+Lincoln_Idaho,Lincoln,ID,Idaho
+Phillips_Kansas,Phillips,KS,Kansas
+Wheeler_Texas,Wheeler,TX,Texas
+Ransom_North Dakota,Ransom,ND,North Dakota
+Warren_Georgia,Warren,GA,Georgia
+Boone_Nebraska,Boone,NE,Nebraska
+Brule_South Dakota,Brule,SD,South Dakota
+Delta_Texas,Delta,TX,Texas
+Jim Hogg_Texas,Jim Hogg,TX,Texas
+Sheridan_Nebraska,Sheridan,NE,Nebraska
+Atchison_Missouri,Atchison,MO,Missouri
+Polk_Nebraska,Polk,NE,Nebraska
+Schley_Georgia,Schley,GA,Georgia
+Hyde_North Carolina,Hyde,NC,North Carolina
+Calhoun_Arkansas,Calhoun,AR,Arkansas
+Lincoln_Nevada,Lincoln,NV,Nevada
+Johnson_Nebraska,Johnson,NE,Nebraska
+Craig_Virginia,Craig,VA,Virginia
+Pickett_Tennessee,Pickett,TN,Tennessee
+Gallatin_Illinois,Gallatin,IL,Illinois
+Thayer_Nebraska,Thayer,NE,Nebraska
+Rooks_Kansas,Rooks,KS,Kansas
+Scott_Illinois,Scott,IL,Illinois
+Garfield_Utah,Garfield,UT,Utah
+Big Stone_Minnesota,Big Stone,MN,Minnesota
+Ringgold_Iowa,Ringgold,IA,Iowa
+Dillingham_Alaska,Dillingham,AK,Alaska
+Kingsbury_South Dakota,Kingsbury,SD,South Dakota
+Dickey_North Dakota,Dickey,ND,North Dakota
+Dewey_Oklahoma,Dewey,OK,Oklahoma
+Scott_Kansas,Scott,KS,Kansas
+Scotland_Missouri,Scotland,MO,Missouri
+Toole_Montana,Toole,MT,Montana
+Marshall_South Dakota,Marshall,SD,South Dakota
+Mills_Texas,Mills,TX,Texas
+Washington_Colorado,Washington,CO,Colorado
+Calhoun_Illinois,Calhoun,IL,Illinois
+Crane_Texas,Crane,TX,Texas
+Ouray_Colorado,Ouray,CO,Colorado
+Carlisle_Kentucky,Carlisle,KY,Kentucky
+Putnam_Missouri,Putnam,MO,Missouri
+Morrill_Nebraska,Morrill,NE,Nebraska
+Custer_Colorado,Custer,CO,Colorado
+Musselshell_Montana,Musselshell,MT,Montana
+Furnas_Nebraska,Furnas,NE,Nebraska
+Republic_Kansas,Republic,KS,Kansas
+Barber_Kansas,Barber,KS,Kansas
+Cameron_Pennsylvania,Cameron,PA,Pennsylvania
+Hot Springs_Wyoming,Hot Springs,WY,Wyoming
+Tensas_Louisiana,Tensas,LA,Louisiana
+Menominee_Wisconsin,Menominee,WI,Wisconsin
+Schuyler_Missouri,Schuyler,MO,Missouri
+Mora_New Mexico,Mora,NM,New Mexico
+Hamilton_New York,Hamilton,NY,New York
+Hickman_Kentucky,Hickman,KY,Kentucky
+Mineral_Nevada,Mineral,NV,Nevada
+Owsley_Kentucky,Owsley,KY,Kentucky
+Holt_Missouri,Holt,MO,Missouri
+Hudspeth_Texas,Hudspeth,TX,Texas
+Sharkey_Mississippi,Sharkey,MS,Mississippi
+Grant_Oklahoma,Grant,OK,Oklahoma
+Dunn_North Dakota,Dunn,ND,North Dakota
+Oneida_Idaho,Oneida,ID,Idaho
+Kimble_Texas,Kimble,TX,Texas
+Sioux_North Dakota,Sioux,ND,North Dakota
+Guadalupe_New Mexico,Guadalupe,NM,New Mexico
+Deuel_South Dakota,Deuel,SD,South Dakota
+Florence_Wisconsin,Florence,WI,Wisconsin
+Kittson_Minnesota,Kittson,MN,Minnesota
+Bath_Virginia,Bath,VA,Virginia
+Hidalgo_New Mexico,Hidalgo,NM,New Mexico
+Phillips_Colorado,Phillips,CO,Colorado
+Wahkiakum_Washington,Wahkiakum,WA,Washington
+Mineral_Montana,Mineral,MT,Montana
+Nuckolls_Nebraska,Nuckolls,NE,Nebraska
+Valley_Nebraska,Valley,NE,Nebraska
+Pope_Illinois,Pope,IL,Illinois
+Mason_Texas,Mason,TX,Texas
+Gregory_South Dakota,Gregory,SD,South Dakota
+Stafford_Kansas,Stafford,KS,Kansas
+Meade_Kansas,Meade,KS,Kansas
+Custer_Idaho,Custer,ID,Idaho
+Corson_South Dakota,Corson,SD,South Dakota
+Union_New Mexico,Union,NM,New Mexico
+Pierce_North Dakota,Pierce,ND,North Dakota
+LaMoure_North Dakota,LaMoure,ND,North Dakota
+Adams_Idaho,Adams,ID,Idaho
+Tyrrell_North Carolina,Tyrrell,NC,North Carolina
+Phillips_Montana,Phillips,MT,Montana
+Haskell_Kansas,Haskell,KS,Kansas
+Red Lake_Minnesota,Red Lake,MN,Minnesota
+Ellis_Oklahoma,Ellis,OK,Oklahoma
+Hemphill_Texas,Hemphill,TX,Texas
+Columbia_Washington,Columbia,WA,Washington
+Storey_Nevada,Storey,NV,Nevada
+Echols_Georgia,Echols,GA,Georgia
+Wells_North Dakota,Wells,ND,North Dakota
+Norton_Virginia,Norton,VA,Virginia
+Knox_Missouri,Knox,MO,Missouri
+Hardeman_Texas,Hardeman,TX,Texas
+Hardin_Illinois,Hardin,IL,Illinois
+Edmunds_South Dakota,Edmunds,SD,South Dakota
+Kearny_Kansas,Kearny,KS,Kansas
+Sargent_North Dakota,Sargent,ND,North Dakota
+Fisher_Texas,Fisher,TX,Texas
+Lyman_South Dakota,Lyman,SD,South Dakota
+Lewis_Idaho,Lewis,ID,Idaho
+Sutton_Texas,Sutton,TX,Texas
+Cavalier_North Dakota,Cavalier,ND,North Dakota
+Chase_Nebraska,Chase,NE,Nebraska
+Lake of the Woods_Minnesota,Lake of the Woods,MN,Minnesota
+Reagan_Texas,Reagan,TX,Texas
+Harper_Oklahoma,Harper,OK,Oklahoma
+Costilla_Colorado,Costilla,CO,Colorado
+Knox_Texas,Knox,TX,Texas
+Clark_South Dakota,Clark,SD,South Dakota
+Adams_Iowa,Adams,IA,Iowa
+Sweet Grass_Montana,Sweet Grass,MT,Montana
+Roger Mills_Oklahoma,Roger Mills,OK,Oklahoma
+Upton_Texas,Upton,TX,Texas
+Kinney_Texas,Kinney,TX,Texas
+Mercer_Missouri,Mercer,MO,Missouri
+Kimball_Nebraska,Kimball,NE,Nebraska
+Smith_Kansas,Smith,KS,Kansas
+Baylor_Texas,Baylor,TX,Texas
+Baca_Colorado,Baca,CO,Colorado
+Nance_Nebraska,Nance,NE,Nebraska
+Webster_Nebraska,Webster,NE,Nebraska
+Osborne_Kansas,Osborne,KS,Kansas
+Catron_New Mexico,Catron,NM,New Mexico
+Crockett_Texas,Crockett,TX,Texas
+Sheridan_Montana,Sheridan,MT,Montana
+Bennett_South Dakota,Bennett,SD,South Dakota
+Harlan_Nebraska,Harlan,NE,Nebraska
+Real_Texas,Real,TX,Texas
+Hanson_South Dakota,Hanson,SD,South Dakota
+Lipscomb_Texas,Lipscomb,TX,Texas
+Aleutians East_Alaska,Aleutians East,AK,Alaska
+Donley_Texas,Donley,TX,Texas
+Chautauqua_Kansas,Chautauqua,KS,Kansas
+Granite_Montana,Granite,MT,Montana
+Traverse_Minnesota,Traverse,MN,Minnesota
+Emmons_North Dakota,Emmons,ND,North Dakota
+Coke_Texas,Coke,TX,Texas
+Shackelford_Texas,Shackelford,TX,Texas
+Jackson_South Dakota,Jackson,SD,South Dakota
+Concho_Texas,Concho,TX,Texas
+Foster_North Dakota,Foster,ND,North Dakota
+Petersburg_Alaska,Petersburg,AK,Alaska
+Hand_South Dakota,Hand,SD,South Dakota
+Woodson_Kansas,Woodson,KS,Kansas
+Bowman_North Dakota,Bowman,ND,North Dakota
+Baker_Georgia,Baker,GA,Georgia
+Sherman_Texas,Sherman,TX,Texas
+Hall_Texas,Hall,TX,Texas
+Lincoln_Kansas,Lincoln,KS,Kansas
+Sierra_California,Sierra,CA,California
+Sherman_Nebraska,Sherman,NE,Nebraska
+Rush_Kansas,Rush,KS,Kansas
+Stanley_South Dakota,Stanley,SD,South Dakota
+Brown_Nebraska,Brown,NE,Nebraska
+Glascock_Georgia,Glascock,GA,Georgia
+Franklin_Nebraska,Franklin,NE,Nebraska
+Schleicher_Texas,Schleicher,TX,Texas
+Collingsworth_Texas,Collingsworth,TX,Texas
+Clay_Georgia,Clay,GA,Georgia
+Douglas_South Dakota,Douglas,SD,South Dakota
+Fallon_Montana,Fallon,MT,Montana
+Perkins_Nebraska,Perkins,NE,Nebraska
+Perkins_South Dakota,Perkins,SD,South Dakota
+Nelson_North Dakota,Nelson,ND,North Dakota
+Cochran_Texas,Cochran,TX,Texas
+Jewell_Kansas,Jewell,KS,Kansas
+Ness_Kansas,Ness,KS,Kansas
+Edwards_Kansas,Edwards,KS,Kansas
+Decatur_Kansas,Decatur,KS,Kansas
+Trego_Kansas,Trego,KS,Kansas
+Hitchcock_Nebraska,Hitchcock,NE,Nebraska
+Logan_Kansas,Logan,KS,Kansas
+Ziebach_South Dakota,Ziebach,SD,South Dakota
+Aurora_South Dakota,Aurora,SD,South Dakota
+Morton_Kansas,Morton,KS,Kansas
+Harmon_Oklahoma,Harmon,OK,Oklahoma
+Wayne_Utah,Wayne,UT,Utah
+Cheyenne_Kansas,Cheyenne,KS,Kansas
+Pawnee_Nebraska,Pawnee,NE,Nebraska
+Gove_Kansas,Gove,KS,Kansas
+Frontier_Nebraska,Frontier,NE,Nebraska
+Chase_Kansas,Chase,KS,Kansas
+Webster_Georgia,Webster,GA,Georgia
+McIntosh_North Dakota,McIntosh,ND,North Dakota
+Hamilton_Kansas,Hamilton,KS,Kansas
+Butte_Idaho,Butte,ID,Idaho
+Hettinger_North Dakota,Hettinger,ND,North Dakota
+Elk_Kansas,Elk,KS,Kansas
+Graham_Kansas,Graham,KS,Kansas
+Haines_Alaska,Haines,AK,Alaska
+Sheridan_Kansas,Sheridan,KS,Kansas
+Kiowa_Kansas,Kiowa,KS,Kansas
+Wrangell_Alaska,Wrangell,AK,Alaska
+Rawlins_Kansas,Rawlins,KS,Kansas
+Kidder_North Dakota,Kidder,ND,North Dakota
+Renville_North Dakota,Renville,ND,North Dakota
+Niobrara_Wyoming,Niobrara,WY,Wyoming
+Griggs_North Dakota,Griggs,ND,North Dakota
+Rich_Utah,Rich,UT,Utah
+Greeley_Nebraska,Greeley,NE,Nebraska
+Sanborn_South Dakota,Sanborn,SD,South Dakota
+Grant_North Dakota,Grant,ND,North Dakota
+Liberty_Montana,Liberty,MT,Montana
+Divide_North Dakota,Divide,ND,North Dakota
+Sedgwick_Colorado,Sedgwick,CO,Colorado
+Potter_South Dakota,Potter,SD,South Dakota
+Faulk_South Dakota,Faulk,SD,South Dakota
+Adams_North Dakota,Adams,ND,North Dakota
+Eddy_North Dakota,Eddy,ND,North Dakota
+McPherson_South Dakota,McPherson,SD,South Dakota
+Quitman_Georgia,Quitman,GA,Georgia
+Denali_Alaska,Denali,AK,Alaska
+Jeff Davis_Texas,Jeff Davis,TX,Texas
+Garfield_Washington,Garfield,WA,Washington
+Towner_North Dakota,Towner,ND,North Dakota
+Culberson_Texas,Culberson,TX,Texas
+Miner_South Dakota,Miner,SD,South Dakota
+Highland_Virginia,Highland,VA,Virginia
+Dickens_Texas,Dickens,TX,Texas
+Burke_North Dakota,Burke,ND,North Dakota
+Cimarron_Oklahoma,Cimarron,OK,Oklahoma
+Wheatland_Montana,Wheatland,MT,Montana
+Hoonah-Angoon_Alaska,Hoonah-Angoon,AK,Alaska
+Wichita_Kansas,Wichita,KS,Kansas
+Robertson_Kentucky,Robertson,KY,Kentucky
+Menard_Texas,Menard,TX,Texas
+Keweenaw_Michigan,Keweenaw,MI,Michigan
+Oldham_Texas,Oldham,TX,Texas
+Mellette_South Dakota,Mellette,SD,South Dakota
+Stanton_Kansas,Stanton,KS,Kansas
+De Baca_New Mexico,De Baca,NM,New Mexico
+Worth_Missouri,Worth,MO,Missouri
+Cheyenne_Colorado,Cheyenne,CO,Colorado
+Clark_Kansas,Clark,KS,Kansas
+Buffalo_South Dakota,Buffalo,SD,South Dakota
+Haakon_South Dakota,Haakon,SD,South Dakota
+Jerauld_South Dakota,Jerauld,SD,South Dakota
+Gosper_Nebraska,Gosper,NE,Nebraska
+Garfield_Nebraska,Garfield,NE,Nebraska
+Armstrong_Texas,Armstrong,TX,Texas
+Judith Basin_Montana,Judith Basin,MT,Montana
+Boyd_Nebraska,Boyd,NE,Nebraska
+Edwards_Texas,Edwards,TX,Texas
+Dundy_Nebraska,Dundy,NE,Nebraska
+Meagher_Montana,Meagher,MT,Montana
+Gilliam_Oregon,Gilliam,OR,Oregon
+Hodgeman_Kansas,Hodgeman,KS,Kansas
+Logan_North Dakota,Logan,ND,North Dakota
+Piute_Utah,Piute,UT,Utah
+Garden_Nebraska,Garden,NE,Nebraska
+Eureka_Nevada,Eureka,NV,Nevada
+Dolores_Colorado,Dolores,CO,Colorado
+Golden Valley_North Dakota,Golden Valley,ND,North Dakota
+Oliver_North Dakota,Oliver,ND,North Dakota
+Deuel_Nebraska,Deuel,NE,Nebraska
+McCone_Montana,McCone,MT,Montana
+Steele_North Dakota,Steele,ND,North Dakota
+Comanche_Kansas,Comanche,KS,Kansas
+Daniels_Montana,Daniels,MT,Montana
+Sherman_Oregon,Sherman,OR,Oregon
+Cottle_Texas,Cottle,TX,Texas
+Irion_Texas,Irion,TX,Texas
+Taliaferro_Georgia,Taliaferro,GA,Georgia
+Powder River_Montana,Powder River,MT,Montana
+Wallace_Kansas,Wallace,KS,Kansas
+Lane_Kansas,Lane,KS,Kansas
+Glasscock_Texas,Glasscock,TX,Texas
+Kiowa_Colorado,Kiowa,CO,Colorado
+Campbell_South Dakota,Campbell,SD,South Dakota
+Stonewall_Texas,Stonewall,TX,Texas
+Briscoe_Texas,Briscoe,TX,Texas
+Throckmorton_Texas,Throckmorton,TX,Texas
+Wheeler_Oregon,Wheeler,OR,Oregon
+Rock_Nebraska,Rock,NE,Nebraska
+Sheridan_North Dakota,Sheridan,ND,North Dakota
+Lake and Peninsula_Alaska,Lake and Peninsula,AK,Alaska
+Issaquena_Mississippi,Issaquena,MS,Mississippi
+Carter_Montana,Carter,MT,Montana
+Hyde_South Dakota,Hyde,SD,South Dakota
+Harding_South Dakota,Harding,SD,South Dakota
+Sully_South Dakota,Sully,SD,South Dakota
+Foard_Texas,Foard,TX,Texas
+Jackson_Colorado,Jackson,CO,Colorado
+Motley_Texas,Motley,TX,Texas
+Prairie_Montana,Prairie,MT,Montana
+Sterling_Texas,Sterling,TX,Texas
+Sioux_Nebraska,Sioux,NE,Nebraska
+Greeley_Kansas,Greeley,KS,Kansas
+Wibaux_Montana,Wibaux,MT,Montana
+Skagway_Alaska,Skagway,AK,Alaska
+Camas_Idaho,Camas,ID,Idaho
+Alpine_California,Alpine,CA,California
+Garfield_Montana,Garfield,MT,Montana
+Esmeralda_Nevada,Esmeralda,NV,Nevada
+Logan_Nebraska,Logan,NE,Nebraska
+Billings_North Dakota,Billings,ND,North Dakota
+Clark_Idaho,Clark,ID,Idaho
+Terrell_Texas,Terrell,TX,Texas
+Hayes_Nebraska,Hayes,NE,Nebraska
+Bristol Bay_Alaska,Bristol Bay,AK,Alaska
+Hinsdale_Colorado,Hinsdale,CO,Colorado
+Mineral_Colorado,Mineral,CO,Colorado
+Roberts_Texas,Roberts,TX,Texas
+Jones_South Dakota,Jones,SD,South Dakota
+Wheeler_Nebraska,Wheeler,NE,Nebraska
+McMullen_Texas,McMullen,TX,Texas
+Keya Paha_Nebraska,Keya Paha,NE,Nebraska
+Slope_North Dakota,Slope,ND,North Dakota
+Golden Valley_Montana,Golden Valley,MT,Montana
+Grant_Nebraska,Grant,NE,Nebraska
+Banner_Nebraska,Banner,NE,Nebraska
+Hooker_Nebraska,Hooker,NE,Nebraska
+Treasure_Montana,Treasure,MT,Montana
+Yakutat_Alaska,Yakutat,AK,Alaska
+Kent_Texas,Kent,TX,Texas
+Thomas_Nebraska,Thomas,NE,Nebraska
+Borden_Texas,Borden,TX,Texas
+Daggett_Utah,Daggett,UT,Utah
+Loup_Nebraska,Loup,NE,Nebraska
+San Juan_Colorado,San Juan,CO,Colorado
+Kenedy_Texas,Kenedy,TX,Texas
+Blaine_Nebraska,Blaine,NE,Nebraska
+Petroleum_Montana,Petroleum,MT,Montana
+Harding_New Mexico,Harding,NM,New Mexico
+Arthur_Nebraska,Arthur,NE,Nebraska
+McPherson_Nebraska,McPherson,NE,Nebraska
+King_Texas,King,TX,Texas
+Loving_Texas,Loving,TX,Texas
+Kalawao_Hawaii,Kalawao,HI,Hawaii
