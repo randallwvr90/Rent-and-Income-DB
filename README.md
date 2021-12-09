@@ -70,7 +70,7 @@ The ETL process was accomplished using pandas and sqlalchemy in a jupyter notebo
 * Zillow Data
 * Evictionlab Data
   * The evictionlab data was loaded into two tables. The table county_renters_evictions contained data such as rent, eviction filings, actual evictions, and number of renter households, among other data. There was data for each county in each year that data were recorded for that county. The table county_demographics_and_income contained data such as county population size, poverty rate, median household income, and the proportion of each race. 
-  * The data was loaded into the database using th .to_sql() function. 
+  * The data was loaded into the database using the .to_sql() function. 
 
 ## Team Members
 * Abishua Prashanth
