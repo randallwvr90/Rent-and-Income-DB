@@ -17,19 +17,15 @@ This is the "ETL" Project. ETL stands for "Extract, Transform, and Load". From t
 
 ## ETL Project Proposal
 * We propose to create a database which contains historical rent and income information. 
-
+* We will use county data to create a master county table in our database. This will be referenced by the other tables as our data is at the county level. 
 * We will use data from zillow via kaggle for historical rent prices and data from the american community survey for historical per capita income. The data will be at the county level and were recorded monthly. See "Data Sources" for the data sources. 
-
 * We will use data from evictionlab for historical income and eviction data, including eviction filings and actual evictions. These data are at the county level and are recorded yearly.  
-
 * We will create a postgresql database which will contain the data. 
-
 * Next steps:
   * Determine what cleanup steps are necessary. 
   * Clean the data. 
   * Database Design
   * Database population - load the information
-
 * challenges:
 
 ## Report
