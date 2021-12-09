@@ -12,8 +12,8 @@ This is the second group project for the GT Data Science Bootcamp!
 
 This is the "ETL" Project. ETL stands for "Extract, Transform, and Load". From the "Extract, transform, load" Wikipedia article (retrieved 12/08/21):
 
-"In computing, extract, transform, load (ETL) is the general procedure of copying data from one or more sources into a destination system which represents the data differently from the source(s) or in a different context than the source(s)."
-source: [Extract, transform, load](https://en.wikipedia.org/wiki/Extract,_transform,_load)
+> "In computing, extract, transform, load (ETL) is the general procedure of copying data from one or more sources into a destination system which represents the data differently from the source(s) or in a different context than the source(s)."
+source: [Wikipedia](https://en.wikipedia.org/wiki/Extract,_transform,_load)
 
 ## ETL Project Proposal
 * We propose to create a database which contains historical rent and income information. 
