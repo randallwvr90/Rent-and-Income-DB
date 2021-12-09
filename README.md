@@ -94,15 +94,5 @@ https://www.kaggle.com/zillow/rent-index
 https://evictionlab.org/#home-menu
 
 
-Other potential sources:
-Eviction information: https://data-downloads.evictionlab.org/
-Rent prices: https://www.apartmentlist.com/research/category/data-rent-estimates
-Wages: https://www.bls.gov/eag/
-Interactive map: https://evictionlab.org/#home-menu
-https://fred.stlouisfed.org/release/tables?eid=259515&rid=249
-census.gov
-acs per capita income data
-https://www.nhgis.org/
-
 ## github workflow
 The team followed the guidelines set in the [Github Best Practices](https://docs.github.ncsu.edu/github-best-practices/) document. This included making effective use of branching, using .gitignore to prevent tracking files, and writing thoughtful commit messages. The group merged most of the branches during meetings but also used the reviewer function of github when possible. Some branches were merged by their creator when the change was simple enough. 
