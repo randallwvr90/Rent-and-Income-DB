@@ -6,6 +6,7 @@
 3. [Report](#report)
 4. [Team Members](#teammembers)
 5. [Data Sources](#datasources)
+6. [github workflow](#githubworkflow)
 
 ## Background
 This is the second group project for the GT Data Science Bootcamp!
@@ -33,7 +34,7 @@ This is the "ETL" Project. ETL stands for "Extract, Transform, and Load". From t
 
 ## Report
 
-The ETL process was accomplished using pandas and sqlalchemy in a jupyter notebook named ETL_Project.ipynb. All the team members used this repo and followed our stated process for branching, pushing, and merging to the main branch. 
+The ETL process was accomplished using pandas and sqlalchemy in a jupyter notebook named ETL_Project.ipynb. All the team members used this repo and followed our [stated process](#githubworkflow) for branching, pushing, and merging to the main branch. 
 
 ### Extract
 * County Data
@@ -102,3 +103,6 @@ https://fred.stlouisfed.org/release/tables?eid=259515&rid=249
 census.gov
 acs per capita income data
 https://www.nhgis.org/
+
+## github workflow
+The team followed the guidelines set in the [Github Best Practices](https://docs.github.ncsu.edu/github-best-practices/) document. This included making effective use of branching, using .gitignore to prevent tracking files, and writing thoughtful commit messages. The group merged most of the branches during meetings but also used the reviewer function of github when possible. Some branches were merged by their creator when the change was simple enough. 
