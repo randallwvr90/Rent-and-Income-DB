@@ -32,11 +32,13 @@ This is the "ETL" Project. ETL stands for "Extract, Transform, and Load". From t
 The ETL process was accomplished using pandas and sqlalchemy in a jupyter notebook named ETL_Project.ipynb. All the team members used this repo and followed our [stated process](#githubworkflow) for branching, pushing, and merging to the main branch. 
 
 ### Extract
-The County, Zillow, and Evicionlab data were all downloaded as .csv files and imported into the project notebook using pandas.read_csv()
+* The County, Zillow, and Evicionlab data were all downloaded as .csv files and imported into the project notebook using pandas.read_csv()
 
 ### Transform
-* County Data
-  * The county data was left as-is because the county names in the other data sets were changed to match this format. 
+* Master County Data
+  * Create a clean csv
+  * Drop irrelevant columns
+  * Remove duplicate data
 * Zillow Data
   * Zillow had the rental data by month across the columns, which had to be stored in the tables as rows
   * Many of the county names in this data set needed to be changed to match the names in the master county list. 
@@ -55,7 +57,9 @@ The County, Zillow, and Evicionlab data were all downloaded as .csv files and im
 ### Load
 * Database Design and Setup
   * Prior to loading any data, the sql file Database_artifacts/rental_db_ddl.sql was run to set up the four tables in the sql relational database: state_county_master, county_zillow_rental_prices, county_demographics_and_income, and county_renters_evictions
-  * state_county_master used a composite primary key composed of the county and state. The other tables used a composite foreign key tied to this primary key. 
+* County Data
+  * The master county table was loaded for all other tables to reference
+  * The table used a composite primary key composed of the county and state. The other tables used a composite foreign key tied to this primary key. 
 * The county and zillow data were loaded into the state_county_master and the county_zillow_rental_prices tables, respectively. 
 * Evictionlab Data
   * The evictionlab data was loaded into two tables. The table county_renters_evictions contained data such as rent, eviction filings, actual evictions, and number of renter households, among other data. There was data for each county in each year that data were recorded for that county. The table county_demographics_and_income contained data such as county population size, poverty rate, median household income, and the proportion of each race. 
@@ -80,7 +84,7 @@ The County, Zillow, and Evicionlab data were all downloaded as .csv files and im
 https://www.kaggle.com/zillow/rent-index
 * eviction lab data:
 https://evictionlab.org/#home-menu
-* State and County Master List
+* Master county data 
 https://simplemaps.com/data/us-counties
 * State Names and State Codes
 https://worldpopulationreview.com/states/state-abbreviations
