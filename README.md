@@ -32,17 +32,7 @@ This is the "ETL" Project. ETL stands for "Extract, Transform, and Load". From t
 The ETL process was accomplished using pandas and sqlalchemy in a jupyter notebook named ETL_Project.ipynb. All the team members used this repo and followed our [stated process](#githubworkflow) for branching, pushing, and merging to the main branch. 
 
 ### Extract
-* County Data
-  * The county data set was downloaded as a .csv file. 
-  * The data were imported to the ETL_Project notebook using pandas.read_csv()
-* Zillow Data
-  * The data set was downloaded as a .csv file. 
-  * The data were imported to the ETL_Project notebook using pandas.read_csv()
-* Evictionlab Data
-  * The data set was downloaded as a .csv file. 
-  * The data were imported to the ETL_Project notebook using pandas.read_csv()
-* State Names and Codes information
-  * 
+The County, Zillow, and Evicionlab data were all downloaded as .csv files and imported into the project notebook using pandas.read_csv()
 
 ### Transform
 * County Data
