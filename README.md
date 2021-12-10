@@ -3,42 +3,36 @@
 ## Table of Contents
 1. [Background](#background)
 2. [ETL Project Proposal](#etlprojectproposal)
-3. [Team Members](#teammembers)
-4. [Data Sources](#datasources)
+3. [Report](#report)
+4. [Team Members](#teammembers)
+5. [Data Sources](#datasources)
+6. [github workflow](#githubworkflow)
 
 ## Background
 This is the second group project for the GT Data Science Bootcamp!
 
+This is the "ETL" Project. ETL stands for "Extract, Transform, and Load". From the ["Extract, transform, load" Wikipedia article](https://en.wikipedia.org/wiki/Extract,_transform,_load) (retrieved 12/08/21):
+
+> "In computing, extract, transform, load (ETL) is the general procedure of copying data from one or more sources into a destination system which represents the data differently from the source(s) or in a different context than the source(s)."
+
 ## ETL Project Proposal
 * We propose to create a database which contains historical rent and income information. 
-
-* We will use data from zillow via kaggle for historical rent prices and data from the american community survey for historical per capita income. The data will be at the county level. See "Data Sources" for the data sources. 
-
- * We will create a postgresql database which will contain the data. 
-
+* We will use county data to create a master county table in our database. This will be referenced by the other tables as our data is at the county level. 
+* We will use data from zillow via kaggle for historical rent prices and data from the american community survey for historical per capita income. The data will be at the county level and were recorded monthly. See "Data Sources" for the data sources. 
+* We will use data from evictionlab for historical income and eviction data, including eviction filings and actual evictions. These data are at the county level and are recorded yearly.  
+* We will create a postgresql database which will contain the data. 
 * Next steps:
   * Determine what cleanup steps are necessary. 
   * Clean the data. 
   * Database Design
   * Database population - load the information
 
-<<<<<<< Updated upstream
-* challenges:
-=======
 ## Report
 
 The ETL process was accomplished using pandas and sqlalchemy in a jupyter notebook named ETL_Project.ipynb. All the team members used this repo and followed our [stated process](#githubworkflow) for branching, pushing, and merging to the main branch. 
 
 ### Extract
-* County Data
-  * The county data set was downloaded as a .csv file. 
-  * The data were imported to the ETL_Project notebook using pandas.read_csv()
-* Zillow Data
-  * The data set was downloaded as a .csv file. 
-  * The data were imported to the ETL_Project notebook using pandas.read_csv()
-* Evictionlab Data
-  * The data set was downloaded as a .csv file. 
-  * The data were imported to the ETL_Project notebook using pandas.read_csv()
+* The County, Zillow, and Evicionlab data were all downloaded as .csv files and imported into the project notebook using pandas.read_csv()
 
 ### Transform
 * Master County Data
@@ -46,7 +40,9 @@ The ETL process was accomplished using pandas and sqlalchemy in a jupyter notebo
   * Drop irrelevant columns
   * Remove duplicate data
 * Zillow Data
-  *
+  * Zillow had the rental data by month across the columns, which had to be stored in the tables as rows
+  * Many of the county names in this data set needed to be changed to match the names in the master county list. 
+  * The state names were changed from the two-letter abbreviations to the full name using the worldpopulationreview data. 
 * Evictionlab Data
   * The columns "name" and "parent.location" were renamed "county" and "state" to match the state_county_master table. 
   * The data set contained counties and also other divisions such as borroughs and census tracts. The other divisions were eliminated, leaving only counties and their data. 
@@ -61,14 +57,13 @@ The ETL process was accomplished using pandas and sqlalchemy in a jupyter notebo
 ### Load
 * Database Design and Setup
   * Prior to loading any data, the sql file Database_artifacts/rental_db_ddl.sql was run to set up the four tables in the sql relational database: state_county_master, county_zillow_rental_prices, county_demographics_and_income, and county_renters_evictions
-  *
 * County Data
   * The master county table was loaded for all other tables to reference
-* Zillow Data
+  * state_county_master used a composite primary key composed of the county and state. The other tables used a composite foreign key tied to this primary key. 
+* The county and zillow data were loaded into the state_county_master and the county_zillow_rental_prices tables, respectively. 
 * Evictionlab Data
   * The evictionlab data was loaded into two tables. The table county_renters_evictions contained data such as rent, eviction filings, actual evictions, and number of renter households, among other data. There was data for each county in each year that data were recorded for that county. The table county_demographics_and_income contained data such as county population size, poverty rate, median household income, and the proportion of each race. 
-  * The data was loaded into the database using the .to_sql() function. 
->>>>>>> Stashed changes
+* The data were loaded into the database using the .to_sql() function. 
 
 ## Team Members
 * Abishua Prashanth
@@ -91,14 +86,8 @@ https://www.kaggle.com/zillow/rent-index
 https://evictionlab.org/#home-menu
 * Master county data 
 https://simplemaps.com/data/us-counties
+* State Names and State Codes
+https://worldpopulationreview.com/states/state-abbreviations
 
-
-Other potential sources:
-Eviction information: https://data-downloads.evictionlab.org/
-Rent prices: https://www.apartmentlist.com/research/category/data-rent-estimates
-Wages: https://www.bls.gov/eag/
-Interactive map: https://evictionlab.org/#home-menu
-https://fred.stlouisfed.org/release/tables?eid=259515&rid=249
-census.gov
-acs per capita income data
-https://www.nhgis.org/
+## github workflow
+The team followed the guidelines set in the [Github Best Practices](https://docs.github.ncsu.edu/github-best-practices/) document. This included making effective use of branching, using .gitignore to prevent tracking files, and writing thoughtful commit messages. The group merged most of the branches during meetings but also used the reviewer function of github when possible. Some branches were merged by their creator when the change was simple enough. 
