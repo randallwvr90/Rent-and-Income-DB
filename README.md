@@ -59,7 +59,7 @@ The ETL process was accomplished using pandas and sqlalchemy in a jupyter notebo
   * Prior to loading any data, the sql file Database_artifacts/rental_db_ddl.sql was run to set up the four tables in the sql relational database: state_county_master, county_zillow_rental_prices, county_demographics_and_income, and county_renters_evictions
 * County Data
   * The master county table was loaded for all other tables to reference
-  * state_county_master used a composite primary key composed of the county and state. The other tables used a composite foreign key tied to this primary key. 
+  * The table used a composite primary key composed of the county and state. The other tables used a composite foreign key tied to this primary key. 
 * The county and zillow data were loaded into the state_county_master and the county_zillow_rental_prices tables, respectively. 
 * Evictionlab Data
   * The evictionlab data was loaded into two tables. The table county_renters_evictions contained data such as rent, eviction filings, actual evictions, and number of renter households, among other data. There was data for each county in each year that data were recorded for that county. The table county_demographics_and_income contained data such as county population size, poverty rate, median household income, and the proportion of each race. 
