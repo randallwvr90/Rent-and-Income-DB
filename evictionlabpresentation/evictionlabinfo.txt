@@ -1,5 +1,0 @@
-The eviction lab column headers needed to be standardized  
-Burroughs, Census tracts, etc were removed so that only counties remained
-The county names were formatted to match the master county table by removing “ County”
-Shelby County, South Dakota changed to Oglala Lakota County, South Dakota in 2015. 
-
