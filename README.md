@@ -2,20 +2,16 @@
 
 ## Table of Contents
 1. [Background](#background)
-2. [ETL Project Proposal](#etlprojectproposal)
+2. [Project Proposal](#projectproposal)
 3. [Report](#report)
 4. [Team Members](#teammembers)
 5. [Data Sources](#datasources)
 6. [github workflow](#githubworkflow)
 
 ## Background
-This is the second group project for the GT Data Science Bootcamp!
+A project to create a DB for historical rent price and income information. 
 
-This is the "ETL" Project. ETL stands for "Extract, Transform, and Load". From the ["Extract, transform, load" Wikipedia article](https://en.wikipedia.org/wiki/Extract,_transform,_load) (retrieved 12/08/21):
-
-> "In computing, extract, transform, load (ETL) is the general procedure of copying data from one or more sources into a destination system which represents the data differently from the source(s) or in a different context than the source(s)."
-
-## ETL Project Proposal
+## Project Proposal
 * We propose to create a database which contains historical rent and income information. 
 * We will use county data to create a master county table in our database. This will be referenced by the other tables as our data is at the county level. 
 * We will use data from zillow via kaggle for historical rent prices and data from the american community survey for historical per capita income. The data will be at the county level and were recorded monthly. See "Data Sources" for the data sources. 
